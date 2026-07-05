@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Chefs. Chef A wears latex gloves. Chef B wears an anklet. Chef C is surprised. Chef D wears glasses. Chef A and Chef B are helping someone up after they have fallen with each other. Chef C and Chef D are one person shouting while the other looks away with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) upgrading; Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores and natural hair strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has a surprised, shouting expression; body and gaze are oriented toward D. D: Wears realistic glasses; is looking away from C. Full Roll Call (LOCKED): A (wearing latex gloves, helping B) and B (wearing an anklet, being helped by A) remain unchanged. Exclusivity holds: Only C has a surprised/shouting expression. Only D wears glasses. No silhouette overlap; Gap Lane empty. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

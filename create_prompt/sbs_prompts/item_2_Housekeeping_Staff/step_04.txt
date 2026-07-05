@@ -1,0 +1,9 @@
+Step 4:
+Final Goal (Context): Four Housekeeping Staff. Housekeeping Staff A has white hair. Housekeeping Staff B has tattoos on ankle. Housekeeping Staff C has gray eyes. Housekeeping Staff D is frowning. Housekeeping Staff A and Housekeeping Staff B are shaking hands with each other. Housekeeping Staff C and Housekeeping Staff D are exchanging business cards with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of a modern, clean hotel hallway; integrate subtle contact shadows and highlights to ground the subjects in the environment; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity traits are intact.
+
+Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

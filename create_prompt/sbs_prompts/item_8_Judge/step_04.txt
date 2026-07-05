@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Judges. Judge A has camera in hand. Judge B wears leather gloves. Judge C has blonde hair. Judge D is confused. Judge A and Judge B are assembling something, reading instructions together with each other. Judge C and Judge D are helping someone up after they have fallen with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of a modern, well-lit deliberation room or courthouse hallway. Integrate subtle contact shadows and highlights on the subjects to ground them in the environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks (A's camera, B's gloves, C's blonde hair, D's confusion) are intact. Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

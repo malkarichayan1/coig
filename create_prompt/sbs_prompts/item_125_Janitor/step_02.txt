@@ -1,0 +1,17 @@
+Step 2:
+Final Goal (Context): Four Janitors. Janitor A is disgusted. Janitor B wears latex gloves. Janitor C has hazel eyes. Janitor D is tired. Janitor A and Janitor B are whispering a secret into the other's ear with each other. Janitor C and Janitor D are helping someone up after they have fallen with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) upgrading; Cluster 2 (C, D) remains placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity.
+
+This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail.
+
+The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles and texture.
+
+The specific subjects are:
+A: Has a disgusted expression, leaning in and whispering into B's ear. Body and gaze are oriented toward B.
+B: Is wearing blue latex gloves, leaning in and whispering into A's ear. Body and gaze are oriented toward A.
+
+Preserve all poses, Micro-Zones, and spacing. No silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only B wears latex gloves.

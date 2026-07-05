@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Surgeons. Surgeon A wears glasses. Surgeon B has sideburns. Surgeon C has hazel eyes. Surgeon D is content. Surgeon A and Surgeon B are shaking hands with each other. Surgeon C and Surgeon D are one person crossing their arms and glaring while the other tries to talk with each other.
+
+Placement (Compositional Blueprint):
+Fill in C and D; A and B are locked. No position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image with real human skin texture and visible skin pores. Do not move or alter the locked subjects A and B. The new subjects (C and D) have natural hair strands and realistic fabric wrinkles. The specific subjects are: C: Has hazel eyes, arms are crossed, and is glaring at D. Body and gaze are oriented toward D. D: Has a content expression and is trying to talk to C. Body and gaze are oriented toward C. Locked subjects A (wearing glasses, shaking hands with B) and B (with sideburns, shaking hands with A) remain unchanged. Exclusivity: Only C has hazel eyes and is glaring with crossed arms. Only D is content. The Gap Lane remains empty. Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

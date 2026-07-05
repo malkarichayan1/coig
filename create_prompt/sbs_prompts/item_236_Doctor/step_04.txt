@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Doctors. Doctor A is thoughtful. Doctor B wears ear piercings. Doctor C has straight hair. Doctor D has gray eyes. Doctor A and Doctor B are shaking hands with each other. Doctor C and Doctor D are helping someone up after they have fallen with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of a city park path; integrate subtle contact shadows and highlights on the subjects to match the environment; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact.

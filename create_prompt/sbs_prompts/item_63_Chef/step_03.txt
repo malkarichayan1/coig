@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Chefs. Chef A has tattoos on leg. Chef B is crying. Chef C has bun hair. Chef D is serious. Chef A and Chef B are exchanging business cards with each other. Chef C and Chef D are one person shouting while the other looks away with each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has their hair in a bun with individual hair strands visible. Has a shouting expression, with their body and gaze oriented toward D. D: Has a serious expression. Their body and gaze are oriented away from C. Full Roll Call (LOCKED): A (tattoos on leg, facing B) & B (crying, facing A) remain unchanged. Exclusivity holds: Only C has bun hair and is shouting. Only D is serious and looking away. No overlaps; Gap Lane empty.

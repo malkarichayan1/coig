@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Construction Workers. Construction Worker A wears rings. Construction Worker B is surprised. Construction Worker C wears sunglasses. Construction Worker D has piercings on ears. Construction Worker A and Construction Worker B are looking at the same phone or tablet screen with each other. Construction Worker C and Construction Worker D are kneeling before someone with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic construction site background; integrate subtle contact shadows/highlights; do not move or alter any person. Confirm each individual fully visible, no cross-zone occlusion, and exclusivity intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

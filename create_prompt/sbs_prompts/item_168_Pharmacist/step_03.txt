@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Pharmacists. Pharmacist A has tattoos on leg. Pharmacist B has coffee cup in hand. Pharmacist C is smiling. Pharmacist D is crying. Pharmacist A and Pharmacist B are assembling something, reading instructions together with each other. Pharmacist C and Pharmacist D are high-fiving with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) upgrading; Cluster 1 (A, B) is locked.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image using a sharp focus, shot on a high-resolution DSLR. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores and individual hair strands. Their clothing has realistic fabric wrinkles. The specific subjects are: C: Is smiling with a natural expression. C's body and gaze are oriented toward D as they high-five. D: Is crying, with visible tears on their face and a sad expression. D's body and gaze are oriented toward C as they high-five. Full Roll Call (LOCKED): A (tattoos on leg, facing B) & B (coffee cup, facing A) remain unchanged. Exclusivity: Only C is smiling. Only D is crying. No silhouette overlaps; Gap Lane is empty. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

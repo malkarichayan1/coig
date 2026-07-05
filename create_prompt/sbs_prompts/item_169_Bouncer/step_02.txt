@@ -1,0 +1,10 @@
+Step 2:
+Final Goal (Context): Four Bouncers. Bouncer A has gray eyes. Bouncer B has gray hair. Bouncer C has tattoos on ankle. Bouncer D is excited. Bouncer A and Bouncer B are taking a pulse with each other. Bouncer C and Bouncer D are looking at the same phone or tablet screen with each other.
+
+Placement (Compositional Blueprint):
+Filling in A and B; C and D remain placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail. The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are:
+A: A bouncer with gray eyes, body and gaze oriented toward B, fingers on B's wrist to take a pulse.
+B: A bouncer with gray hair, body and gaze oriented toward A, allowing A to take their pulse.
+Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A has gray eyes. Only B has gray hair.

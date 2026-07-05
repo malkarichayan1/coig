@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Doctors. Doctor A has blue eyes. Doctor B has stubble. Doctor C wears latex gloves. Doctor D is crying. Doctor A and Doctor B are exchanging business cards with each other. Doctor C and Doctor D are waving to each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of a modern, brightly lit hospital corridor. Integrate subtle contact shadows and highlights on the subjects to match the environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks remain intact.

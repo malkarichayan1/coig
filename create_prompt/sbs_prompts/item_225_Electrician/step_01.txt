@@ -1,0 +1,14 @@
+Step 1:
+Final Goal (Context): Four Electricians. Electrician A has backpack in hand. Electrician B has blonde hair. Electrician C wears watch. Electrician D has beard. Electrician A and Electrician B are whispering a secret into the other's ear with each other. Electrician C and Electrician D are one person crossing their arms and glaring while the other tries to talk with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create four real-world, photographed placeholders that look like a human artist’s block-in: matte neutral gray mannequins or gray morph-suit actors with blank masks, photographed on a plain seamless background with soft studio light. Faces have no pupils/irises/eyelashes/eyebrows/teeth. Hair is a single matte mass. Clothing is plain gray forms. Props are simple gray primitives.
+
+A: Leaning close to B, head turned to whisper in B's ear. Holding a simple gray block shape representing a backpack.
+B: Leaning close to A, head turned to whisper in A's ear. Hair is a single matte mass.
+C: Body and gaze oriented toward D, in a talking pose with a slightly open mouth. A plain gray band is on the left wrist for the watch.
+D: Arms crossed, body and gaze oriented toward C, in a glaring pose with head slightly tilted down. A flat gray patch covers the chin and jaw area for the beard.
+
+Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

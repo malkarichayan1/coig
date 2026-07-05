@@ -1,0 +1,13 @@
+Step 3:
+Final Goal (Context): Four Housekeeping Staff. Housekeeping Staff A is disgusted. Housekeeping Staff B wears latex gloves. Housekeeping Staff C has buzz cut hair. Housekeeping Staff D is surprised. Housekeeping Staff A and Housekeeping Staff B are kneeling before someone with each other. Housekeeping Staff C and Housekeeping Staff D are one person pointing an accusatory finger at the other with each other.
+
+Placement (Compositional Blueprint):
+Filling in C and D; A and B are locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail. The subjects now display natural, realistic human skin texture with visible pores and fine hairs. Their hair shows individual strands and realistic highlights. Their clothing has realistic fabric wrinkles, seams, and texture. Do not move or alter the locked subjects A and B.
+
+The specific subjects are:
+C: Standing, body and gaze oriented toward D, pointing an accusatory finger at D. C has very short buzz cut hair with realistic, individual hair strands.
+D: Standing, body and gaze oriented toward C, with a surprised facial expression.
+
+Full Roll Call (LOCKED): A (kneeling, disgusted, facing B) & B (kneeling, wearing latex gloves, facing A) remain unchanged. Exclusivity: Only C has buzz cut hair and is pointing. Only D has a surprised expression. No overlaps; Gap Lane empty.

@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Plumbers. Plumber A wears glasses. Plumber B has beard. Plumber C is happy. Plumber D is confused. Plumber A and Plumber B are exchanging business cards with each other. Plumber C and Plumber D are shaking hands with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) upgrading; Cluster 1 (A, B) locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has a happy expression; body and gaze oriented toward D, shaking hands with D. D: Has a confused expression; body and gaze oriented toward C, shaking hands with C. Full Roll Call (LOCKED): A (wears glasses, facing B) & B (has beard, facing A) remain unchanged. Exclusivity holds: Only C is happy. Only D is confused. No overlaps; Gap Lane empty. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

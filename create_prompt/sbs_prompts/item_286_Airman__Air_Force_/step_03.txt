@@ -1,0 +1,10 @@
+Step 3:
+Final Goal (Context): Four Airmen. Airman A has gray eyes. Airman B has water bottle in hand. Airman C wears ear piercings. Airman D has tattoos on leg. Airman A and Airman B are placing a comforting hand on the other's shoulder or back with each other. Airman C and Airman D are taking a pulse with each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image shot on a high-resolution DSLR with an 85mm portrait lens. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores and natural hair strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are:
+C: Wears visible ear piercings. Taking D's pulse, with fingers on D's wrist. Body and gaze are oriented toward D.
+D: Has visible tattoos on one leg. Having pulse taken by C, arm extended. Body and gaze are oriented toward C.
+Full Roll Call (LOCKED): A (gray eyes, comforting B) & B (water bottle, comforting A) remain unchanged. Preserve all poses, Micro-Zones, spacing, and the empty Gap Lane. Exclusivity: Only C has ear piercings. Only D has leg tattoos.

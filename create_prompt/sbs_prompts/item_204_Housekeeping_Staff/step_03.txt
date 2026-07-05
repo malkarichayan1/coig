@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Housekeeping Staff. Housekeeping Staff A has tote bag in hand. Housekeeping Staff B has sideburns. Housekeeping Staff C is surprised. Housekeeping Staff D has ponytail hair. Housekeeping Staff A and Housekeeping Staff B are whispering a secret into the other's ear with each other. Housekeeping Staff C and Housekeeping Staff D are helping someone up after they have fallen with each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked and immutable.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image shot on a high-resolution DSLR with an 85mm portrait lens. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores and natural hair strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has a surprised facial expression, reaching down and forward with both hands to help someone up. Body and gaze are oriented toward D. D: Has her hair styled in a ponytail with individual hair strands visible. She is also reaching down and forward to help, looking at C. Body and gaze are oriented toward C. Full Roll Call (LOCKED): A (with tote bag, whispering to B) & B (with sideburns, listening to A) remain unchanged. Exclusivity holds: Only C has a surprised expression. Only D has a ponytail. No silhouette overlap; Gap Lane empty.

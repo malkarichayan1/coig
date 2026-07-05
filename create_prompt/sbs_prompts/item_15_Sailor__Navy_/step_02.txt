@@ -1,0 +1,17 @@
+Step 2:
+Final Goal (Context): Four Sailors (Navy). Sailor A wears necklace. Sailor B has camera in hand. Sailor C is determined. Sailor D has gray eyes. Sailor A and Sailor B are one person shouting while the other looks away with each other. Sailor C and Sailor D are looking at the same phone or tablet screen with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) is being filled in; Cluster 2 (C, D) remains as placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity.
+
+This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail.
+
+The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their Navy uniforms have realistic fabric wrinkles, seams, and texture.
+
+The specific subjects are:
+A: A sailor wearing a necklace, shouting with an intense expression, body and gaze directed at B.
+B: A sailor holding a realistic camera, with their head and gaze turned away from A.
+
+Preserve all poses, Micro-Zones, and spacing. No silhouette overlap; Gap Lane empty. Placeholders C and D remain completely unchanged. Exclusivity: Only A wears a necklace. Only B holds a camera.

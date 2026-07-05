@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Bartenders. Bartender A has coffee cup in hand. Bartender B has curly hair. Bartender C wears rings. Bartender D has tattoos on neck. Bartender A and Bartender B are shaking hands with each other. Bartender C and Bartender D are bowing to each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores and fine hairs. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Wears realistic rings on their fingers, bowing to D, body and gaze oriented toward D. D: Has realistic tattoos on their neck, bowing to C, body and gaze oriented toward C. Locked subjects A (holding coffee cup, facing B) and B (curly hair, facing A) remain unchanged. Preserve all poses, Micro-Zones, spacing; no silhouette overlap; Gap Lane empty. Exclusivity: Only C wears rings. Only D has neck tattoos.

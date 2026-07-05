@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Pharmacists. Pharmacist A has blonde hair. Pharmacist B wears latex gloves. Pharmacist C is joyful. Pharmacist D is confused. Pharmacist A and Pharmacist B are taking a pulse with each other. Pharmacist C and Pharmacist D are one person placing a comforting hand on the other's shoulder or back with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) upgrading; Cluster 1 (A, B) locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible pores and realistic fabric wrinkles. The specific subjects are: C: Has a joyful facial expression. C is placing a comforting hand on D's shoulder, with body and gaze oriented toward D. D: Has a confused facial expression. D is receiving the comforting gesture from C, with body and gaze oriented toward C. Full Roll Call (LOCKED): A (blonde hair, taking pulse) and B (latex gloves, receiving pulse check) remain unchanged. Exclusivity holds: Only C is joyful. Only D is confused. No silhouette overlap; Gap Lane empty. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

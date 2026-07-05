@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Firefighters. Firefighter A is excited. Firefighter B has tablet in hand. Firefighter C has hazel eyes. Firefighter D wears sunglasses. Firefighter A and Firefighter B are one person crossing their arms and glaring while the other tries to talk with each other. Firefighter C and Firefighter D are looking at the same phone or tablet screen with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of a clean, well-lit fire station apparatus bay. Integrate subtle contact shadows and realistic environmental lighting on the subjects to blend them into the scene. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity traits remain intact.

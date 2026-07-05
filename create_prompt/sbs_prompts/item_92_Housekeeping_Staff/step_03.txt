@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Housekeeping Staffs. Housekeeping Staff A has hazel eyes. Housekeeping Staff B has camera in hand. Housekeeping Staff C has sideburns. Housekeeping Staff D wears Winter gloves. Housekeeping Staff A and Housekeeping Staff B are pouring the other a cup of tea or coffee with each other. Housekeeping Staff C and Housekeeping Staff D are waving to each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) is being filled in; Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image using a high-resolution DSLR and an 85mm portrait lens with soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores and their uniforms have realistic fabric wrinkles and texture. The specific subjects are: C: A housekeeping staff member with distinct sideburns, raising their right hand to wave at D. Body and gaze are oriented toward D. D: A housekeeping staff member wearing thick Winter gloves, raising their left hand to wave back at C. Body and gaze are oriented toward C. Full Roll Call (LOCKED): A (hazel eyes, pouring tea, facing B) & B (holding camera and cup, facing A) remain unchanged. Exclusivity: Only C has sideburns. Only D wears Winter gloves. No silhouette overlap; Gap Lane empty.

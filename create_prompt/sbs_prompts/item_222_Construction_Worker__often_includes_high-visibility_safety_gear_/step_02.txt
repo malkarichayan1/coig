@@ -1,0 +1,17 @@
+Step 2:
+Final Goal (Context): Four Construction Workers. Construction Worker A has coffee cup in hand. Construction Worker B is scared. Construction Worker C has goatee. Construction Worker D is excited. Construction Worker A and Construction Worker B are one person shouting while the other looks away with each other. Construction Worker C and Construction Worker D are waving to each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) is being filled in; Cluster 2 (C, D) remains as placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity.
+
+This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail.
+
+The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their construction worker clothing has realistic fabric wrinkles, seams, and texture.
+
+The specific subjects are:
+A: Shouting with an intense expression, body and gaze oriented toward B. Left hand holds a realistic coffee cup.
+B: Has a scared expression, head and gaze turned away from A.
+
+Preserve all poses, Micro-Zones, and spacing. No silhouette overlap; Gap Lane remains empty. Placeholders C and D are unchanged. Exclusivity: Only A has a coffee cup and is shouting. Only B is scared and looking away.

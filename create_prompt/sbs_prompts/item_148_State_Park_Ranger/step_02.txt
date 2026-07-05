@@ -1,0 +1,7 @@
+Step 2:
+Final Goal (Context): Four State Park Rangers. State Park Ranger A has red hair. State Park Ranger B wears a lip piercing. State Park Ranger C wears glasses. State Park Ranger D has camera in hand. State Park Ranger A and State Park Ranger B are bowing to each other. State Park Ranger C and State Park Ranger D are shaking hands with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) is being filled in; Cluster 2 (C, D) remains as placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp. The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: A: A State Park Ranger with natural red hair, bowing with body and gaze oriented toward B. B: A State Park Ranger with a lip piercing, bowing with body and gaze oriented toward A. Preserve all poses, Micro-Zones, and spacing. The Gap Lane remains empty. Placeholders C and D remain unchanged. Exclusivity: Only A has red hair. Only B has a lip piercing.

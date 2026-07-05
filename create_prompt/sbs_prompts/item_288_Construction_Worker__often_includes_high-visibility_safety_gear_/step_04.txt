@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Construction Workers. Construction Worker A has ponytail hair. Construction Worker B is crying. Construction Worker C has goatee. Construction Worker D has suitcase in hand. Construction Worker A and Construction Worker B are one person turning their back on the other while they are speaking with each other. Construction Worker C and Construction Worker D are one person shouting while the other looks away with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked; Gap Lane is empty.
+
+This Step's Action: Add a hyperrealistic construction site background; integrate subtle contact shadows and highlights where the subjects' feet meet the ground; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks remain intact.

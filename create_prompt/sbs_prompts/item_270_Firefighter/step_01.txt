@@ -1,0 +1,18 @@
+Step 1:
+Final Goal (Context): Four Firefighters. Firefighter A has tattoos on neck. Firefighter B has gray eyes. Firefighter C wears rings. Firefighter D is thoughtful. Firefighter A and Firefighter B are helping someone up after they have fallen with each other. Firefighter C and Firefighter D are assembling something, reading instructions together with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 left; Cluster 2 right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create real-world, photographed placeholders for four subjects that look like a human artist’s block-in. Material: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces have no pupils/irises/eyelashes/eyebrows/teeth. Hair is a single matte mass. Clothing is plain gray forms. Props are simple gray primitives.
+
+Cluster 1 (Left): A and B interact. A is standing and leaning over, extending a hand down to help B. B is on one knee, reaching up to take A's hand. They are oriented toward each other.
+- A: Pose is helping B up, body and gaze oriented toward B. A flat gray patch on the neck indicates the tattoo area.
+- B: Pose is being helped up, body and gaze oriented toward A.
+
+Cluster 2 (Right): C and D interact. They are standing close together, looking down at a simple gray block representing an object and a flat gray plane representing instructions held between them.
+- C: Body and gaze oriented toward the instructions and D. Simple gray tori are on the fingers to represent rings.
+- D: Body and gaze oriented toward the instructions and C. Pose is thoughtful, with head slightly tilted.
+
+Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

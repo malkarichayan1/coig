@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Surgeons. Surgeon A wears glasses. Surgeon B has sideburns. Surgeon C has hazel eyes. Surgeon D is content. Surgeon A and Surgeon B are shaking hands with each other. Surgeon C and Surgeon D are one person crossing their arms and glaring while the other tries to talk with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create four real-world, photographed matte neutral gray mannequins on a plain seamless background with soft studio light. Faces are de-identified (no pupils/irises/eyelashes/eyebrows/teeth). Hair is a single matte mass. Clothing is a plain gray form. Props are simple gray primitives. This step captures only pose, gesture, and silhouette. A and B are positioned to shake hands, bodies and gazes oriented toward each other. A has a simple gray primitive for glasses. B has flat gray patches for sideburns. C has arms crossed, body and gaze oriented toward D. D has a talking gesture (hand slightly raised), body and gaze oriented toward C. Each person is fully visible with slight yaw offsets. There is no silhouette overlap and the Gap Lane is empty. ABSOLUTELY NO COLOR. Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

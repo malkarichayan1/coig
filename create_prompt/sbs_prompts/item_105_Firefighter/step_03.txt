@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Firefighters. Firefighter A has straight hair. Firefighter B has Smartphone in hand. Firefighter C has tattoos on ankle. Firefighter D is excited. Firefighter A and Firefighter B are pouring the other a cup of tea or coffee with each other. Firefighter C and Firefighter D are one person turning their back on the other while they are speaking with each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has visible, realistic tattoos on their ankle. C's back is turned to D, but C is looking over their shoulder at D as they speak. D: Has an excited facial expression. D is facing C and speaking to them. Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Locked subjects A and B remain unchanged. Exclusivity: Only C has tattoos on their ankle. Only D has an excited expression.

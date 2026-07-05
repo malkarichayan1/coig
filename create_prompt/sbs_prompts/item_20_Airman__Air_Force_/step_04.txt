@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Airmen. Airman A has a beard. Airman B has purse in hand. Airman C has white hair. Airman D wears glasses. Airman A and Airman B are high-fiving with each other. Airman C and Airman D are taking a pulse with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked in their final hyperrealistic state. The Gap Lane remains empty.
+
+This Step's Action: Add a hyperrealistic air force base background to the scene. Integrate subtle contact shadows and highlights on the subjects to ground them in the new environment. Do not move, alter, or rescale any of the four people. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks (A's beard, B's purse, C's white hair, D's glasses) are intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

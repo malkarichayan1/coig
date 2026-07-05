@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Supermarket Employees. Supermarket Employee A is proud. Supermarket Employee B is surprised. Supermarket Employee C has straight hair. Supermarket Employee D has red hair. Supermarket Employee A and Supermarket Employee B are looking at the same phone or tablet screen with each other. Supermarket Employee C and Supermarket Employee D are one person crossing their arms and glaring while the other tries to talk with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic supermarket aisle background; integrate subtle contact shadows and realistic environmental lighting on the subjects; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all trait exclusivity is intact.

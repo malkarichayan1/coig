@@ -1,0 +1,7 @@
+Step 2:
+Final Goal (Context): Four Chefs. Chef A has tattoos on leg. Chef B is crying. Chef C has bun hair. Chef D is serious. Chef A and Chef B are exchanging business cards with each other. Chef C and Chef D are one person shouting while the other looks away with each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 1 (A, B); Cluster 2 (C, D) remains as placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail. The subjects now display natural, realistic human skin texture with visible pores and fine hairs. Their hair shows individual strands and realistic highlights. Their clothing has realistic fabric wrinkles, seams, and texture. The specific subjects are: A: Has realistic tattoos on their leg. Body and gaze are oriented toward B while exchanging a business card. B: Is visibly crying, with realistic tears on their face. Body and gaze are oriented toward A while exchanging a business card. Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A has leg tattoos. Only B is crying.

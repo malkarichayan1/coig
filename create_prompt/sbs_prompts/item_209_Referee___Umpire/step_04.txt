@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Referee / Umpires. Referee / Umpire A has tattoos on neck. Referee / Umpire B is bored. Referee / Umpire C wears leather gloves. Referee / Umpire D has red hair. Referee / Umpire A and Referee / Umpire B are waving to each other. Referee / Umpire C and Referee / Umpire D are bowing to each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked. Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of a professional sports stadium playing field; integrate subtle contact shadows and highlights on the subjects to match the environment; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks (A: neck tattoos, B: bored, C: leather gloves, D: red hair) are intact. Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

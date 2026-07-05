@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Doctors. Doctor A is smiling. Doctor B wears leather gloves. Doctor C wears anklet. Doctor D has tote bag in hand. Doctor A and Doctor B are taking a pulse with each other. Doctor C and Doctor D are exchanging a fist bump with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of a bright, modern hospital corridor; integrate subtle contact shadows/highlights where the subjects' feet meet the floor; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

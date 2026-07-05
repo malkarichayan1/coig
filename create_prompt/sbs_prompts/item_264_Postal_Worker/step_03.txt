@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Postal Workers. Postal Worker A is smiling. Postal Worker B wears headphones. Postal Worker C has tattoos on leg. Postal Worker D wears nose piercing. Postal Worker A and Postal Worker B are arguing face-to-face, with expressive hand gestures with each other. Postal Worker C and Postal Worker D are one person pointing an accusatory finger at the other with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) is being filled in; Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has realistic tattoos on their leg, body and gaze oriented toward D, pointing an accusatory finger at D. D: Wears a realistic nose piercing, body and gaze oriented toward C, pointing an accusatory finger at C. Full Roll Call (LOCKED): A (smiling, facing B) & B (wearing headphones, facing A) remain unchanged. Exclusivity holds: Only C has leg tattoos, only D has a nose piercing. No overlaps; Gap Lane empty.

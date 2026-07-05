@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Bartenders. Bartender A has wavy hair. Bartender B wears glasses. Bartender C has piercings on ears. Bartender D has brown hair. Bartender A and Bartender B are bowing to each other. Bartender C and Bartender D are shaking hands with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C & D) is being filled in; Cluster 1 (A & B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional photorealistic image shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has visible piercings on ears; body and gaze are oriented toward D, shaking hands with D. D: Has brown hair with natural, individual hair strands; body and gaze are oriented toward C, shaking hands with C. Full Roll Call (LOCKED): A (wavy hair, bowing toward B) & B (wearing glasses, bowing toward A) remain unchanged. Exclusivity: Only C has piercings. Only D has brown hair. No overlaps; Gap Lane empty. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Marines. Marine A is confused. Marine B has blue eyes. Marine C wears eyebrow piercing. Marine D wears bracelet. Marine A and Marine B are kneeling before each other. Marine C and Marine D are doing a fist bump with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create a real-world photograph of four matte neutral gray mannequins (or morph-suit actors with blank masks) on a plain seamless background with soft studio lighting. Faces have no features (no pupils, eyebrows, etc.). Hair is a single matte mass. Clothing is a plain gray form. Props are simple gray primitives. The goal is to capture pose and silhouette only. A and B are in Cluster 1 on the left, kneeling and facing each other. C and D are in Cluster 2 on the right, standing and performing a fist bump, facing each other. C has a small gray primitive on its eyebrow ridge representing a piercing. D has a simple gray torus on its wrist representing a bracelet. Each person is fully visible with slight yaw offsets. There is no silhouette overlap and the Gap Lane between clusters is empty. ABSOLUTELY NO COLOR. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

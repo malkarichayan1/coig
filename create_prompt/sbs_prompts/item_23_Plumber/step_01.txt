@@ -1,0 +1,14 @@
+Step 1:
+Final Goal (Context): Four Plumbers. Plumber A has water bottle in hand. Plumber B wears latex gloves. Plumber C is surprised. Plumber D wears necklace. Plumber A and Plumber B are pouring the other a cup of tea or coffee with each other. Plumber C and Plumber D are waving to each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create four real-world, photographed placeholders that look like a human artist’s block-in: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces have no pupils/irises/eyelashes/eyebrows/teeth. Hair is a single matte mass. Clothing is plain gray forms. Props are simple gray primitives.
+
+A: Body and gaze oriented toward B, posed pouring from a simple gray cylinder (kettle/pot) into a cup held by B. A separate simple gray cylinder (water bottle) is held in A's other hand.
+B: Body and gaze oriented toward A, holding a simple gray cylinder (cup) to receive the pour. Hands are covered in simple gray forms to indicate gloves.
+C: Body and gaze oriented toward D, right hand raised in a wave. A shallow 'o' shape for the mouth implies surprise.
+D: Body and gaze oriented toward C, left hand raised in a wave. A simple gray torus shape is around the neck for the necklace.
+
+Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

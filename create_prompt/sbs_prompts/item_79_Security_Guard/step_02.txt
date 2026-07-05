@@ -1,0 +1,7 @@
+Step 2:
+Final Goal (Context): Four Security Guards. Security Guard A has apple in hand. Security Guard B wears Necklace. Security Guard C is disgusted. Security Guard D is serene. Security Guard A and Security Guard B are having conversations with each other. Security Guard C and Security Guard D are arguing face-to-face, with expressive hand gestures with each other.
+
+Placement (Compositional Blueprint):
+Filling in A and B; C and D remain placeholders. No position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is a hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: A: A security guard holding a realistic apple, body and gaze oriented toward B, in a conversational pose. B: A security guard wearing a necklace, body and gaze oriented toward A, in a conversational pose. Preserve all poses, Micro-Zones, and spacing. Gap Lane remains empty. Placeholders C and D are unchanged. Exclusivity: Only A has an apple. Only B wears a necklace.

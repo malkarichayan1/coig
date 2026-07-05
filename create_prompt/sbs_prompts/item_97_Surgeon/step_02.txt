@@ -1,0 +1,12 @@
+Step 2:
+Final Goal (Context): Four Surgeons. Surgeon A wears leather gloves. Surgeon B has tablet in hand. Surgeon C wears glasses. Surgeon D has bun hair. Surgeon A and Surgeon B are shouting while the other looks away with each other. Surgeon C and Surgeon D are turning their back on the other while they are speaking with each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 1 (A, B); Cluster 2 (C, D) remains placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail. The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles and texture.
+The specific subjects are:
+A: Wears realistic leather gloves. Has a shouting expression, with body and gaze oriented toward B.
+B: Holds a realistic tablet computer. Has a shouting expression, with body and gaze oriented toward A.
+Preserve all poses, Micro-Zones, and spacing. No silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A wears leather gloves. Only B has a tablet.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

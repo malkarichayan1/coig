@@ -1,0 +1,18 @@
+Step 2:
+Final Goal (Context): Four Sailors. Sailor A wears leather gloves. Sailor B has tablet in hand. Sailor C has Coffee cup in hand. Sailor D has curly hair. Sailor A and Sailor B are waving to each other. Sailor C and Sailor D are pouring the other a cup of tea or coffee with each other.
+
+Placement (Compositional Blueprint):
+Filling in subjects A and B. Subjects C and D remain as matte gray placeholders. No position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity.
+
+This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail.
+
+The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their sailor uniforms have realistic fabric wrinkles, seams, and texture.
+
+The specific subjects are:
+A: Waving with his left hand, which is covered by a detailed, textured leather glove. His body and gaze are oriented toward B.
+B: Waving with his right hand, body and gaze oriented toward A. His left hand holds a modern digital tablet with a dark screen.
+
+Placeholders C and D remain unchanged as matte gray forms. Preserve all poses, Micro-Zones, spacing (≥ one head-width), and yaw. No silhouette overlap. Gap Lane remains empty. Exclusivity: Only A wears leather gloves. Only B has a tablet.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

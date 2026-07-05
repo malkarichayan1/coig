@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Doctors. Doctor A is thoughtful. Doctor B wears ear piercings. Doctor C has straight hair. Doctor D has gray eyes. Doctor A and Doctor B are shaking hands with each other. Doctor C and Doctor D are helping someone up after they have fallen with each other.
+
+Placement (Compositional Blueprint):
+Fill in C and D; A and B are locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores and realistic fabric wrinkles. The specific subjects are: C: Has straight hair with individual, natural strands visible; body and gaze oriented toward D while helping someone up. D: Has distinct gray eyes; body and gaze oriented toward C while helping someone up. Locked subjects A (thoughtful, facing B) and B (ear piercings, facing A) remain unchanged. Exclusivity: Only C has straight hair, only D has gray eyes. No silhouette overlap; Gap Lane empty.

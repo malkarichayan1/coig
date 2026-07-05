@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Security Guards. Security Guard A is bored. Security Guard B has blue eyes. Security Guard C wears latex gloves. Security Guard D has stubble. Security Guard A and Security Guard B are kneeling before each other. Security Guard C and Security Guard D are doing a fist bump with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create real-world, photographed placeholders for four subjects that look like a human artist’s block-in. Material: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives. The placeholders are posed as follows: Cluster 1 (left): A and B are kneeling, facing each other. A's posture is slightly slumped to imply boredom. Cluster 2 (right): C and D are standing, facing each other, performing a fist bump. C's hands are a single smooth form. D has a flat gray patch on the chin to indicate stubble. Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

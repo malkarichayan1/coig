@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Marines. Marine A has grocery bag in hand. Marine B wears sunglasses. Marine C has tattoos on neck. Marine D is joyful. Marine A and Marine B are shaking hands with each other. Marine C and Marine D are taking a pulse with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create real-world, photographed placeholders for each subject that look like a human artist’s block-in. Material: matte neutral gray mannequins / gray morph-suit actors with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives. A: Body and gaze oriented toward B, right hand extended to shake hands. Left hand holds a simple gray cuboid (grocery bag). B: Body and gaze oriented toward A, left hand extended to shake hands. A simple gray bar covers the eye area to represent sunglasses. C: Body and gaze oriented toward D, right hand positioned on D's left wrist to take a pulse. A flat gray patch on the neck indicates tattoos. D: Body and gaze oriented toward C, left wrist extended for C. A shallow upward curve on the mouth implies a joyful expression. Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Flight Attendants. Flight Attendant A wears Winter gloves. Flight Attendant B has Coffee cup in hand. Flight Attendant C has laptop in hand. Flight Attendant D wears glasses. Flight Attendant A and Flight Attendant B are one person shouting while the other looks away with each other. Flight Attendant C and Flight Attendant D are one person pointing an accusatory finger at the other with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create real-world, photographed placeholders for four subjects that look like a human artist’s block-in. Material: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives. A: In a shouting pose with mouth agape, body and gaze oriented toward B. Hands are simple gray mitten shapes representing gloves. B: Body oriented toward A but head is turned away. One hand holds a simple gray cylinder (coffee cup). C: Body and gaze oriented toward D. One arm holds a flat gray rectangle (laptop), the other arm is extended, pointing an accusatory finger at D. D: Body and gaze oriented toward C, reacting to being pointed at. A simple gray frame shape is on D's face for glasses. Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

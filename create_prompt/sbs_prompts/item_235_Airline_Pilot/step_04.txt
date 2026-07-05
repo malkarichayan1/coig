@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Airline Pilots. Airline Pilot A has sideburns. Airline Pilot B has tattoos on leg. Airline Pilot C wears sunglasses. Airline Pilot D is determined. Airline Pilot A and Airline Pilot B are kneeling before someone with each other. Airline Pilot C and Airline Pilot D are taking a pulse with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic airport tarmac background to the scene. Integrate subtle contact shadows and highlights on the subjects to blend them with the new environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks (A's sideburns, B's leg tattoos, C's sunglasses, D's determined expression) are intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

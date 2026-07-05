@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Pharmacists. Pharmacist A wears piercings on ears. Pharmacist B has a mustache. Pharmacist C has afro hair. Pharmacist D is angry. Pharmacist A and Pharmacist B are kneeling before someone with each other. Pharmacist C and Pharmacist D are taking a pulse with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic pharmacy interior background; integrate subtle contact shadows and highlights to ground the subjects in the environment; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

@@ -1,0 +1,14 @@
+Step 1:
+Final Goal (Context): Four Bank Tellers. Bank Teller A has fades hair. Bank Teller B has mustache. Bank Teller C is laughing. Bank Teller D wears latex gloves. Bank Teller A and Bank Teller B are whispering a secret into the other's ear with each other. Bank Teller C and Bank Teller D are one person crossing their arms and glaring while the other tries to talk with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create real-world, photographed placeholders for four subjects that look like a human artist’s block-in. Material: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives.
+
+A: Leaning in towards B, head turned to whisper in B's ear. Fades hair is a smooth, sculpted mass, shorter on the sides.
+B: Leaning in towards A, head turned to whisper in A's ear. Mustache is a simple gray shape on the upper lip.
+C: Body and gaze oriented toward D. Laughing pose is indicated by an open mouth shape and head tilted slightly back.
+D: Body and gaze oriented toward C. Arms are crossed over the chest. Hands are covered in simple, smooth gray forms representing gloves.
+
+Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

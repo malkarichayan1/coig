@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Casino Dealers. Casino Dealer A has smartphone in hand. Casino Dealer B has backpack in hand. Casino Dealer C wears a lip piercing. Casino Dealer D is angry. Casino Dealer A and Casino Dealer B are fist bumping with each other. Casino Dealer C and Casino Dealer D are having conversations with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create real-world, photographed placeholders for four subjects that look like a human artist’s block-in. Material: matte neutral gray mannequins / gray morph-suit actors with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives. A and B are posed for a fist bump, their fists meeting mid-air. A's other hand holds a gray rectangular block (smartphone). B's other hand holds a larger gray block (backpack). C and D are posed facing each other as if in conversation. C has a small gray dot on their lower lip area to indicate the piercing. D's posture is tense to indicate anger. Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

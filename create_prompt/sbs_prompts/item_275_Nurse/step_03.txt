@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Nurses. Nurse A has tattoos on neck. Nurse B wears glasses. Nurse C wears bracelet. Nurse D wears nose piercing. Nurse A and Nurse B are bowing to each other. Nurse C and Nurse D are pointing an accusatory finger at each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Pointing an accusatory finger with body and gaze oriented toward D, wears a realistic bracelet. D: Pointing an accusatory finger with body and gaze oriented toward C, wears a realistic nose piercing. Full Roll Call (LOCKED): A (neck tattoos, bowing toward B) & B (glasses, bowing toward A) remain unchanged. Exclusivity holds: Only C wears a bracelet. Only D has a nose piercing. No overlaps; Gap Lane empty.

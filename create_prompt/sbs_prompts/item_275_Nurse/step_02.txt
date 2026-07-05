@@ -1,0 +1,7 @@
+Step 2:
+Final Goal (Context): Four Nurses. Nurse A has tattoos on neck. Nurse B wears glasses. Nurse C wears bracelet. Nurse D wears nose piercing. Nurse A and Nurse B are bowing to each other. Nurse C and Nurse D are pointing an accusatory finger at each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 1 (A, B); Cluster 2 (C, D) remains placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail. The subjects now display natural, realistic human skin texture with visible pores and fine hairs. Their hair shows individual strands and realistic highlights. Their clothing has realistic fabric wrinkles, seams, and texture. The specific subjects are: A: Bowing with body and gaze oriented toward B, has realistic tattoos on neck. B: Bowing with body and gaze oriented toward A, wears realistic glasses. Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A has neck tattoos. Only B wears glasses.

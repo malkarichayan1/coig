@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Flight Attendants. Flight Attendant A has gray hair. Flight Attendant B wears watch. Flight Attendant C wears glasses. Flight Attendant D has tattoos on arm. Flight Attendant A and Flight Attendant B are one person crossing their arms and glaring while the other tries to talk with each other. Flight Attendant C and Flight Attendant D are a fist bump with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic airport terminal background; integrate subtle contact shadows and highlights; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity is intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

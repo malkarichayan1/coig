@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Baristas. Barista A has tablet in hand. Barista B has sandwich in hand. Barista C has tattoos on neck. Barista D has blue eyes. Barista A and Barista B are one person turning their back on the other while they are speaking with each other. Barista C and Barista D are exchanging business cards with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) on the left; Cluster 2 (C, D) on the right; Micro-Zones set for each person; Gap Lane between clusters is empty.
+
+This Step's Action: Create a real-world photograph of four matte neutral gray mannequins (or actors in gray morph-suits with blank masks) on a plain seamless background with soft studio lighting. Faces have no features (pupils, eyebrows, etc.). Hair is a single matte mass. Clothing is a plain gray form. Props are simple gray primitives. This step captures only pose, gesture, and silhouette. A: Body and gaze oriented toward B, left hand holds a flat gray rectangle (tablet), mouth slightly open as if speaking. B: Body angled away from A, but head turned back toward A to listen, right hand holds a simple gray block (sandwich). C: Body and gaze oriented toward D, right hand extends a small gray rectangle (business card) toward D. A flat gray patch indicates the tattoo area on the neck. D: Body and gaze oriented toward C, left hand extends a small gray rectangle (business card) toward C to exchange. Each person is fully visible with slight yaw offsets. There is no silhouette overlap. The Gap Lane remains empty. ABSOLUTELY NO COLOR.

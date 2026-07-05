@@ -1,0 +1,15 @@
+Step 3:
+Final Goal (Context): Four Sailors (Navy). Sailor A wears necklace. Sailor B has camera in hand. Sailor C is determined. Sailor D has gray eyes. Sailor A and Sailor B are one person shouting while the other looks away with each other. Sailor C and Sailor D are looking at the same phone or tablet screen with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) is being filled in; Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image using a high-resolution DSLR and soft, even studio lighting. Do not move or alter the locked subjects A and B.
+
+The new subjects (C and D) display real human skin texture with visible skin pores and natural hair strands. Their Navy uniforms have realistic fabric wrinkles and texture.
+
+The specific subjects are:
+C: A sailor with a determined expression, looking down at a tablet screen they are sharing with D.
+D: A sailor with gray eyes, also looking down at the same tablet screen with C.
+
+Full Roll Call (LOCKED): A (wearing necklace, shouting at B) & B (holding camera, looking away from A) remain unchanged. Exclusivity holds: Only C has a determined expression. Only D has gray eyes. No overlaps; Gap Lane empty.

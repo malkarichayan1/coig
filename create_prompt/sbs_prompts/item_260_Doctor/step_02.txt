@@ -1,0 +1,17 @@
+Step 2:
+Final Goal (Context): Four Doctors. Doctor A has tattoos on arm. Doctor B has Blue eyes. Doctor C has Black hair. Doctor D has coffee cup in hand. Doctor A and Doctor B are placing a comforting hand on the other's shoulder or back with each other. Doctor C and Doctor D are high-fiving with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) upgrading; Cluster 2 (C, D) remains placeholders.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity.
+
+This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail.
+
+The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles and texture.
+
+The specific subjects are:
+A: Has visible tattoos on one arm. Body and gaze are oriented toward B, placing a comforting hand on B's shoulder.
+B: Has distinct blue eyes. Body and gaze are oriented toward A, placing a comforting hand on A's back.
+
+Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity holds: Only A has tattoos; only B has blue eyes.

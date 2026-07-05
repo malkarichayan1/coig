@@ -1,0 +1,10 @@
+Step 2:
+Final Goal (Context): Four Supermarket Employees. Supermarket Employee A is laughing. Supermarket Employee B has tattoos on leg. Supermarket Employee C has braids hair. Supermarket Employee D is determined. Supermarket Employee A and Supermarket Employee B are high-five with each other. Supermarket Employee C and Supermarket Employee D are Pouring the other a cup of tea or coffee with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) upgrading; Cluster 2 (C, D) remains placeholders.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is a hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The subjects now display real human skin texture with visible skin pores and natural hair strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are:
+A: Laughing with an open mouth, body and gaze oriented toward B, hand raised to high-five B.
+B: Has visible, detailed tattoos on their leg, body and gaze oriented toward A, hand raised to high-five A.
+Preserve all poses, Micro-Zones, and spacing. Gap Lane remains empty. Placeholders C and D are unchanged. Exclusivity: Only A is laughing. Only B has tattoos on their leg. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

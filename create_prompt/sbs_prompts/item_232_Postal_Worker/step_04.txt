@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Postal Workers. Postal Worker A wears earrings. Postal Worker B has Smartphone in hand. Postal Worker C has apple in hand. Postal Worker D has grocery bag in hand. Postal Worker A and Postal Worker B are Kneeling Before Someone with each other. Postal Worker C and Postal Worker D are One person crossing their arms and glaring while the other tries to talk with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic post office interior background; integrate subtle contact shadows and highlights to ground the subjects in the environment; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks remain intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Airline Pilots. Airline Pilot A is pensive. Airline Pilot B is frowning. Airline Pilot C has blonde hair. Airline Pilot D has Smartphone in hand. Airline Pilot A and Airline Pilot B are one person shouting while the other looks away with each other. Airline Pilot C and Airline Pilot D are one person crossing their arms and glaring while the other tries to talk with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked; Gap Lane remains empty.
+
+This Step's Action: Add a hyperrealistic modern airport terminal background behind the subjects. Integrate subtle contact shadows and highlights to ground the subjects in the environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity is intact.

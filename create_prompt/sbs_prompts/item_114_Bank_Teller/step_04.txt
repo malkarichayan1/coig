@@ -1,0 +1,9 @@
+Step 4:
+Final Goal (Context): Four Bank Tellers. Bank Teller A has water bottle in hand. Bank Teller B has red hair. Bank Teller C has tattoos on neck. Bank Teller D has coily hair. Bank Teller A and Bank Teller B are sharing headphones to listen to music with each other. Bank Teller C and Bank Teller D are taking a pulse with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked; Gap Lane remains empty.
+
+This Step's Action: Add a hyperrealistic bank interior background behind the subjects. Integrate subtle contact shadows and ensure the lighting on the subjects is consistent with the new environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks remain intact.
+
+Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

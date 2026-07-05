@@ -1,0 +1,17 @@
+Step 1:
+Final Goal (Context): Four Theme Park Employees. Theme Park Employee A has green eyes. Theme Park Employee B is determined. Theme Park Employee C has sideburns. Theme Park Employee D is happy. Theme Park Employee A and Theme Park Employee B are sharing headphones to listen to music with each other. Theme Park Employee C and Theme Park Employee D are bowing to each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create four real-world, photographed placeholders that look like a human artist’s block-in. Material: matte neutral gray mannequins / gray morph-suit actors with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives.
+
+Cluster 1 (Left):
+A: Body and gaze oriented toward B. A simple gray headphone primitive is over one ear.
+B: Body and gaze oriented toward A. A simple gray headphone primitive is over one ear, connected to A's by a simple gray cord primitive.
+
+Cluster 2 (Right):
+C: Body and gaze oriented toward D, torso bent forward in a bow. Sideburns are indicated by flat gray patches on the sides of the head.
+D: Body and gaze oriented toward C, torso bent forward in a bow. Happy expression is implied by a shallow mouth curve.
+
+Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

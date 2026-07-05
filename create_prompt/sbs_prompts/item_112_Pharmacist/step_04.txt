@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Pharmacists. Pharmacist A has tattoos on leg. Pharmacist B wears glasses. Pharmacist C has piercings on lip. Pharmacist D has tablet in hand. Pharmacist A and Pharmacist B are high-five with each other. Pharmacist C and Pharmacist D are helping someone up after they have fallen with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic, brightly lit modern pharmacy background with shelves of medicine bottles out of focus behind the subjects. Integrate subtle contact shadows and highlights where the subjects interact with the environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

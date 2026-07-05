@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Bouncers. Bouncer A is joyful. Bouncer B has blue eyes. Bouncer C wears sunglasses. Bouncer D has camera in hand. Bouncer A and Bouncer B are having a fist bump with each other. Bouncer C and Bouncer D are waving to each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked. The Gap Lane remains empty.
+
+This Step's Action: Add a hyperrealistic background of an upscale nightclub entrance at dusk. Integrate subtle contact shadows and highlights on the subjects to match the new environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

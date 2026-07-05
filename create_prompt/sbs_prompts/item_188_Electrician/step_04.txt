@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Electricians. Electrician A wears nose piercings. Electrician B has tattoos on ankle. Electrician C is joyful. Electrician D has suitcase in hand. Electrician A and Electrician B are assembling something, reading instructions together with each other. Electrician C and Electrician D are having conversations with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of an industrial workshop with tools and wiring visible. Integrate subtle contact shadows and highlights on the subjects to match the new environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact.

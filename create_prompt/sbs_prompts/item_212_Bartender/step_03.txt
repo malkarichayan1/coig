@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Bartenders. Bartender A has stubble. Bartender B is frowning. Bartender C is content. Bartender D has Smartphone in hand. Bartender A and Bartender B are whispering a secret into the other's ear with each other. Bartender C and Bartender D are waving to each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) upgrading; Cluster 1 (A, B) locked.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores and individual hair strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has a content expression; body and gaze oriented toward D, waving with his right hand. D: Holds a realistic modern smartphone in his right hand; body and gaze oriented toward C, waving with his left hand. Full Roll Call (LOCKED): A (stubble, whispering to B) & B (frowning, listening to A) remain unchanged. Exclusivity holds: Only C is content. Only D has a smartphone. No silhouette overlaps; Gap Lane empty.

@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Flight Attendants. Flight Attendant A has white hair. Flight Attendant B is clean-shaven. Flight Attendant C is pensive. Flight Attendant D has green eyes. Flight Attendant A and Flight Attendant B are looking at the same phone or tablet screen with each other. Flight Attendant C and Flight Attendant D are bowing to each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has a pensive expression, body and gaze oriented toward D in a bow. D: Has green eyes, body and gaze oriented toward C in a bow. Full Roll Call (LOCKED): A (white hair, looking at tablet) & B (clean-shaven, looking at tablet) remain unchanged. Exclusivity holds: Only C is pensive. Only D has green eyes. No overlaps; Gap Lane empty. Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

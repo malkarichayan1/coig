@@ -1,0 +1,15 @@
+Step 3:
+Final Goal (Context): Four Surgeons. Surgeon A wears latex gloves. Surgeon B is serious. Surgeon C wears earrings. Surgeon D has hazel eyes. Surgeon A and Surgeon B are exchanging business cards with each other. Surgeon C and Surgeon D are assembling something, reading instructions together with each other.
+
+Placement (Compositional Blueprint):
+Filling in C and D; A and B are locked.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture.
+
+The specific subjects are:
+C: Wears small, simple earrings. Body and gaze oriented toward D, looking down at a sheet of instructions they are reading together.
+D: Has detailed hazel eyes. Body and gaze oriented toward C, looking down at the instructions. Both C and D are carefully assembling a small, intricate object.
+
+Full Roll Call (LOCKED): A (wearing latex gloves, facing B) & B (serious expression, facing A) remain unchanged. Exclusivity holds: Only C wears earrings, only D has hazel eyes. No overlaps; Gap Lane empty.
+
+Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

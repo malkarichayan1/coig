@@ -1,0 +1,7 @@
+Step 2:
+Final Goal (Context): Four Surgeons. Surgeon A is tired. Surgeon B is angry. Surgeon C has grocery bag in hand. Surgeon D has braids hair. Surgeon A and Surgeon B are high-fiving with each other. Surgeon C and Surgeon D are one person shouting while the other looks away with each other.
+
+Placement (Compositional Blueprint):
+Filling in A and B; C and D remain placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail. The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their surgeon scrubs have realistic fabric wrinkles, seams, and texture. The specific subjects are: A: Has a tired expression, raising one hand to high-five B, body and gaze oriented toward B. B: Has an angry expression, raising one hand to high-five A, body and gaze oriented toward A. Preserve all poses, Micro-Zones, spacing, and yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A is tired. Only B is angry.

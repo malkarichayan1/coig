@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Surgeons. Surgeon A wears lip piercings. Surgeon B is bored. Surgeon C has backpack in hand. Surgeon D has a beard. Surgeon A and Surgeon B are shaking hands with each other. Surgeon C and Surgeon D are taking a pulse with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) is being filled-in. Cluster 1 (A, B) is locked and immutable.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a detailed studio shot using a high-resolution DSLR and an 85mm portrait lens. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores and subtle shadows and highlights. Their clothing has realistic fabric wrinkles. The specific subjects are: C: A surgeon holding a backpack in their left hand, using their right hand to take D's pulse. Body and gaze are oriented toward D. D: A surgeon with a full, well-groomed beard, having their pulse taken by C. Body and gaze are oriented toward C. Full Roll Call (LOCKED): A (with lip piercings, shaking hands with B) and B (bored, shaking hands with A) remain unchanged. Exclusivity holds: Only C has a backpack. Only D has a beard. No silhouette overlaps. The Gap Lane remains empty. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

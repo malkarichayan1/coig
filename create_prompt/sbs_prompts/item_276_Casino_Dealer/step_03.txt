@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Casino Dealers. Casino Dealer A has smartphone in hand. Casino Dealer B has backpack in hand. Casino Dealer C wears a lip piercing. Casino Dealer D is angry. Casino Dealer A and dealer B are fist bumping with each other. Casino Dealer C and Casino Dealer D are having conversations with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) upgrading; Cluster 1 (A, B) locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Wears a lip piercing, body and gaze oriented toward D, engaged in conversation. D: Has an angry expression, body and gaze oriented toward C, engaged in conversation. Full Roll Call (LOCKED): A (with smartphone, fist bumping B) & B (with backpack, fist bumping A) remain unchanged. Exclusivity holds: Only C has a lip piercing. Only D is angry. No overlaps; Gap Lane empty.

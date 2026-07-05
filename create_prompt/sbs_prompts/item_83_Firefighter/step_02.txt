@@ -1,0 +1,7 @@
+Step 2:
+Final Goal (Context): Four Firefighters. Firefighter A wears glasses. Firefighter B has tattoos on arm. Firefighter C has white hair. Firefighter D has purse in hand. Firefighter A and Firefighter B are bowing to each other. Firefighter C and Firefighter D are pointing an accusatory finger at each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) is being filled in; Cluster 2 (C, D) remains as placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp. The conversion reintroduces natural color and fine micro-detail. The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: A: A firefighter wearing realistic glasses, body and head bowed towards B. B: A firefighter with realistic, detailed tattoos on one arm, body and head bowed towards A. Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A wears glasses. Only B has tattoos.

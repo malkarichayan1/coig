@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Airmen. Airman A wears latex gloves. Airman B has briefcase in hand. Airman C has wavy hair. Airman D wears eyebrow piercing. Airman A and Airman B are sharing headphones to listen to music with each other. Airman C and Airman D are helping someone up after they have fallen with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of an air force base hangar with a concrete floor; integrate subtle contact shadows and highlights on the subjects to match the new environment; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks remain intact. Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

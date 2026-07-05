@@ -1,0 +1,19 @@
+Step 1:
+Final Goal (Context): Four Cruise Ship Crews. Cruise Ship Crew A has grocery bag in hand. Cruise Ship Crew B has gray eyes. Cruise Ship Crew C has undercut hair. Cruise Ship Crew D is bored. Cruise Ship Crew A and Cruise Ship Crew B are arguing face-to-face, with expressive hand gestures with each other. Cruise Ship Crew C and Cruise Ship Crew D are pouring the other a cup of tea or coffee with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 left; Cluster 2 right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create real-world, photographed placeholders for four subjects that look like a human artist’s block-in. Material: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives. The subjects are positioned as follows:
+
+A: Body and gaze oriented toward B in an arguing pose with expressive hand gestures. Left hand holds a simple gray rectangular block representing a grocery bag.
+
+B: Body and gaze oriented toward A in an arguing pose with expressive hand gestures.
+
+C: Body and gaze oriented toward D, holding a simple gray cylinder (kettle/pot) and tilting it as if pouring into a cup held by D.
+
+D: Body and gaze oriented toward C, posture suggests boredom (slight slump), holding a simple gray cylinder (cup) to receive the pour from C.
+
+Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.
+
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

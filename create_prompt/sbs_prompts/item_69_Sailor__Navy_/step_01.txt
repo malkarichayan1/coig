@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Sailors. Sailor A wears earrings. Sailor B has dreadlocks hair. Sailor C has tattoos on leg. Sailor D wears leather gloves. Sailor A and Sailor B are shaking hands with each other. Sailor C and Sailor D are one person shouting while the other looks away with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 left; Cluster 2 right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Place four matte-gray stand-ins (mannequins or gray morph-suit actors with blank masks) on a seamless studio background with soft lighting; no facial features, hair as single matte mass, clothing as plain gray forms; props are simple gray primitives. A and B are in Cluster 1 (left). C and D are in Cluster 2 (right). A: Body and gaze oriented toward B, right arm extended for a handshake. Earrings are simple gray studs on earlobes. B: Body and gaze oriented toward A, left arm extended for a handshake. Dreadlocks are a single molded mass with a rope-like texture. C: Body and gaze oriented toward D, mouth open in a shouting pose. Tattoos are a flat gray patch on one leg. D: Body oriented toward C but head turned away, looking away from C. Hands are covered in simple gray mitten-like forms for gloves. Each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

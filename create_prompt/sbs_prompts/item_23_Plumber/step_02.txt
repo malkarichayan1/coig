@@ -1,0 +1,17 @@
+Step 2:
+Final Goal (Context): Four Plumbers. Plumber A has water bottle in hand. Plumber B wears latex gloves. Plumber C is surprised. Plumber D wears necklace. Plumber A and Plumber B are pouring the other a cup of tea or coffee with each other. Plumber C and Plumber D are waving to each other.
+
+Placement (Compositional Blueprint):
+Fill in A and B; C and D remain placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity.
+
+This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail.
+
+The subjects now display natural, realistic human skin texture with visible pores and fine hairs. Their hair shows individual strands and realistic highlights. Their clothing has realistic fabric wrinkles, seams, and texture.
+
+The specific subjects are:
+A: A plumber, body and gaze oriented toward B, pouring from a kettle into B's cup. In A's other hand is a water bottle.
+B: A plumber wearing latex gloves, body and gaze oriented toward A, holding a cup to receive the liquid.
+
+Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A has a water bottle. Only B wears latex gloves.

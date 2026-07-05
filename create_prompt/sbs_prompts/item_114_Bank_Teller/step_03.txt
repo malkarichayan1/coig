@@ -1,0 +1,15 @@
+Step 3:
+Final Goal (Context): Four Bank Tellers. Bank Teller A has water bottle in hand. Bank Teller B has red hair. Bank Teller C has tattoos on neck. Bank Teller D has coily hair. Bank Teller A and Bank Teller B are sharing headphones to listen to music with each other. Bank Teller C and Bank Teller D are taking a pulse with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) is being filled in; Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores and realistic fabric wrinkles and texture.
+
+The specific subjects are:
+C: Has realistic, detailed tattoos on their neck. Their fingers are gently placed on D's wrist as if taking a pulse. Body and gaze are oriented toward D.
+D: Has realistic, coily hair with individual, well-defined strands. Their arm is extended for C. Body and gaze are oriented toward C.
+
+Full Roll Call (LOCKED): A (with water bottle, facing B) & B (with red hair, facing A) remain unchanged. Exclusivity holds: Only C has neck tattoos. Only D has coily hair. No silhouette overlaps; Gap Lane empty.
+
+Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

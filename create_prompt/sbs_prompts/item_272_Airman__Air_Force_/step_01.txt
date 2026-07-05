@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Airmen. Airman A has a mustache. Airman B wears glasses. Airman C is excited. Airman D wears an anklet. Airman A and Airman B are having conversations with each other. Airman C and Airman D are taking a pulse with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create real-world, photographed placeholders for four subjects that look like a human artist’s block-in. Material: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives. A and B are on the left, facing each other in conversation poses. C and D are on the right, facing each other, with C's hands positioned on D's wrist to take a pulse. A's mustache is a simple gray shape on the upper lip. B's glasses are a simple gray primitive frame. D's anklet is a simple gray ring primitive. Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic/waxy/smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

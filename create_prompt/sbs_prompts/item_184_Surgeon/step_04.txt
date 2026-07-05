@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Surgeons. Surgeon A wears lip piercings. Surgeon B is bored. Surgeon C has backpack in hand. Surgeon D has a beard. Surgeon A and Surgeon B are shaking hands with each other. Surgeon C and Surgeon D are taking a pulse with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked. The Gap Lane remains empty.
+
+This Step's Action: Add a hyperrealistic background of a modern, clean hospital corridor. Integrate subtle contact shadows and highlights on the subjects to blend them with the environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks (A: lip piercings, B: bored, C: backpack, D: beard) are intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

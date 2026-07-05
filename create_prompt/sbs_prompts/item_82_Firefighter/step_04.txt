@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Firefighters. Firefighter A has tattoos on ankle. Firefighter B wears earrings. Firefighter C has a lip piercing. Firefighter D wears latex gloves. Firefighter A and Firefighter B are shaking hands with each other. Firefighter C and Firefighter D are taking a pulse with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add the hyperrealistic background of an ambulance bay at a fire station; integrate subtle contact shadows/highlights; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity is intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

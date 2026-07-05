@@ -1,0 +1,10 @@
+Step 3:
+Final Goal (Context): Four Correctional Officers. Correctional Officer A has green eyes. Correctional Officer B has red hair. Correctional Officer C has tattoos on leg. Correctional Officer D is crying. Correctional Officer A and Correctional Officer B are fist bumping with each other. Correctional Officer C and Correctional Officer D are having conversations with each other.
+
+Placement (Compositional Blueprint):
+Filling in C and D; A and B are locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are:
+C: A Correctional Officer with visible tattoos on their leg, in a conversational pose with D, with body and gaze oriented toward D.
+D: A Correctional Officer who is crying (visible tears, sad expression), in a conversational pose with C, with body and gaze oriented toward C.
+Full Roll Call (LOCKED): A (green eyes, fist bumping B) & B (red hair, fist bumping A) remain unchanged. Exclusivity holds: Only C has leg tattoos. Only D is crying. No overlaps; Gap Lane empty.

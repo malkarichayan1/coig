@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Electricians. Electrician A wears sunglasses. Electrician B has Coffee cup in hand. Electrician C wears leather gloves. Electrician D is serious. Electrician A and Electrician B are bowing to each other. Electrician C and Electrician D are sharing headphones to listen to music with each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image with real human skin texture and visible skin pores. Do not move or alter the locked subjects A and B. The new subjects (C and D) have natural hair strands and realistic fabric wrinkles and texture. The specific subjects are: C: Wears realistic leather gloves, shares one earpiece of a set of headphones with D, with body and gaze oriented toward D. D: Has a serious facial expression, shares the other earpiece of the headphones with C, with body and gaze oriented toward C. Locked subjects A (wearing sunglasses, bowing to B) and B (holding coffee cup, bowing to A) remain unchanged. Exclusivity: Only C wears leather gloves. Only D has a serious expression. C and D share headphones. No silhouette overlap; Gap Lane empty.

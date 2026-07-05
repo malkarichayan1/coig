@@ -1,0 +1,19 @@
+Step 2:
+Final Goal (Context): Four Casino Dealers. Casino Dealer A is surprised. Casino Dealer B has sideburns. Casino Dealer C is content. Casino Dealer D has black hair. Casino Dealer A and Casino Dealer B are Kneeling Before Someone with each other. Casino Dealer C and Casino Dealer D are One person shouting while the other looks away with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) upgrading; Cluster 2 (C, D) remains placeholders.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity.
+
+This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail.
+
+The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles, seams, and texture.
+
+The specific subjects are:
+A: Kneeling with a surprised facial expression.
+B: Kneeling next to A, has distinct, natural sideburns.
+
+Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity holds: Only B has sideburns.
+
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

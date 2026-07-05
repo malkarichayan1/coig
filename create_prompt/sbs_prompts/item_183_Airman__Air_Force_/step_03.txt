@@ -1,0 +1,15 @@
+Step 3:
+Final Goal (Context): Four Airmen. Airman A is content. Airman B wears sunglasses. Airman C wears leather gloves. Airman D has sandwich in hand. Airman A and Airman B are one person shouting while the other looks away with each other. Airman C and Airman D are looking at the same phone or tablet screen with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) is being filled in; Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image using soft, even studio lighting. Do not move or alter the locked subjects A and B.
+
+The new subjects (C and D) display real human skin texture with visible skin pores and natural hair strands. Their clothing has realistic fabric wrinkles and texture.
+
+The specific subjects are:
+C: Wears realistic leather gloves, looking down at a shared tablet with D. Body and gaze are oriented toward D and the device.
+D: Holds a realistic sandwich in one hand, looking down at the shared tablet with C. Body and gaze are oriented toward C and the device.
+
+Full Roll Call (LOCKED): A (shouting, facing B) & B (wearing sunglasses, looking away from A) remain unchanged. Exclusivity holds: Only C wears leather gloves, only D has a sandwich. No silhouette overlap; Gap Lane empty.

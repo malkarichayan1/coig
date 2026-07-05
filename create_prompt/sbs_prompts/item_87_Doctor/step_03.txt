@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Doctors. Doctor A has blue eyes. Doctor B has stubble. Doctor C wears latex gloves. Doctor D is crying. Doctor A and Doctor B are exchanging business cards with each other. Doctor C and Doctor D are waving to each other.
+
+Placement (Compositional Blueprint):
+Filling in C and D; A and B are locked. No position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores and realistic hair with individual strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: A doctor wearing latex gloves, body and gaze oriented toward D, waving at D. D: A doctor who is crying, with visible tears on their face and a sad expression, body and gaze oriented toward C, waving at C. Locked subjects A (blue eyes, facing B) and B (stubble, facing A) remain unchanged. Preserve all spacing. No silhouette overlap; Gap Lane empty. Exclusivity: Only C wears latex gloves. Only D is crying.

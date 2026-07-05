@@ -1,0 +1,10 @@
+Step 3:
+Final Goal (Context): Four Sailors. Sailor A has brown eyes. Sailor B is confused. Sailor C wears glasses. Sailor D has gray hair. Sailor A and Sailor B are exchanging business cards with each other. Sailor C and Sailor D are one person crossing their arms and glaring while the other tries to talk with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) upgrading; Cluster 1 (A, B) locked.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image with real human skin texture and visible skin pores. Do not move or alter the locked subjects A and B. The new subjects (C and D) have hair with natural hair strands and clothing with realistic fabric wrinkles and texture. The specific subjects are:
+C: Wears realistic glasses, has arms crossed, and is glaring at D. Body and gaze are oriented toward D.
+D: Has realistic gray hair, and is trying to talk to C (e.g., with a hand gesture). Body and gaze are oriented toward C.
+Full Roll Call (LOCKED): A (brown eyes, exchanging card with B) & B (confused, exchanging card with A) remain unchanged. Exclusivity: Only C wears glasses. Only D has gray hair. No silhouette overlap; Gap Lane empty. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

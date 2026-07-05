@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Janitors. Janitor A is content. Janitor B has water bottle in hand. Janitor C wears glasses. Janitor D has tattoos on leg. Janitor A and Janitor B are helping someone up after they have fallen with each other. Janitor C and Janitor D are having conversations with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of a clean, well-lit school hallway; integrate subtle contact shadows/highlights; do not move or alter any person. Confirm each individual is fully visible, no cross-zone occlusion, and exclusivity is intact.

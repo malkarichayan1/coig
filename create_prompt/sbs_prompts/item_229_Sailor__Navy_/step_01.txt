@@ -1,0 +1,18 @@
+Step 1:
+Final Goal (Context): Four Sailors. Sailor A wears leather gloves. Sailor B has tablet in hand. Sailor C has Coffee cup in hand. Sailor D has curly hair. Sailor A and Sailor B are waving to each other. Sailor C and Sailor D are pouring the other a cup of tea or coffee with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) on the left; Cluster 2 (C, D) on the right; Micro-Zones set for each person; Gap Lane between clusters is empty.
+
+This Step's Action: Create a real-world, photographed scene with four matte neutral gray mannequins (or morph-suit actors with blank masks) on a plain seamless background with soft studio lighting. Faces are de-identified (no pupils, irises, eyelashes, eyebrows, teeth). Hair is a single matte mass. Clothing is plain gray forms. Props are simple gray primitives. The goal is to capture pose, gesture, and silhouette only. No color.
+
+Cluster 1 (Left):
+A: Left hand raised in a wave, body and gaze oriented toward B. Hands are simple gray forms, slightly thicker to indicate gloves.
+B: Right hand raised in a wave, body and gaze oriented toward A. Left hand holds a simple gray rectangular block (tablet).
+
+Cluster 2 (Right):
+C: Body and gaze oriented toward D. Holds a simple gray cylinder with a spout primitive (coffee pot) and tilts it as if pouring.
+D: Body and gaze oriented toward C. Holds a simple gray cylinder primitive (cup) in a receiving position. Hair is a single molded mass with a curly texture.
+
+Composition Guards: Each person is fully visible. Slight yaw offsets for realism. No silhouette overlap. The central Gap Lane remains empty. ABSOLUTELY NO COLOR.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

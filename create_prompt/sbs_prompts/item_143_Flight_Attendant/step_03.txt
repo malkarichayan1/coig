@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Flight Attendants. Flight Attendant A has blue eyes. Flight Attendant B has water bottle in hand. Flight Attendant C wears lip piercing. Flight Attendant D wears headphones. Flight Attendant A and Flight Attendant B are looking at the same phone or tablet screen with each other. Flight Attendant C and Flight Attendant D are giving a fist bump with each other.
+
+Placement (Compositional Blueprint):
+Fill in C and D; A and B are locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Wears a lip piercing, giving a fist bump to D, body and gaze oriented toward D. D: Wears realistic headphones, giving a fist bump to C, body and gaze oriented toward C. Full Roll Call (LOCKED): A (blue eyes, facing B) & B (water bottle, facing A) remain unchanged. Exclusivity holds: Only C has a lip piercing. Only D wears headphones. No overlaps; Gap Lane empty.

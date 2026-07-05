@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Bouncers. Bouncer A has wavy hair. Bouncer B has tattoos on arm. Bouncer C wears leather gloves. Bouncer D is tired. Bouncer A and Bouncer B are Kneeling Before Someone with each other. Bouncer C and Bouncer D are Helping someone up after they have fallen with each other.
+
+Placement (Compositional Blueprint):
+Filling in C and D; A and B are locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: A bouncer wearing black leather gloves, bending down to help D up, looking at D. D: A bouncer with a tired expression on his face, being helped up by C and looking at C. Locked subjects A and B remain unchanged. Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Exclusivity: Only C wears leather gloves. Only D has a tired expression. Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Sailors. Sailor A wears latex gloves. Sailor B is clean-shaven. Sailor C has black hair. Sailor D is tired. Sailor A and Sailor B are kneeling before each other. Sailor C and Sailor D are pointing an accusatory finger at each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) is being filled in; Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Standing, body and gaze oriented toward D, pointing an accusatory finger at D. C has black hair with individual hair strands. D: Standing, body and gaze oriented toward C, pointing an accusatory finger at C. D has a tired expression with heavy eyelids. Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Subjects A and B remain unchanged. Exclusivity: Only C has black hair. Only D is tired.

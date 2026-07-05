@@ -1,0 +1,14 @@
+Step 1:
+Final Goal (Context): Four Construction Workers. Construction Worker A has wavy hair. Construction Worker B is content. Construction Worker C has green eyes. Construction Worker D has black hair. Construction Worker A and Construction Worker B are giving a fist bump to each other. Construction Worker C and Construction Worker D are arguing face-to-face, with expressive hand gestures with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create four real-world, photographed placeholders that look like a human artist’s block-in. Material: matte neutral gray mannequins / gray morph-suit actors with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: none. Purpose: capture only pose/gesture/silhouette. Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.
+
+A: Body and gaze oriented toward B, right arm extended for a fist bump. Hair is a single molded mass with a wavy shape.
+B: Body and gaze oriented toward A, left arm extended to meet A's fist for a fist bump. Face has a slight upward curve to indicate 'content'.
+C: Body and gaze oriented toward D, posed in an argument with expressive hand gestures.
+D: Body and gaze oriented toward C, posed in an argument with expressive hand gestures.
+
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

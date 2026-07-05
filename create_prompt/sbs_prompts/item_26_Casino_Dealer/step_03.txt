@@ -1,0 +1,17 @@
+Step 3:
+Final Goal (Context): Four Casino Dealers. Casino Dealer A wears lip piercings. Casino Dealer B is clean-shaven. Casino Dealer C has medium-length hair. Casino Dealer D has tattoos on ankle. Casino Dealer A and Casino Dealer B are bowing to each other. Casino Dealer C and Casino Dealer D are one person shouting while the other looks away with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) upgrading; Cluster 1 (A, B) locked.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B.
+
+The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture.
+
+The specific subjects are:
+C: Has medium-length hair with individual hair strands visible. Is shouting, with body and gaze oriented toward D.
+D: Has visible tattoos on their ankle. Body is oriented toward C, but head and gaze are turned away from C.
+
+Full Roll Call (LOCKED): A (lip piercings, bowing toward B) & B (clean-shaven, bowing toward A) remain unchanged. Exclusivity holds: Only C has medium-length hair; only D has ankle tattoos. No overlaps; Gap Lane empty.
+
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

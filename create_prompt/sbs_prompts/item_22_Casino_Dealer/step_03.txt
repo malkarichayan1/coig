@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Casino Dealers. Casino Dealer A is bored. Casino Dealer B has shaved head hair. Casino Dealer C has tattoos on ankle. Casino Dealer D is angry. Casino Dealer A and Casino Dealer B are looking at the same phone or tablet screen with each other. Casino Dealer C and Casino Dealer D are one person turning their back on the other while they are speaking with each other.
+
+Placement (Compositional Blueprint):
+Fill in C and D. A and B are locked. No position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image using soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores and natural hair strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has visible tattoos on their ankle. Body and gaze are oriented toward D, with an expression of speaking to D. D: Has an angry facial expression. Their back is turned to C, but their head is turned slightly back to glare at C. Preserve all poses and spacing. The Gap Lane remains empty. A and B remain unchanged. Exclusivity: Only C has ankle tattoos. Only D is angry. Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Bank Tellers. Bank Teller A is crying. Bank Teller B has blue eyes. Bank Teller C has wavy hair. Bank Teller D is serious. Bank Teller A and Bank Teller B are turning their back on the other while they are speaking with each other. Bank Teller C and Bank Teller D are bowing to each other.
+
+Placement (Compositional Blueprint):
+Filling in C and D; A and B are locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image with sharp focus. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores and natural hair strands. Their clothing has realistic fabric wrinkles. The specific subjects are: C: Has wavy hair with individual hair strands, bowing with body and gaze oriented toward D. D: Has a serious expression, bowing with body and gaze oriented toward C. Locked subjects A (crying, facing B) and B (blue eyes, facing A) remain unchanged. Exclusivity: Only C has wavy hair. Only D is serious. No silhouette overlap; Gap Lane empty. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

@@ -1,0 +1,17 @@
+Step 1:
+Final Goal (Context): Four Surgeons. Surgeon A wears latex gloves. Surgeon B is serious. Surgeon C wears earrings. Surgeon D has hazel eyes. Surgeon A and Surgeon B are exchanging business cards with each other. Surgeon C and Surgeon D are assembling something, reading instructions together with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 left; Cluster 2 right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create real-world, photographed placeholders for four subjects that look like a human artist’s block-in. Material: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives. Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.
+
+Cluster 1 (Left):
+A: Body and gaze oriented toward B, hands extended holding a small gray rectangle (business card). Hands are shaped to imply gloves.
+B: Body and gaze oriented toward A, hands extended holding a small gray rectangle (business card). Face is neutral to imply 'serious'.
+
+Cluster 2 (Right):
+C: Body and gaze oriented toward D, looking down at a larger gray rectangle (instructions) held between them. Simple gray shapes on earlobes for earrings.
+D: Body and gaze oriented toward C, looking down at the instructions held between them. Both C and D hold small, simple gray primitives representing parts to be assembled.
+
+Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

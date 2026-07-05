@@ -1,0 +1,5 @@
+google-genai
+pandas
+python-dotenv
+pillow
+tqdm

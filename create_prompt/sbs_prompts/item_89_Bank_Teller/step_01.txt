@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Bank Tellers. Bank Teller A is crying. Bank Teller B has blue eyes. Bank Teller C has wavy hair. Bank Teller D is serious. Bank Teller A and Bank Teller B are turning their back on the other while they are speaking with each other. Bank Teller C and Bank Teller D are bowing to each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create real-world, photographed placeholders for four subjects that look like a human artist’s block-in. Material: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. A and B are in Cluster 1, turned away from Cluster 2. C and D are in Cluster 2. A: Pose suggests crying (head slightly down, hand near face), body and gaze oriented toward B. B: Pose suggests speaking, body and gaze oriented toward A. C: Bowing pose, body and gaze oriented toward D. Hair is a single molded wavy mass. D: Bowing pose, body and gaze oriented toward C. Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

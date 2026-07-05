@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Airmen. Airman A wears latex gloves. Airman B has briefcase in hand. Airman C has wavy hair. Airman D wears eyebrow piercing. Airman A and Airman B are sharing headphones to listen to music with each other. Airman C and Airman D are helping someone up after they have fallen with each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image using a high-resolution DSLR and soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores and realistic fabric wrinkles. The specific subjects are: C: Has wavy hair with natural hair strands, body and gaze oriented toward D, leaning forward and reaching down to help an unseen person. D: Wears a small silver eyebrow piercing, body and gaze oriented toward C, also leaning forward and reaching down to help. Full Roll Call (LOCKED): A (wearing latex gloves, facing B) & B (holding briefcase, facing A) remain unchanged. Exclusivity: Only C has wavy hair. Only D has an eyebrow piercing. No silhouette overlap; Gap Lane empty. Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

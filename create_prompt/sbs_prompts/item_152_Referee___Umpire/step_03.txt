@@ -1,0 +1,16 @@
+Step 3:
+Final Goal (Context): Four Referees. Referee A wears necklace. Referee B is smiling. Referee C has grocery bag in hand. Referee D has gray hair. Referee A and Referee B are sharing headphones to listen to music with each other. Referee C and Referee D are whispering a secret into the other's ear with each other.
+
+Placement (Compositional Blueprint):
+Fill-in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image shot on a high-resolution DSLR with an 85mm portrait lens. Do not move or alter the locked subjects A and B.
+
+The new subjects (C and D) display real human skin texture with visible skin pores and natural hair strands. Their clothing has realistic fabric wrinkles and texture.
+
+The specific subjects are:
+C: Holds a grocery bag in one hand. Body and gaze are oriented toward D, leaning in to whisper a secret in D's ear.
+D: Has gray hair with individual hair strands. Body and gaze are oriented toward C, leaning in to listen to the secret.
+
+Full Roll Call (LOCKED): A (wearing necklace, facing B) & B (smiling, facing A) remain unchanged. Exclusivity holds: Only C has a grocery bag. Only D has gray hair. No overlaps; Gap Lane empty.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

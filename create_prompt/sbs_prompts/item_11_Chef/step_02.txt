@@ -1,0 +1,13 @@
+Step 2:
+Final Goal (Context): Four Chefs. Chef A has backpack in hand. Chef B is clean-shaven. Chef C has brown hair. Chef D wears nose piercing. Chef A and Chef B are looking at the same phone or tablet screen with each other. Chef C and Chef D are sharing headphones to listen to music with each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 1 (A, B); Cluster 2 (C, D) remains as placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail. The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles, seams, and texture.
+
+The specific subjects are:
+A: Holds a realistic backpack in one hand. Body and gaze are oriented toward B, looking down at a tablet they are sharing.
+B: Is clean-shaven. Body and gaze are oriented toward A, looking down at the tablet they are sharing.
+
+Preserve all poses, Micro-Zones, and spacing. No silhouette overlap; Gap Lane remains empty. Placeholders C and D remain unchanged. Exclusivity: Only A has a backpack. Only B is explicitly clean-shaven.

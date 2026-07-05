@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Baristas. Barista A has red hair. Barista B has grocery bag in hand. Barista C has shaved head hair. Barista D has green eyes. Barista A and Barista B are waving to each other. Barista C and Barista D are bowing to each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create real-world, photographed placeholders for each subject that look like a human artist’s block-in. Material: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives. A: Waving, body and gaze oriented toward B. Hair is a single molded mass. B: Waving, body and gaze oriented toward A. Left hand holds a simple gray rectangular block representing a grocery bag. C: Bowing, body and gaze oriented toward D. Head is a smooth, hairless mass. D: Bowing, body and gaze oriented toward C. Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

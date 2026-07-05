@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Housekeeping Staff. Housekeeping Staff A has laptop in hand. Housekeeping Staff B wears earrings. Housekeeping Staff C has purse in hand. Housekeeping Staff D has a Beard. Housekeeping Staff A and Housekeeping Staff B are assembling something, reading instructions together with each other. Housekeeping Staff C and Housekeeping Staff D are one person pointing an accusatory finger at the other with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic hotel break room background; integrate subtle contact shadows and highlights to ground the subjects in the environment; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks (A: laptop, B: earrings, C: purse, D: beard) are intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

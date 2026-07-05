@@ -1,0 +1,17 @@
+Step 2:
+Final Goal (Context): Four Airline Pilots. Airline Pilot A wears rings. Airline Pilot B has purse in hand. Airline Pilot C has goatee. Airline Pilot D has tattoos on arm. Airline Pilot A and Airline Pilot B are pointing an accusatory finger at the other with each other. Airline Pilot C and Airline Pilot D are turning their back on the other while they are speaking with each other.
+
+Placement (Compositional Blueprint):
+Filling in A and B; C and D remain placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity.
+
+This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail.
+
+The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles, seams, and texture.
+
+The specific subjects are:
+A: Wears realistic rings on their fingers. Body and gaze are oriented toward B, pointing an accusatory finger at B.
+B: Holds a realistic purse in one hand. Body and gaze are oriented toward A, pointing an accusatory finger at A.
+
+Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A wears rings. Only B has a purse.

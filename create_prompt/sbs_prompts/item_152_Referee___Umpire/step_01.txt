@@ -1,0 +1,15 @@
+Step 1:
+Final Goal (Context): Four Referees. Referee A wears necklace. Referee B is smiling. Referee C has grocery bag in hand. Referee D has gray hair. Referee A and Referee B are sharing headphones to listen to music with each other. Referee C and Referee D are whispering a secret into the other's ear with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create four real-world, photographed placeholders that look like a human artist’s block-in: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces have no pupils/irises/eyelashes/eyebrows/teeth. Hair is a single matte mass. Clothing is plain gray forms. Props are simple gray primitives.
+
+A: Body and gaze oriented toward B. A simple gray torus shape represents the necklace. One hand is raised to an ear, holding a primitive earbud connected by a gray wire to B.
+B: Body and gaze oriented toward A. A shallow mouth curve implies a smile. One hand is raised to an ear, holding a primitive earbud connected by a gray wire to A.
+C: Body and gaze oriented toward D, leaning in close to whisper. One hand holds a simple gray rectangular block representing the grocery bag.
+D: Body and gaze oriented toward C, leaning in to listen. Hair is a single molded mass with a lighter gray tone to indicate 'gray hair'.
+
+Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

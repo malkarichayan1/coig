@@ -1,0 +1,7 @@
+Step 2:
+Final Goal (Context): Four Plumbers. Plumber A is tired. Plumber B wears leather gloves. Plumber C has camera in hand. Plumber D has coffee cup in hand. Plumber A and Plumber B are bowing to each other. Plumber C and Plumber D are shaking hands with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) is being filled in; Cluster 2 (C, D) remains as placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: A: Has a tired expression, body and gaze oriented toward B in a bowing pose. B: Wears realistic leather gloves, body and gaze oriented toward A in a bowing pose. Preserve all poses, Micro-Zones, and spacing. Gap Lane remains empty. Placeholders C and D are unchanged. Exclusivity: Only A is tired. Only B wears leather gloves. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

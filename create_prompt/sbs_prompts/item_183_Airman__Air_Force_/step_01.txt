@@ -1,0 +1,14 @@
+Step 1:
+Final Goal (Context): Four Airmen. Airman A is content. Airman B wears sunglasses. Airman C wears leather gloves. Airman D has sandwich in hand. Airman A and Airman B are one person shouting while the other looks away with each other. Airman C and Airman D are looking at the same phone or tablet screen with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create four real-world, photographed placeholders that look like a human artist’s block-in: matte neutral gray mannequins or gray morph-suit actors with blank masks, photographed on a plain seamless background with soft studio light. Faces have no pupils/irises/eyelashes/eyebrows/teeth. Hair is a single matte mass. Clothing is a plain gray form. Props are simple gray primitives.
+
+A: Body and gaze oriented toward B, mouth open in a shouting pose.
+B: Body oriented toward A, but head is turned slightly away. A simple gray bar covers the eyes to represent sunglasses.
+C: Body and gaze oriented toward D, looking down at a shared gray rectangle (tablet) held between them. Hands are simple gray forms.
+D: Body and gaze oriented toward C, looking down at the shared gray rectangle (tablet). One hand holds a simple gray block (sandwich).
+
+Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

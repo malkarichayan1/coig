@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Paramedics. Paramedic A has tablet in hand. Paramedic B has tattoos on arm. Paramedic C wears anklet. Paramedic D wears glasses. Paramedic A and Paramedic B are Bowing to each other. Paramedic C and Paramedic D are shaking hands with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create real-world, photographed placeholders for four subjects that look like a human artist’s block-in. Material: matte neutral gray mannequins / gray morph-suit actors with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives. On the left, A and B are positioned bowing towards each other. On the right, C and D are positioned shaking hands. A holds a simple gray rectangle (tablet). B has a flat gray patch on one arm (tattoo placeholder). C has a simple gray ring around one ankle (anklet). D has a simple gray frame shape on its face (glasses). All poses, gestures, and gazes are locked for interaction. Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

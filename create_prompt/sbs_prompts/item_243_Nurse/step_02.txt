@@ -1,0 +1,18 @@
+Step 2:
+Final Goal (Context): Four Nurses. Nurse A is content. Nurse B wears sunglasses. Nurse C is worried. Nurse D is tired. Nurse A and Nurse B are pouring the other a cup of tea or coffee with each other. Nurse C and Nurse D are one person shouting while the other looks away with each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 1 (A, B); Cluster 2 (C, D) remains as placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity.
+
+This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail.
+
+The subjects now display natural, realistic human skin texture with visible pores and fine hairs. Their hair shows individual strands and realistic highlights. Their clothing has realistic fabric wrinkles, seams, and texture. The props become realistic cups and a teapot/coffeepot.
+
+The specific subjects are:
+A: Has a content expression, body and gaze oriented toward B, pouring tea/coffee for B.
+B: Wears realistic sunglasses, body and gaze oriented toward A, pouring tea/coffee for A.
+
+Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only B wears sunglasses.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

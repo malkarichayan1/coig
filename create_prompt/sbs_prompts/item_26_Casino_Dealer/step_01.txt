@@ -1,0 +1,16 @@
+Step 1:
+Final Goal (Context): Four Casino Dealers. Casino Dealer A wears lip piercings. Casino Dealer B is clean-shaven. Casino Dealer C has medium-length hair. Casino Dealer D has tattoos on ankle. Casino Dealer A and Casino Dealer B are bowing to each other. Casino Dealer C and Casino Dealer D are one person shouting while the other looks away with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Place four matte-gray stand-ins (mannequins or gray morph-suit actors with blank masks) on a seamless studio background with soft lighting. Faces are de-identified (no pupils/irises/eyebrows). Hair is a single matte mass. Clothing is a plain gray form. Props are simple gray primitives.
+
+A: In a bowing pose, body and gaze oriented toward B. Lip piercings are indicated by tiny gray dots on the blank mask's lip area.
+B: In a bowing pose, body and gaze oriented toward A. 'Clean-shaven' is the default state of the blank mask.
+C: In a shouting pose (mouth open), body and gaze oriented toward D. Hair is a single molded mass of medium length.
+D: Body oriented toward C, but head and gaze are turned away. Ankle tattoos are indicated by a flat gray patch on the ankle.
+
+Each person is fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.
+
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic/waxy/smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

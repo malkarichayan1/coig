@@ -1,0 +1,13 @@
+Step 2:
+Final Goal (Context): Four Firefighters. Firefighter A is excited. Firefighter B has tablet in hand. Firefighter C has hazel eyes. Firefighter D wears sunglasses. Firefighter A and Firefighter B are one person crossing their arms and glaring while the other tries to talk with each other. Firefighter C and Firefighter D are looking at the same phone or tablet screen with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) being filled in; Cluster 2 (C, D) remains placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail. The subjects now display natural, realistic human skin texture with visible pores and fine hairs. Their hair shows individual strands and realistic highlights. Their firefighter uniforms have realistic fabric wrinkles, seams, and texture.
+
+The specific subjects are:
+A: Has an agitated, excited expression, glaring at B. Arms are crossed tightly. Body and gaze are oriented toward B.
+B: Is trying to talk to A, with a concerned expression. Holds a realistic tablet computer in their hands. Body and gaze are oriented toward A.
+
+Preserve all poses, Micro-Zones, spacing (≥ head-width), and yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only B has a tablet. Only A has crossed arms and a glaring expression.

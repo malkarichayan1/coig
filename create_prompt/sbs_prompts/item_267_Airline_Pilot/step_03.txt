@@ -1,0 +1,15 @@
+Step 3:
+Final Goal (Context): Four Airline Pilots. Airline Pilot A is pensive. Airline Pilot B is frowning. Airline Pilot C has blonde hair. Airline Pilot D has Smartphone in hand. Airline Pilot A and Airline Pilot B are one person shouting while the other looks away with each other. Airline Pilot C and Airline Pilot D are one person crossing their arms and glaring while the other tries to talk with each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image using a high-resolution DSLR and soft, even studio lighting. Do not move or alter the locked subjects A and B.
+
+The new subjects (C and D) display real human skin texture with visible skin pores. Their pilot uniforms have realistic fabric wrinkles and texture.
+
+The specific subjects are:
+C: Has blonde hair with natural, individual hair strands. C has arms crossed and is glaring at D. Body and gaze are oriented toward D.
+D: Holds a realistic Smartphone in hand and is trying to talk to C. Body and gaze are oriented toward C.
+
+LOCKED subjects A (pensive, looking away from B) and B (frowning, shouting at A) remain unchanged. Preserve all spacing and composition. Exclusivity: Only C has blonde hair/crossed arms. Only D has a Smartphone.

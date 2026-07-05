@@ -1,0 +1,16 @@
+Step 3:
+Final Goal (Context): Four Sailors. Sailor A wears leather gloves. Sailor B has tablet in hand. Sailor C has Coffee cup in hand. Sailor D has curly hair. Sailor A and Sailor B are waving to each other. Sailor C and Sailor D are pouring the other a cup of tea or coffee with each other.
+
+Placement (Compositional Blueprint):
+Filling in subjects C and D. Subjects A and B are locked and immutable.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B.
+
+The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their sailor uniforms have realistic fabric wrinkles and texture.
+
+The specific subjects are:
+C: Body and gaze oriented toward D. C is carefully pouring from a metal coffee pot into the cup held by D.
+D: Body and gaze oriented toward C. D holds a ceramic coffee cup to receive the coffee. D has realistic, curly hair with individual hair strands visible.
+
+Full Roll Call (LOCKED): A (waving, wearing leather gloves, facing B) and B (waving, holding tablet, facing A) remain unchanged. Exclusivity holds: Only D has curly hair. The coffee pot and cup props are unique to C and D's interaction. No silhouette overlaps. Gap Lane remains empty.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

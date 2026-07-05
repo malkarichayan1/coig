@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Marines. Marine A is confused. Marine B has blue eyes. Marine C wears eyebrow piercing. Marine D wears bracelet. Marine A and Marine B are kneeling before each other. Marine C and Marine D are doing a fist bump with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic military training ground background to the scene. Integrate subtle contact shadows and highlights where the subjects meet the ground. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks (A's confusion, B's blue eyes, C's piercing, D's bracelet) are intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

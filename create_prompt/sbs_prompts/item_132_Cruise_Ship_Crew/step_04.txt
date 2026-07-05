@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Cruise Ship Crews. Cruise Ship Crew A is proud. Cruise Ship Crew B has sandwich in hand. Cruise Ship Crew C is tired. Cruise Ship Crew D has stubble. Cruise Ship Crew A and Cruise Ship Crew B are assembling something, reading instructions together with each other. Cruise Ship Crew C and Cruise Ship Crew D are waving to each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of a cruise ship deck; integrate subtle contact shadows and highlights; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity is intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Baristas. Barista A has laptop in hand. Barista B wears Winter gloves. Barista C wears piercings on ears. Barista D has black hair. Barista A and Barista B are arguing face-to-face, with expressive hand gestures with each other. Barista C and Barista D are one person placing a comforting hand on the other's shoulder or back with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic coffee shop background; integrate subtle contact shadows and highlights; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

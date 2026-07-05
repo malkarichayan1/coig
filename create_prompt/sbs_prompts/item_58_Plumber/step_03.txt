@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Plumbers. Plumber A is tired. Plumber B wears leather gloves. Plumber C has camera in hand. Plumber D has coffee cup in hand. Plumber A and Plumber B are bowing to each other. Plumber C and Plumber D are shaking hands with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) is being filled in; Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image with real human skin texture and visible skin pores. Do not move or alter the locked subjects A and B. The new subjects (C and D) have natural hair strands and realistic fabric wrinkles and texture. The specific subjects are: C: Holds a realistic camera in the left hand, body and gaze oriented toward D while shaking D's hand. D: Holds a realistic coffee cup in the right hand, body and gaze oriented toward C while shaking C's hand. Full Roll Call (LOCKED): A (tired, bowing toward B) & B (wearing leather gloves, bowing toward A) remain unchanged. Exclusivity: Only C has a camera. Only D has a coffee cup. No silhouette overlap; Gap Lane empty. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

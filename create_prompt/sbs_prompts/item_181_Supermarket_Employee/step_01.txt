@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Supermarket Employees. Supermarket Employee A has black hair. Supermarket Employee B wears bracelet. Supermarket Employee C is determined. Supermarket Employee D has blue eyes. Supermarket Employee A and Supermarket Employee B are exchanging business cards with each other. Supermarket Employee C and Supermarket Employee D are sharing headphones to listen to music with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create real-world, photographed placeholders for four subjects that look like a human artist’s block-in. Material: matte neutral gray mannequins with blank masks, photographed on a plain seamless background with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives. A and B are in Cluster 1, facing each other. A extends a hand holding a small gray rectangle (business card) toward B. B extends a hand holding a small gray rectangle toward A. B has a simple gray torus on one wrist (bracelet). C and D are in Cluster 2, facing each other. They are connected by a simple gray wire primitive representing shared headphones, with each holding a small gray earbud primitive near their ear. Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

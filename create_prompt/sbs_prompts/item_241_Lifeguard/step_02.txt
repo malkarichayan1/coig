@@ -1,0 +1,17 @@
+Step 2:
+Final Goal (Context): Four Lifeguards. Lifeguard A has undercut hair. Lifeguard B wears ear piercings. Lifeguard C wears anklet. Lifeguard D is sad. Lifeguard A and Lifeguard B are having conversations with each other. Lifeguard C and Lifeguard D are arguing face-to-face, with expressive hand gestures with each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 1 (A, B); Cluster 2 (C, D) remains as placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity.
+
+This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail.
+
+The subjects now display natural, realistic human skin texture with visible pores and fine hairs. Their hair shows individual strands and realistic highlights. Their clothing has realistic fabric wrinkles, seams, and texture.
+
+The specific subjects are:
+A: Has undercut hair with visible, individual hair strands. Body and gaze are oriented toward B, engaged in conversation.
+B: Wears realistic ear piercings. Body and gaze are oriented toward A, engaged in conversation.
+
+Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A has undercut hair. Only B wears ear piercings.

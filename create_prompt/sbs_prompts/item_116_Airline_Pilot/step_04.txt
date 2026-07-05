@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Airline Pilots. Airline Pilot A wears leather gloves. Airline Pilot B has ponytail hair. Airline Pilot C is angry. Airline Pilot D has tote bag in hand. Airline Pilot A and Airline Pilot B are one person shouting while the other looks away with each other. Airline Pilot C and Airline Pilot D are exchanging business cards with each other.
+
+Placement (Compositional Blueprint):
+all subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic airport terminal background with soft, ambient light; integrate subtle contact shadows where the subjects' feet meet the floor; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks remain intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

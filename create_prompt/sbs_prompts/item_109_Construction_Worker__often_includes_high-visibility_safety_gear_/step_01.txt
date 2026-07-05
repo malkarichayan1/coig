@@ -1,0 +1,12 @@
+Step 1:
+Final Goal (Context): Four Construction Workers. Construction Worker A has purse in hand. Construction Worker B is pensive. Construction Worker C wears headphones. Construction Worker D has blue eyes. Construction Worker A and Construction Worker B are whispering a secret into the other's ear with each other. Construction Worker C and Construction Worker D are waving to each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create real-world, photographed placeholders for each subject that look like a human artist’s block-in. Material: matte neutral gray mannequins / gray morph-suit actors with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives bound to the correct hand. The specific placeholders are:
+A: Leaning in close to B's ear to whisper, body and gaze oriented toward B. A simple gray rectangular block (purse) is held in one hand.
+B: Head tilted slightly to listen to A, with one hand to chin to indicate a pensive pose, body and gaze oriented toward A.
+C: Right arm raised in a waving gesture, body and gaze oriented toward D. A simple gray form is fitted over the ears to represent headphones.
+D: Left arm raised in a waving gesture, body and gaze oriented toward C.
+Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

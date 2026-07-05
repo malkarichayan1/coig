@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Firefighters. Firefighter A has gray eyes. Firefighter B has Backpack in hand. Firefighter C wears eyebrow piercing. Firefighter D is serene. Firefighter A and Firefighter B are fist bumping with each other. Firefighter C and Firefighter D are one person shouting while the other looks away with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of a fire station interior with equipment visible in the background; integrate subtle contact shadows and highlights on the subjects to match the environment; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

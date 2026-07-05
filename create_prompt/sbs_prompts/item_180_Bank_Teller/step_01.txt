@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Bank Tellers. Bank Teller A is angry. Bank Teller B has hazel eyes. Bank Teller C wears headphones. Bank Teller D is serious. Bank Teller A and Bank Teller B are bowing to each other. Bank Teller C and Bank Teller D are placing a comforting hand on the other's shoulder or back with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create a real-world photograph of four matte neutral gray mannequins (or gray morph-suit actors with blank masks) on a plain seamless background with soft studio lighting. Faces have no pupils, irises, or other features. Hair is a single matte mass. Clothing is plain gray forms. Props are simple gray primitives. A and B are in Cluster 1 on the left. C and D are in Cluster 2 on the right. A: Bowing, body and gaze oriented toward B. B: Bowing, body and gaze oriented toward A. C: Placing a hand on D's shoulder, body and gaze oriented toward D. Wears simple gray primitives over the ears for headphones. D: Placing a hand on C's back, body and gaze oriented toward C. Each person is fully visible with slight yaw offsets. There is no silhouette overlap. The Gap Lane between clusters is empty. ABSOLUTELY NO COLOR. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

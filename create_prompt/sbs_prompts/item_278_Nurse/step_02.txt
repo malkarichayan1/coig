@@ -1,0 +1,7 @@
+Step 2:
+Final Goal (Context): Four Nurses. Nurse A has soda can in hand. Nurse B has goatee. Nurse C is tired. Nurse D is joyful. Nurse A and Nurse B are Arguing face-to-face, with expressive hand gestures with each other. Nurse C and Nurse D are Shaking hands with each other.
+
+Placement (Compositional Blueprint):
+Fill in subjects A and B; C and D remain as placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail. The subjects now display natural, realistic human skin texture with visible pores and fine hairs. Their hair shows individual strands and realistic highlights. Their clothing has realistic fabric wrinkles, seams, and texture. The specific subjects are: A: Arguing with B, making expressive hand gestures, and holding a soda can in one hand. A's body and gaze are oriented toward B. B: Has a goatee. Arguing with A, making expressive hand gestures. B's body and gaze are oriented toward A. Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A has a soda can. Only B has a goatee.

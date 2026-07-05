@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Nurses. Nurse A has soda can in hand. Nurse B has goatee. Nurse C is tired. Nurse D is joyful. Nurse A and Nurse B are Arguing face-to-face, with expressive hand gestures with each other. Nurse C and Nurse D are Shaking hands with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic hospital breakroom background; integrate subtle contact shadows and highlights; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks (A: soda can; B: goatee; C: tired; D: joyful) are intact.

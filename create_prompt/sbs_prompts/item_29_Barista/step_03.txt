@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Baristas. Barista A has red hair. Barista B has grocery bag in hand. Barista C has shaved head hair. Barista D has green eyes. Barista A and Barista B are waving to each other. Barista C and Barista D are bowing to each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) upgrading; Cluster 1 (A, B) locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image shot on a high-resolution DSLR with an 85mm portrait lens. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has a clean-shaven head, bowing with their body and gaze oriented toward D. D: Has striking green eyes, bowing with their body and gaze oriented toward C. Full Roll Call (LOCKED): A (red hair, waving at B) & B (grocery bag, waving at A) remain unchanged. Exclusivity holds: Only C has a shaved head. Only D has green eyes. No silhouette overlap; Gap Lane empty. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

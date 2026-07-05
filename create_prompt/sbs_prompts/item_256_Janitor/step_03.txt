@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Janitors. Janitor A is content. Janitor B has water bottle in hand. Janitor C wears glasses. Janitor D has tattoos on leg. Janitor A and Janitor B are helping someone up after they have fallen with each other. Janitor C and Janitor D are having conversations with each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Wears realistic glasses, standing and having a conversation with D, body and gaze oriented toward D. D: Has realistic, detailed tattoos on one leg, standing and having a conversation with C, body and gaze oriented toward C. Full Roll Call (LOCKED): A (content, helping B) & B (water bottle, helping A) remain unchanged. Exclusivity holds (Only C wears glasses, only D has tattoos on leg). No overlaps; Gap Lane empty.

@@ -1,0 +1,8 @@
+Step 4:
+Final Goal (Context): Four Sailors. Sailor A wears leather gloves. Sailor B has tablet in hand. Sailor C has Coffee cup in hand. Sailor D has curly hair. Sailor A and Sailor B are waving to each other. Sailor C and Sailor D are pouring the other a cup of tea or coffee with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked. Gap Lane remains empty.
+
+This Step's Action: Add a hyperrealistic background of the deck of a naval ship at sea, with a clear sky overhead. Integrate subtle contact shadows where the sailors' feet touch the deck and ensure the soft, even lighting on the subjects is consistent with the environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks remain intact.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Sailors. Sailor A has smartphone in hand. Sailor B has backpack in hand. Sailor C has green eyes. Sailor D wears rings. Sailor A and Sailor B are waving to each other. Sailor C and Sailor D are fist bumping with each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image with real human skin texture and visible skin pores. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their hair shows individual hair strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: A sailor with green eyes, fist bumping with D, body and gaze oriented toward D. D: A sailor wearing rings on his fingers, fist bumping with C, body and gaze oriented toward C. Full Roll Call (LOCKED): A (with smartphone, waving at B) and B (with backpack, waving at A) remain unchanged. Exclusivity: Only C has green eyes. Only D wears rings. No silhouette overlap; Gap Lane empty. Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

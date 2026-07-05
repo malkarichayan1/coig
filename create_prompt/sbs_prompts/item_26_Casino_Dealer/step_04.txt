@@ -1,0 +1,9 @@
+Step 4:
+Final Goal (Context): Four Casino Dealers. Casino Dealer A wears lip piercings. Casino Dealer B is clean-shaven. Casino Dealer C has medium-length hair. Casino Dealer D has tattoos on ankle. Casino Dealer A and Casino Dealer B are bowing to each other. Casino Dealer C and Casino Dealer D are one person shouting while the other looks away with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic casino floor background, slightly out of focus. Integrate subtle contact shadows and realistic environmental lighting on all four subjects. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact.
+
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

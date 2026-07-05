@@ -1,0 +1,13 @@
+Step 3:
+Final Goal (Context): Four Police Officers. Police Officer A wears anklet. Police Officer B is frowning. Police Officer C has red hair. Police Officer D has brown eyes. Police Officer A and Police Officer B are shaking hands with each other. Police Officer C and Police Officer D are assembling something, reading instructions together with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) is being filled in; Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image using a high-resolution DSLR and soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores and natural hair strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are:
+
+C: A police officer with red hair. C's body and gaze are oriented toward D and the object they are assembling, reading instructions.
+
+D: A police officer with brown eyes. D's body and gaze are oriented toward C and the object they are assembling, reading instructions.
+
+Full Roll Call (LOCKED): A (wearing anklet, shaking hands with B) & B (frowning, shaking hands with A) remain unchanged. Exclusivity: Only C has red hair. Only D has brown eyes. No silhouette overlap; Gap Lane empty.

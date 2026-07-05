@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Theme Park Employees. Theme Park Employee A is clean-shaven. Theme Park Employee B has tattoos on arm. Theme Park Employee C wears earrings. Theme Park Employee D has Coffee cup in hand. Theme Park Employee A and Theme Park Employee B are pointing an accusatory finger at the other with each other. Theme Park Employee C and Theme Park Employee D are placing a comforting hand on the other's shoulder or back with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) upgrading; Cluster 1 (A, B) locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image shot on a high-resolution DSLR with an 85mm portrait lens and f/2.2 aperture, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores and natural hair strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Wears earrings, placing a comforting hand on D's shoulder, with body and gaze oriented toward D. D: Holding a coffee cup, placing a comforting hand on C's back, with body and gaze oriented toward C. Full Roll Call (LOCKED): A (clean-shaven, pointing at B) & B (tattoos, pointing at A) remain unchanged. Exclusivity holds: Only C wears earrings, only D has a coffee cup. No silhouette overlap; Gap Lane empty.

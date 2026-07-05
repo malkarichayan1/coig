@@ -1,0 +1,15 @@
+Step 3:
+Final Goal (Context): Four Theme Park Employees. Theme Park Employee A has green eyes. Theme Park Employee B is determined. Theme Park Employee C has sideburns. Theme Park Employee D is happy. Theme Park Employee A and Theme Park Employee B are sharing headphones to listen to music with each other. Theme Park Employee C and Theme Park Employee D are bowing to each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) is being filled in; Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B.
+
+The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles and texture.
+
+The specific subjects are:
+C: Has sideburns. Body and gaze are oriented toward D, bowing to D.
+D: Has a happy expression. Body and gaze are oriented toward C, bowing to C.
+
+Full Roll Call (LOCKED): A (green eyes, sharing headphones, facing B) & B (determined, sharing headphones, facing A) remain unchanged. Exclusivity holds: Only C has sideburns. Only D is happy. No overlaps; Gap Lane empty.

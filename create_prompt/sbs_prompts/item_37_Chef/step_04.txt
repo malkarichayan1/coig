@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Chefs. Chef A wears latex gloves. Chef B wears an anklet. Chef C is surprised. Chef D wears glasses. Chef A and Chef B are helping someone up after they have fallen with each other. Chef C and Chef D are one person shouting while the other looks away with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic professional kitchen background; integrate subtle contact shadows and highlights to ground the subjects in the environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks remain intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

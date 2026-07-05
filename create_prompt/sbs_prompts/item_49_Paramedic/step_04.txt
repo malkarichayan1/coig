@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Paramedics. Paramedic A wears leather gloves. Paramedic B wears piercings on ears. Paramedic C is tired. Paramedic D has water bottle in hand. Paramedic A and Paramedic B are having conversations with each other. Paramedic C and Paramedic D are pouring the other a cup of tea or coffee with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked; Gap Lane remains empty.
+
+This Step's Action: Add a hyperrealistic background of a hospital break room or an ambulance bay during downtime. Integrate subtle contact shadows and highlights where the subjects interact with the environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks (A: gloves, B: piercings, C: tired, D: water bottle) are intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

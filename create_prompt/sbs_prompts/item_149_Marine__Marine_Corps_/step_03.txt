@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Marines. Marine A has soda can in hand. Marine B has mustache. Marine C is bored. Marine D is angry. Marine A and Marine B are taking a pulse with each other. Marine C and Marine D are looking at the same phone or tablet screen with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) is being filled in; Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image shot on a high-resolution DSLR. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores and natural hair strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has a bored facial expression (unfocused gaze, slack features). Looking down at a shared generic tablet (no logos, abstract UI on screen). D: Has an angry facial expression (furrowed brow, tense jaw). Looking down at the same shared tablet. Full Roll Call (LOCKED): A (holding soda can, taking pulse) & B (mustache, arm extended) remain unchanged. Exclusivity: Only C is bored. Only D is angry. No overlaps; Gap Lane empty. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

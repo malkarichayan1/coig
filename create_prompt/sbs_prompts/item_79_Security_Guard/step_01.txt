@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Security Guards. Security Guard A has apple in hand. Security Guard B wears Necklace. Security Guard C is disgusted. Security Guard D is serene. Security Guard A and Security Guard B are having conversations with each other. Security Guard C and Security Guard D are arguing face-to-face, with expressive hand gestures with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create real-world, photographed placeholders for four subjects that look like a human artist’s block-in. Material: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives. The poses capture only silhouette and gesture. Cluster 1 (left): A and B are posed facing each other as if in conversation. A's hand holds a simple gray sphere (apple). B has a simple gray torus around its neck (necklace). Cluster 2 (right): C and D are posed face-to-face, arguing. C's pose suggests disgust. D's pose is calm. Both C and D have expressive hand gestures. Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

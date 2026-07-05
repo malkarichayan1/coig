@@ -1,0 +1,10 @@
+Step 3:
+Final Goal (Context): Four Supermarket Employees. Supermarket Employee A is laughing. Supermarket Employee B has tattoos on leg. Supermarket Employee C has braids hair. Supermarket Employee D is determined. Supermarket Employee A and Supermarket Employee B are high-five with each other. Supermarket Employee C and Supermarket Employee D are Pouring the other a cup of tea or coffee with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) upgrading; Cluster 1 (A, B) is locked.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a detailed studio shot with sharp focus. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles. The specific subjects are:
+C: Has hair styled in detailed braids with individual hair strands visible. C is holding a coffee pot and pouring a drink into D's cup, with body and gaze oriented toward D.
+D: Has a determined facial expression, holding a cup to receive the drink from C, with body and gaze oriented toward C.
+Full Roll Call (LOCKED): A (laughing, facing B) & B (leg tattoos, facing A) remain unchanged. Exclusivity holds: Only C has braids. Only D has a determined expression. No silhouette overlaps; Gap Lane empty. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

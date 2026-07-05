@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Airline Pilots. Airline Pilot A wears latex gloves. Airline Pilot B has brown eyes. Airline Pilot C has coffee cup in hand. Airline Pilot D is determined. Airline Pilot A and Airline Pilot B are shaking hands with each other. Airline Pilot C and Airline Pilot D are pouring the other a cup of tea or coffee with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked. Gap Lane remains empty.
+
+This Step's Action: Add a hyperrealistic background of an airport crew briefing room. Integrate subtle contact shadows and highlights on the subjects to match the new environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

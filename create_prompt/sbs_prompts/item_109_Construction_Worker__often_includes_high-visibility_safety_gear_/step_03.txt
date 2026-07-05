@@ -1,0 +1,10 @@
+Step 3:
+Final Goal (Context): Four Construction Workers. Construction Worker A has purse in hand. Construction Worker B is pensive. Construction Worker C wears headphones. Construction Worker D has blue eyes. Construction Worker A and Construction Worker B are whispering a secret into the other's ear with each other. Construction Worker C and Construction Worker D are waving to each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) is being filled in; Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are:
+C: A construction worker wearing realistic headphones over their ears, waving with their right hand. Body and gaze are oriented toward D.
+D: A construction worker with realistic, detailed blue eyes, waving with their left hand. Body and gaze are oriented toward C.
+Subjects A and B remain locked and unchanged. Preserve all poses, Micro-Zones, spacing, and yaw. No silhouette overlap; Gap Lane empty. Exclusivity: Only C wears headphones. Only D has blue eyes.

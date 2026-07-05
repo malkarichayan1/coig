@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Flight Attendants. Flight Attendant A wears Winter gloves. Flight Attendant B has Coffee cup in hand. Flight Attendant C has laptop in hand. Flight Attendant D wears glasses. Flight Attendant A and Flight Attendant B are one person shouting while the other looks away with each other. Flight Attendant C and Flight Attendant D are one person pointing an accusatory finger at the other with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) is being filled in; Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Holds a modern laptop in one hand and points an accusatory finger at D with the other, body and gaze oriented toward D. D: Wears realistic glasses and has a defensive expression, looking back at C. Full Roll Call (LOCKED): A (wearing winter gloves, shouting at B) & B (holding coffee cup, looking away from A) remain unchanged. Exclusivity: Only C has a laptop. Only D wears glasses. No overlaps; Gap Lane empty.

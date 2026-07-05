@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Housekeeping Staff. Housekeeping Staff A wears sunglasses. Housekeeping Staff B wears Winter gloves. Housekeeping Staff C has camera in hand. Housekeeping Staff D has Black hair. Housekeeping Staff A and Housekeeping Staff B are bowing to each other. Housekeeping Staff C and Housekeeping Staff D are waving to each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked; Gap Lane is empty.
+
+This Step's Action: Add a hyperrealistic, clean, modern hotel hallway background; integrate subtle contact shadows and highlights to ground the subjects in the environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks (A: sunglasses, B: Winter gloves, C: camera, D: Black hair) are intact.

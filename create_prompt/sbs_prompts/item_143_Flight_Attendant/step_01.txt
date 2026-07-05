@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Flight Attendants. Flight Attendant A has blue eyes. Flight Attendant B has water bottle in hand. Flight Attendant C wears lip piercing. Flight Attendant D wears headphones. Flight Attendant A and Flight Attendant B are looking at the same phone or tablet screen with each other. Flight Attendant C and Flight Attendant D are giving a fist bump with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create four real-world, photographed placeholders that look like a human artist’s block-in: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces have no pupils/irises/eyelashes/eyebrows/teeth. Hair is a single matte mass. Clothing is plain gray forms. Props are simple gray primitives. A and B are posed looking down at a shared gray rectangular block (tablet) held between them. A's body and gaze are oriented toward B. B holds a simple gray cylinder (bottle) in one hand, with body and gaze oriented toward A. C and D are posed giving a fist bump. C's body and gaze are oriented toward D, right fist extended. D wears a simple gray primitive for headphones, body and gaze oriented toward C, left fist extended to meet C's. Each person is fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

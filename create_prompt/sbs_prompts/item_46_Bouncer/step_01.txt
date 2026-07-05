@@ -1,0 +1,17 @@
+Step 1:
+Final Goal (Context): Four Bouncers. Bouncer A wears latex gloves. Bouncer B wears glasses. Bouncer C is thoughtful. Bouncer D has Backpack in hand. Bouncer A and Bouncer B are arguing face-to-face, with expressive hand gestures with each other. Bouncer C and Bouncer D are one person placing a comforting hand on the other's shoulder or back with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create real-world, photographed placeholders for four subjects that look like a human artist’s block-in. Material: matte neutral gray mannequins / gray morph-suit actors with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives.
+
+Cluster 1 (Left): Two figures arguing.
+A: Body and gaze oriented toward B, hands raised in an expressive gesture. Hands are covered in a smooth, distinct gray layer to represent gloves.
+B: Body and gaze oriented toward A, hands raised in a counter-gesture. A simple gray primitive representing glasses sits on the face.
+
+Cluster 2 (Right): Two figures in a comforting interaction.
+C: Body and gaze oriented toward D, head tilted thoughtfully, right hand resting on D's left shoulder.
+D: Body and gaze oriented toward C, posture receptive to comfort. Left hand grips a simple gray block primitive representing a backpack.
+
+Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

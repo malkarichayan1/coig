@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Supermarket Employees. Supermarket Employee A is serene. Supermarket Employee B has apple in hand. Supermarket Employee C has green eyes. Supermarket Employee D has briefcase in hand. Supermarket Employee A and Supermarket Employee B are having conversations with each other. Supermarket Employee C and Supermarket Employee D are looking at the same phone or tablet screen with each other.
+
+Placement (Compositional Blueprint):
+Fill in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their hair shows individual hair strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has vibrant green eyes, body and gaze oriented toward D, looking down at a shared phone screen. D: Holds a realistic briefcase in their free hand, body and gaze oriented toward C, looking down at the shared phone screen. Full Roll Call (LOCKED): A (serene, facing B) & B (holding apple, facing A) remain unchanged. Exclusivity holds: Only C has green eyes. Only D has a briefcase. No overlaps; Gap Lane empty.

@@ -1,0 +1,7 @@
+Step 2:
+Final Goal (Context): Four Theme Park Employees. Theme Park Employee A is clean-shaven. Theme Park Employee B has tattoos on arm. Theme Park Employee C wears earrings. Theme Park Employee D has Coffee cup in hand. Theme Park Employee A and Theme Park Employee B are pointing an accusatory finger at the other with each other. Theme Park Employee C and Theme Park Employee D are placing a comforting hand on the other's shoulder or back with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) upgrading; Cluster 2 (C, D) remains placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: A: Clean-shaven, pointing an accusatory finger at B, with body and gaze oriented toward B. B: Has visible tattoos on one arm, pointing an accusatory finger at A, with body and gaze oriented toward A. Preserve all poses, Micro-Zones, and spacing. No silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only B has tattoos.

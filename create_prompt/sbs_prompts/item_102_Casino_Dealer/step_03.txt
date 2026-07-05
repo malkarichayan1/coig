@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Casino Dealers. Casino Dealer A is sad. Casino Dealer B has coffee cup in hand. Casino Dealer C has hazel eyes. Casino Dealer D wears headphones. Casino Dealer A and Casino Dealer B are giving a fist bump with each other. Casino Dealer C and Casino Dealer D are whispering a secret into the other's ear with each other.
+
+Placement (Compositional Blueprint):
+Filling in C and D; A and B are locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. Do not alter the locked subjects A and B. This is a photorealistic image with real human skin texture, visible skin pores, and natural hair strands. The subjects are lit with soft, even studio lighting. The specific subjects are: C: Has hazel eyes, is leaning in and whispering into D's ear, with body and gaze oriented toward D. D: Is wearing headphones, is leaning in to listen to C, with body and gaze oriented toward C. Preserve all poses, Micro-Zones, and spacing. The Gap Lane remains empty. Subjects A and B remain locked and unchanged. Exclusivity: Only C has hazel eyes. Only D wears headphones. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

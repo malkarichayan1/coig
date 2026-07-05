@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Baristas. Barista A has tablet in hand. Barista B has sandwich in hand. Barista C has tattoos on neck. Barista D has blue eyes. Barista A and Barista B are one person turning their back on the other while they are speaking with each other. Barista C and Barista D are exchanging business cards with each other.
+
+Placement (Compositional Blueprint):
+Fill-in subjects C and D. Subjects A and B are locked and immutable. No positions change.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image shot on a high-resolution DSLR with an 85mm portrait lens. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores and their hair shows natural hair strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: A barista with visible tattoos on their neck, body and gaze oriented toward D, extending a business card with their right hand. D: A barista with blue eyes, body and gaze oriented toward C, extending a business card with their left hand to exchange with C. Full Roll Call (LOCKED): A (holding tablet, facing B) & B (holding sandwich, turned away from A but listening) remain unchanged. Exclusivity holds: Only C has neck tattoos. Only D has blue eyes. No silhouette overlap; Gap Lane empty.

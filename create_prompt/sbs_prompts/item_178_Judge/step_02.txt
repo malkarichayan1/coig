@@ -1,0 +1,7 @@
+Step 2:
+Final Goal (Context): Four Judges. Judge A is smiling. Judge B wears rings. Judge C has gray eyes. Judge D has gray hair. Judge A and Judge B are whispering a secret into the other's ear with each other. Judge C and Judge D are looking at the same phone or tablet screen with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) is being filled in; Cluster 2 (C, D) remains as placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail. The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: A: Has a natural smile, body and gaze oriented toward B, whispering into B's ear. B: Wears realistic, detailed rings on their fingers, body and gaze oriented toward A, whispering into A's ear. Preserve all poses, Micro-Zones, and spacing. Gap Lane remains empty. Placeholders C and D remain completely unchanged. Exclusivity: Only A is smiling. Only B wears rings.

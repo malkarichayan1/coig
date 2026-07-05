@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Construction Workers. Construction Worker A wears lip piercings. Construction Worker B wears glasses. Construction Worker C has laptop in hand. Construction Worker D has tattoos on leg. Construction Worker A and Construction Worker B are taking a pulse with each other. Construction Worker C and Construction Worker D are bowing to each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 left; Cluster 2 right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create four real-world, photographed placeholders that look like a human artist’s block-in: matte neutral gray mannequins or gray morph-suit actors with blank masks, photographed on a plain seamless with soft studio light. Faces have no pupils/irises/eyelashes/eyebrows/teeth. Hair is a single matte mass. Clothing is plain gray forms. Props are simple gray primitives. A: Body and gaze oriented toward B, right hand positioned on B's left wrist to take a pulse. Small gray primitives on the lip area indicate piercings. B: Body and gaze oriented toward A, left arm extended slightly for A. A simple gray primitive frame on the face indicates glasses. C: Body and gaze oriented toward D, bowing from the waist, holding a flat gray rectangular block (laptop). D: Body and gaze oriented toward C, bowing from the waist. A flat gray patch on the leg indicates the tattoo area. Each person is fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

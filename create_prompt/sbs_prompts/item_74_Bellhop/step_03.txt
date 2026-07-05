@@ -1,0 +1,19 @@
+Step 3:
+Final Goal (Context): Four Bellhops. Bellhop A has tattoos on leg. Bellhop B wears glasses. Bellhop C wears leather gloves. Bellhop D has medium-length hair. Bellhop A and Bellhop B are assembling something, reading instructions together with each other. Bellhop C and Bellhop D are kneeling before someone with each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. Do not move or alter the locked subjects A and B.
+
+This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes.
+
+The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture.
+
+The specific subjects are:
+C: Is kneeling, wearing realistic leather gloves. Body and gaze are oriented forward, away from the viewer.
+D: Is kneeling, has realistic medium-length hair with individual hair strands. Body and gaze are oriented forward, away from the viewer.
+
+Full Roll Call (LOCKED): A (leg tattoos, facing B) & B (glasses, facing A) remain unchanged. Exclusivity holds: Only C wears leather gloves. Only D has medium-length hair. No overlaps; Gap Lane empty.
+
+Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Plumbers. Plumber A is scared. Plumber B is content. Plumber C wears glasses. Plumber D has suitcase in hand. Plumber A and Plumber B are fist bumping with each other. Plumber C and Plumber D are turning their back on the other while speaking with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create four real-world, photographed placeholders that look like a human artist’s block-in: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces have no pupils/irises/eyelashes/eyebrows/teeth. Hair is a single matte mass. Clothing is plain gray forms. Props are simple gray primitives. A: Scared pose, right arm extended for a fist bump, body and gaze oriented toward B. B: Content, relaxed pose, left arm extended for a fist bump, body and gaze oriented toward A. C: Body turned away from A/B, facing D, with a simple gray primitive for glasses on the blank face, speaking gesture. D: Body turned away from A/B, facing C, holding a simple gray cuboid primitive for the suitcase, speaking gesture. Each person is fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

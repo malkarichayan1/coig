@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Supermarket Employees. Supermarket Employee A is laughing. Supermarket Employee B has tattoos on leg. Supermarket Employee C has braids hair. Supermarket Employee D is determined. Supermarket Employee A and Supermarket Employee B are high-five with each other. Supermarket Employee C and Supermarket Employee D are Pouring the other a cup of tea or coffee with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Place four matte-gray stand-ins (mannequins or gray morph-suit actors with blank masks) on a seamless studio background with soft lighting. Faces are de-identified (no features), hair is a single matte mass, and clothing is plain gray forms. Props are simple gray primitives. A and B are posed for a high-five, facing each other. C and D are posed with C pouring a drink for D, facing each other. A's mouth is open to imply laughter. B has a flat gray patch on their leg for the tattoo placement. C's hair is a single molded mass with a braided texture. D's face is neutral to imply determination. Each person is fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

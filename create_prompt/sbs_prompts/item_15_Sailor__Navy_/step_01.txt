@@ -1,0 +1,17 @@
+Step 1:
+Final Goal (Context): Four Sailors (Navy). Sailor A wears necklace. Sailor B has camera in hand. Sailor C is determined. Sailor D has gray eyes. Sailor A and Sailor B are one person shouting while the other looks away with each other. Sailor C and Sailor D are looking at the same phone or tablet screen with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create four real-world, photographed placeholders that look like a human artist’s block-in: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces have no pupils/irises/eyelashes/eyebrows/teeth. Hair is a single matte mass. Clothing is plain gray forms. Props are simple gray primitives. This step captures only pose/gesture/silhouette.
+
+Cluster 1 (Left):
+A: Body oriented toward B, head turned toward B with mouth open in a shouting pose. A simple gray torus shape is around the neck for the necklace.
+B: Body mostly oriented toward A, but head and gaze are turned away from A. Holds a simple gray box primitive (camera) in their hands.
+
+Cluster 2 (Right):
+C: Body and gaze oriented downward and inward toward a shared prop. Pose implies a determined focus.
+D: Body and gaze oriented downward and inward toward the same shared prop. Both C and D are looking at a single gray rectangular block (tablet) held between them.
+
+Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

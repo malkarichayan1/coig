@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Sailors. Sailor A has brown eyes. Sailor B is confused. Sailor C wears glasses. Sailor D has gray hair. Sailor A and Sailor B are exchanging business cards with each other. Sailor C and Sailor D are one person crossing their arms and glaring while the other tries to talk with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of a naval pier; integrate subtle contact shadows and highlights on the subjects to match the environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

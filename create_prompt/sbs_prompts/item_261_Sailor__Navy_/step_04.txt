@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Sailors. Sailor A has afro hair. Sailor B wears glasses. Sailor C has tote bag in hand. Sailor D has gray hair. Sailor A and Sailor B are one person shouting while the other looks away with each other. Sailor C and Sailor D are one person Bowing to other with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic dockside or naval ship deck background; integrate subtle contact shadows and highlights; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity rules are intact.

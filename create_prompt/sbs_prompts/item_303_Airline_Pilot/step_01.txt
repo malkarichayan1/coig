@@ -1,0 +1,14 @@
+Step 1:
+Final Goal (Context): Four Airline Pilots. Airline Pilot A wears rings. Airline Pilot B has purse in hand. Airline Pilot C has goatee. Airline Pilot D has tattoos on arm. Airline Pilot A and Airline Pilot B are pointing an accusatory finger at the other with each other. Airline Pilot C and Airline Pilot D are turning their back on the other while they are speaking with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create four real-world, photographed placeholders that look like a human artist’s block-in: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces have no pupils/irises/eyelashes/eyebrows/teeth. Hair is a single matte mass. Clothing is plain gray forms. Props are simple gray primitives.
+
+A: Body and gaze oriented toward B, pointing an accusatory finger at B. Rings are simple gray bands on fingers.
+B: Body and gaze oriented toward A, pointing an accusatory finger at A. Holds a simple gray rectangular block (purse) in the other hand.
+C: Body and gaze oriented toward D, turned away from Cluster 1, in a speaking pose. Goatee is a flat gray patch on the chin.
+D: Body and gaze oriented toward C, turned away from Cluster 1, in a speaking pose. Tattoos are a flat gray pattern on one arm.
+
+Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

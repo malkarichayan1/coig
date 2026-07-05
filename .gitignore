@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+
+# generated outputs
+create_images/baseline_out/
+create_images/multi_step_out/
+evaluate/evaluation_*.csv
+create_dataset/my_prompts.csv

@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Airline Pilots. Airline Pilot A has ponytail hair. Airline Pilot B has blonde hair. Airline Pilot C has mustache. Airline Pilot D wears necklace. Airline Pilot A and Airline Pilot B are pouring the other a cup of tea or coffee with each other. Airline Pilot C and Airline Pilot D are having conversations with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of an airport crew lounge; integrate subtle contact shadows and highlights on the subjects to match the environment; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks remain intact.

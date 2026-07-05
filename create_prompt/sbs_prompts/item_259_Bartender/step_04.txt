@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Bartenders. Bartender A has camera in hand. Bartender B is confused. Bartender C has green eyes. Bartender D is excited. Bartender A and Bartender B are pointing an accusatory finger at each other. Bartender C and Bartender D are waving to each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic bar interior background behind the four subjects; integrate subtle contact shadows and highlights where their bodies interact with the environment; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

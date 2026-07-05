@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Airmen. Airman A has laptop in hand. Airman B has undercut hair. Airman C is angry. Airman D wears lip piercings. Airman A and Airman B are pointing an accusatory finger at each other. Airman C and Airman D are bowing to each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has an angry facial expression with furrowed brows and a tense jaw, body bent in a bow towards D. D: Wears two small, realistic metallic lip piercings (snake bites). Body is bent in a bow towards C. Full Roll Call (LOCKED): A (holding laptop, pointing at B) & B (undercut hair, pointing at A) remain unchanged. Exclusivity holds: Only C is angry. Only D has lip piercings. No overlaps; Gap Lane empty.

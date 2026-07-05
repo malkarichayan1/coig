@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Airline Pilots. Airline Pilot A has ponytail hair. Airline Pilot B has blonde hair. Airline Pilot C has mustache. Airline Pilot D wears necklace. Airline Pilot A and Airline Pilot B are pouring the other a cup of tea or coffee with each other. Airline Pilot C and Airline Pilot D are having conversations with each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image using a high-resolution DSLR with an 85mm portrait lens and soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has a realistic mustache. C is in a conversational pose, with body and gaze oriented toward D. D: Wears a necklace. D is in a conversational pose, with body and gaze oriented toward C. Full Roll Call (LOCKED): A (ponytail hair, pouring drink, facing B) & B (blonde hair, holding cup, facing A) remain unchanged. Exclusivity holds: Only C has a mustache. Only D wears a necklace. No overlaps; Gap Lane empty.

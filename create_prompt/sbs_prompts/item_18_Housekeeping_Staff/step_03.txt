@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Housekeeping Staff. Housekeeping Staff A wears sunglasses. Housekeeping Staff B wears Winter gloves. Housekeeping Staff C has camera in hand. Housekeeping Staff D has Black hair. Housekeeping Staff A and Housekeeping Staff B are bowing to each other. Housekeeping Staff C and Housekeeping Staff D are waving to each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) is being filled in; Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is a photorealistic image shot on a high-resolution DSLR. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: A hyperrealistic person holding a realistic camera in one hand, waving with the other. Body and gaze are oriented toward D. D: A hyperrealistic person with realistic Black hair showing individual hair strands, waving with one hand. Body and gaze are oriented toward C. Full Roll Call (LOCKED): A (wearing sunglasses, bowing to B) & B (wearing Winter gloves, bowing to A) remain unchanged. Exclusivity: Only C has a camera. Only D has Black hair. No silhouette overlap; Gap Lane empty.

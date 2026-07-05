@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Electricians. Electrician A has briefcase in hand. Electrician B wears earrings. Electrician C has apple in hand. Electrician D has green eyes. Electrician A is turning their back on Electrician B while speaking. Electrician C and Electrician D are shaking hands with each other.
+
+Placement (Compositional Blueprint):
+Fill-in C and D; A and B are locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image shot on a high-resolution DSLR with an 85mm portrait lens. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores and natural hair strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Body and gaze are oriented toward D, shaking D's right hand with their own right hand. C's left hand holds a realistic red apple. D: Has distinct green eyes. Body and gaze are oriented toward C, shaking C's right hand with their own right hand. Full Roll Call (LOCKED): A (with briefcase, speaking to B) & B (with earrings, listening to A) remain unchanged. Exclusivity holds: Only C has an apple. Only D has green eyes. No overlaps; Gap Lane empty. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

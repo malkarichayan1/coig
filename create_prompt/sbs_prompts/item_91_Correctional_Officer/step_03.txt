@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Correctional Officers. Correctional Officer A is angry. Correctional Officer B has a beard. Correctional Officer C has blue eyes. Correctional Officer D has afro hair. Correctional Officer A and Correctional Officer B are kneeling before someone with each other. Correctional Officer C and Correctional D are giving a fist bump with each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their hair shows individual strands and realistic highlights. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Standing with blue eyes, giving a fist bump to D, body and gaze oriented toward D. D: Standing with natural afro hair, giving a fist bump to C, body and gaze oriented toward C. Full Roll Call (LOCKED): A (angry, kneeling, facing B) & B (beard, kneeling, facing A) remain unchanged. Exclusivity holds: Only C has blue eyes. Only D has afro hair. No overlaps; Gap Lane empty.

@@ -1,0 +1,19 @@
+Step 1:
+Final Goal (Context): Four Housekeeping Staff. Housekeeping Staff A has white hair. Housekeeping Staff B has tattoos on ankle. Housekeeping Staff C has gray eyes. Housekeeping Staff D is frowning. Housekeeping Staff A and Housekeeping Staff B are shaking hands with each other. Housekeeping Staff C and Housekeeping Staff D are exchanging business cards with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) on the left; Cluster 2 (C, D) on the right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create real-world, photographed placeholders for four subjects that look like a human artist’s block-in. Material: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives.
+
+Cluster 1 (Left): A and B are positioned facing each other, shaking hands.
+- A: Hair is a single matte white mass. Body and gaze oriented toward B.
+- B: A flat gray patch is on the ankle to indicate the tattoo area. Body and gaze oriented toward A.
+
+Cluster 2 (Right): C and D are positioned facing each other, holding small gray rectangles (business cards) between them.
+- C: Body and gaze oriented toward D.
+- D: A shallow downward curve indicates a frown. Body and gaze oriented toward C.
+
+Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR (except for A's white hair mass).
+
+Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Correctional Officers. Correctional Officer A is angry. Correctional Officer B has a beard. Correctional Officer C has blue eyes. Correctional Officer D has afro hair. Correctional Officer A and Correctional Officer B are kneeling before someone with each other. Correctional Officer C and Correctional D are giving a fist bump with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of a clean, modern correctional facility hallway; integrate subtle contact shadows and highlights where the subjects' feet and knees meet the floor; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact.

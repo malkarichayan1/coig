@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four State Park Rangers. State Park Ranger A has red hair. State Park Ranger B wears a lip piercing. State Park Ranger C wears glasses. State Park Ranger D has camera in hand. State Park Ranger A and State Park Ranger B are bowing to each other. State Park Ranger C and State Park Ranger D are shaking hands with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic state park trail background with natural foliage and lighting; integrate subtle contact shadows and highlights on the subjects to match the environment; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact.

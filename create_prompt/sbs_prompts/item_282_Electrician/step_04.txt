@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Electricians. Electrician A has blue eyes. Electrician B is content. Electrician C has a goatee. Electrician D has medium-length hair. Electrician A and Electrician B are waving to each other. Electrician C and Electrician D are exchanging business cards with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of a well-lit, modern industrial workshop; integrate subtle contact shadows and highlights on the subjects to ground them in the environment; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks (A: blue eyes; B: content; C: goatee; D: medium-length hair) are intact.

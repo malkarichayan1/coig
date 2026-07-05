@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Security Guards. Security Guard A is sad. Security Guard B has gray hair. Security Guard C has coily hair. Security Guard D has grocery bag in hand. Security Guard A and Security Guard B are sharing headphones to listen to music with each other. Security Guard C and Security Guard D are arguing face-to-face, with expressive hand gestures with each other.
+
+Placement (Compositional Blueprint):
+Fill-in Cluster 2 (C, D); A and B are locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has realistic coily hair with individual hair strands. Body and gaze are oriented toward D, with an argumentative expression and expressive hand gestures. D: Holds a realistic grocery bag. Body and gaze are oriented toward C, with an argumentative expression and expressive hand gestures. Full Roll Call (LOCKED): A (sad, sharing headphones, facing B) & B (gray hair, sharing headphones, facing A) remain unchanged. Exclusivity holds: Only C has coily hair. Only D has a grocery bag. No overlaps; Gap Lane empty.

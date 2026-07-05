@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Marines. Marine A wears Winter gloves. Marine B has soda can in hand. Marine C has tattoos on ankle. Marine D has red hair. Marine A and Marine B are pointing an accusatory finger at the other with each other. Marine C and Marine D are kneeling before someone with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) is being filled in; Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image shot on a high-resolution DSLR with an 85mm portrait lens. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: A Marine kneeling, with visible tattoos on one ankle. Body and gaze are oriented toward D. D: A Marine with red hair showing individual hair strands, kneeling. Body and gaze are oriented toward C. Full Roll Call (LOCKED): A (wearing winter gloves, pointing at B) & B (holding soda can, pointing at A) remain unchanged. The Gap Lane remains empty. Exclusivity: Only C has ankle tattoos. Only D has red hair. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

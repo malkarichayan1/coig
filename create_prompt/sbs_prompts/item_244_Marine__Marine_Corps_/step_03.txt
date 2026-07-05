@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Marines. Marine A has coily hair. Marine B is content. Marine C has blue eyes. Marine D wears earrings. Marine A and Marine B are one person turning their back on the other while they are speaking with each other. Marine C and Marine D are arguing face-to-face, with expressive hand gestures with each other.
+
+Placement (Compositional Blueprint):
+Filling in C and D; A and B are locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image shot on a high-resolution DSLR with an 85mm portrait lens under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible pores and natural hair strands. Their clothing has realistic fabric wrinkles. The specific subjects are: C: Has blue eyes; body and gaze are oriented toward D, arguing with expressive hand gestures. D: Wears earrings; body and gaze are oriented toward C, arguing with expressive hand gestures. Locked subjects A (coily hair, turned away from B) and B (content, speaking to A) remain unchanged. Exclusivity: Only C has blue eyes. Only D wears earrings. No silhouette overlap; Gap Lane empty.

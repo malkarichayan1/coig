@@ -1,0 +1,7 @@
+Step 2:
+Final Goal (Context): Four Surgeons. Surgeon A wears lip piercings. Surgeon B is bored. Surgeon C has backpack in hand. Surgeon D has a beard. Surgeon A and Surgeon B are shaking hands with each other. Surgeon C and Surgeon D are taking a pulse with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) is being filled-in. Cluster 2 (C, D) remains as placeholders. No positions change.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is a hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens and f/2.2 aperture, under soft, even studio lighting. The subjects now have real human skin texture with visible skin pores, and their hair shows individual hair strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: A: A surgeon with visible metallic lip piercings, body and gaze oriented toward B, shaking B's hand. B: A surgeon with a bored facial expression, body and gaze oriented toward A, shaking A's hand. Preserve all poses, Micro-Zones, and spacing. No silhouette overlap. The Gap Lane remains empty. Exclusivity: Only A has lip piercings. Only B has a bored expression. Placeholders C and D remain unchanged. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

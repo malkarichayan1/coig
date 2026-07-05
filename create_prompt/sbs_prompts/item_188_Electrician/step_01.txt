@@ -1,0 +1,14 @@
+Step 1:
+Final Goal (Context): Four Electricians. Electrician A wears nose piercings. Electrician B has tattoos on ankle. Electrician C is joyful. Electrician D has suitcase in hand. Electrician A and Electrician B are assembling something, reading instructions together with each other. Electrician C and Electrician D are having conversations with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create four real-world, photographed placeholders that look like a human artist’s block-in: matte neutral gray mannequins on a plain seamless background with soft studio light. Faces have no pupils/irises/eyelashes/eyebrows/teeth. Hair is a single matte mass. Clothing is a plain gray form. Props are simple gray primitives.
+
+A: Posed as if assembling something and reading instructions, body and gaze oriented toward B. Nose piercings are indicated by tiny gray dots on the nose area.
+B: Posed as if assembling something and reading instructions, body and gaze oriented toward A. A flat gray patch indicates the location for ankle tattoos.
+C: Joyful expression implied by a shallow upward curve of the mouth line, body and gaze oriented toward D.
+D: Left hand grips a plain gray rectangular prism (suitcase), body and gaze oriented toward C.
+
+Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

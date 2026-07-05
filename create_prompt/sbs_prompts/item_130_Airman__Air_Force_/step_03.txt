@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Airmen (Air Force). Airman A has mustache. Airman B wears Winter gloves. Airman C is scared. Airman D wears rings. Airman A and Airman B are assembling something, reading instructions together with each other. Airman C and Airman D are bowing to each other.
+
+Placement (Compositional Blueprint):
+Filling in C and D; A and B are locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their Air Force uniforms have realistic fabric wrinkles and texture. The specific subjects are: C: Has a scared facial expression. Body and gaze oriented toward D, bowing to D. D: Wears rings on his fingers. Body and gaze oriented toward C, bowing to C. Full Roll Call (LOCKED): A (mustache, facing B) & B (winter gloves, facing A) remain unchanged. Exclusivity holds: Only C is scared. Only D wears rings. No overlaps; Gap Lane empty. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Airmen (Air Force). Airman A has mustache. Airman B wears Winter gloves. Airman C is scared. Airman D wears rings. Airman A and Airman B are assembling something, reading instructions together with each other. Airman C and Airman D are bowing to each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of an Air Force base workshop or hangar; integrate subtle contact shadows/highlights; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity rules are intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

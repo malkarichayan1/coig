@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Surgeons. Surgeon A is tired. Surgeon B is angry. Surgeon C has grocery bag in hand. Surgeon D has braids hair. Surgeon A and Surgeon B are high-fiving with each other. Surgeon C and Surgeon D are one person shouting while the other looks away with each other.
+
+Placement (Compositional Blueprint):
+Filling in C and D; A and B are locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a hyperrealistic photograph, shot on a high-resolution DSLR with an 85mm portrait lens and soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their surgeon scrubs have realistic fabric wrinkles and texture. The specific subjects are: C: Has a shouting expression, holding a realistic paper grocery bag, body and gaze oriented toward D. D: Has braided hair with individual, natural hair strands visible. D's body is oriented toward C but D's head is turned, looking away from C. Full Roll Call (LOCKED): A (tired, high-fiving B) and B (angry, high-fiving A) remain unchanged. Exclusivity: Only C has a grocery bag and is shouting. Only D has braided hair. No overlaps; Gap Lane empty.

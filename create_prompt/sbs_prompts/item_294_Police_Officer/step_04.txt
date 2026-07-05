@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Police Officers. Police Officer A is smiling. Police Officer B wears anklet. Police Officer C has bob cut hair. Police Officer D is thoughtful. Police Officer A and Police Officer B are turning their back on the other while they are speaking with each other. Police Officer C and Police Officer D are kneeling before someone with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic police station interior background; integrate subtle contact shadows and highlights to ground the subjects in the environment; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks remain intact.

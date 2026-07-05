@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Doctors. Doctor A is smiling. Doctor B wears leather gloves. Doctor C wears anklet. Doctor D has tote bag in hand. Doctor A and Doctor B are taking a pulse with each other. Doctor C and Doctor D are exchanging a fist bump with each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Wears a delicate anklet on one ankle, right fist extended to meet D's fist, body and gaze oriented toward D. D: Holds a tote bag in one hand, left fist extended to meet C's fist in a fist bump, body and gaze oriented toward C. Full Roll Call (LOCKED): A (smiling, taking pulse, facing B) & B (wearing leather gloves, facing A) remain unchanged. Exclusivity holds: Only C wears an anklet. Only D has a tote bag. No overlaps; Gap Lane empty. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

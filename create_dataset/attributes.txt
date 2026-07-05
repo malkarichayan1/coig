@@ -1,0 +1,29 @@
+Hair Color: Black, brown, blonde, red, gray, white
+
+Hair Style: Long, short, medium-length, bald, shaved head, buzz cut, curly, wavy, straight, coily, afro, dreadlocks, braids, ponytail, bun, bob cut, undercut, fades
+
+Eyes: Blue, brown, green, hazel, gray
+
+Facial Hair: Beard, mustache, goatee, stubble, sideburns, clean-shaven
+
+Tattoos: arm, neck, leg, ankle
+
+Piercings: Ears, nose, lip, eyebrow
+
+Eyewear: sunglasses, glasses
+
+Jewelry: Necklace, bracelet, earrings, rings, watch, anklet.
+
+Gloves: Winter gloves, leather gloves, latex gloves.
+
+Bags: Backpack, purse, briefcase, tote bag, suitcase, grocery bag.
+
+Technology: Smartphone, laptop, tablet, headphones, camera.
+
+Food/Drink: Coffee cup, water bottle, soda can, apple, sandwich.
+
+Positive: Happy, joyful, smiling, laughing, excited, content, serene, proud.
+
+Negative: Sad, angry, crying, frowning, scared, worried, confused, disgusted.
+
+Neutral/Other: Surprised, thoughtful, pensive, tired, bored, determined, serious.

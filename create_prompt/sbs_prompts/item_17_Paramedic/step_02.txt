@@ -1,0 +1,15 @@
+Step 2:
+Final Goal (Context): Four Paramedics. Paramedic A has tattoos on neck. Paramedic B is serene. Paramedic C wears Winter gloves. Paramedic D wears piercings on ears. Paramedic A and Paramedic B are doing a fist bump with each other. Paramedic C and Paramedic D are looking at the same phone or tablet screen with each other.
+
+Placement (Compositional Blueprint):
+Fill-in A and B; C and D remain as placeholders. No position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is a hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, f/2.2 aperture, under soft, even studio lighting. The conversion reintroduces natural color and fine micro-detail. The subjects now display real human skin texture with visible skin pores and natural hair strands. Their clothing has realistic fabric wrinkles and texture. 
+
+The specific subjects are: 
+A: Has realistic tattoos on neck. Body and gaze are oriented toward B, right fist extended to meet B's fist. 
+B: Has a serene facial expression. Body and gaze are oriented toward A, left fist extended to meet A's fist. 
+
+Preserve all poses, Micro-Zones, and spacing. The Gap Lane remains empty. Placeholders C and D are unchanged. Exclusivity: Only A has neck tattoos. Only B has a serene expression. 
+
+Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

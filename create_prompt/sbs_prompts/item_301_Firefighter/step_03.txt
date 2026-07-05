@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Firefighters. Firefighter A wears anklet. Firefighter B has tattoos on ankle. Firefighter C is determined. Firefighter D is disgusted. Firefighter A and Firefighter B are bowing to each other. Firefighter C and Firefighter D are high-fiving each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image using a high-resolution DSLR and soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores and natural hair strands. Their clothing has realistic fabric wrinkles. The specific subjects are: C: Right hand raised to high-five D, body and gaze oriented toward D, with a determined facial expression. D: Left hand raised to high-five C, body and gaze oriented toward C, with a disgusted facial expression. Full Roll Call (LOCKED): A (bowing toward B, wearing anklet) and B (bowing toward A, with ankle tattoos) remain unchanged. Exclusivity: Only C has a determined expression. Only D has a disgusted expression. No silhouette overlap; Gap Lane empty. Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

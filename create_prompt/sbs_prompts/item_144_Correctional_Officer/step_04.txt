@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Correctional Officers. Correctional Officer A has grocery bag in hand. Correctional Officer B has apple in hand. Correctional Officer C is content. Correctional Officer D has gray eyes. Correctional Officer A and Correctional Officer B are having conversations with each other. Correctional Officer C and Correctional Officer D are arguing face-to-face, with expressive hand gestures with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of a neutral, well-lit correctional facility hallway. Integrate subtle contact shadows and highlights on the subjects to ground them in the environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks remain intact.

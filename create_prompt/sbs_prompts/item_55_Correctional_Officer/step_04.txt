@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Correctional Officers. Correctional Officer A is bored. Correctional Officer B has tattoos on ankle. Correctional Officer C has soda can in hand. Correctional Officer D is joyful. Correctional Officer A and Correctional Officer B are pouring the other a cup of tea or coffee with each other. Correctional Officer C and Correctional Officer D are having conversations with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of a correctional facility break room; integrate subtle contact shadows and highlights on the subjects to ground them in the environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks (A's boredom, B's ankle tattoos, C's soda can, D's joyful expression) are intact. Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

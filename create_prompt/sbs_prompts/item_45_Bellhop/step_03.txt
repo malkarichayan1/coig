@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Bellhops. Bellhop A is clean-shaven. Bellhop B wears leather gloves. Bellhop C has Smartphone in hand. Bellhop D wears earrings. Bellhop A and Bellhop B are exchanging business cards with each other. Bellhop C and Bellhop D are sharing headphones to listen to music with each other.
+
+Placement (Compositional Blueprint):
+Fill in C and D; A and B are locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image using a high-resolution DSLR and soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores and natural hair strands. Their bellhop uniforms have realistic fabric wrinkles and texture. The specific subjects are: C: A man holding a realistic smartphone, sharing one earbud with D, body and gaze oriented toward D. D: A man wearing realistic earrings, listening to music from a shared earbud with C, body and gaze oriented toward C. Full Roll Call (LOCKED): A (clean-shaven, facing B) & B (leather gloves, facing A) remain unchanged. Exclusivity holds: Only C has a smartphone. Only D wears earrings. No silhouette overlap; Gap Lane empty.

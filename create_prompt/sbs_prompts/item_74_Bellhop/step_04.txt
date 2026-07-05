@@ -1,0 +1,9 @@
+Step 4:
+Final Goal (Context): Four Bellhops. Bellhop A has tattoos on leg. Bellhop B wears glasses. Bellhop C wears leather gloves. Bellhop D has medium-length hair. Bellhop A and Bellhop B are assembling something, reading instructions together with each other. Bellhop C and Bellhop D are kneeling before someone with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic hotel lobby background; integrate subtle contact shadows and highlights; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity is intact.
+
+Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Casino Dealers. Casino Dealer A has sideburns. Casino Dealer B is worried. Casino Dealer C has Smartphone in hand. Casino Dealer D wears glasses. Casino Dealer A and Casino Dealer B are fist bumping with each other. Casino Dealer C and Casino Dealer D are exchanging business cards with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic, softly out-of-focus casino floor background with subtle ambient lighting; integrate subtle contact shadows and highlights on the subjects to match the environment; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact.

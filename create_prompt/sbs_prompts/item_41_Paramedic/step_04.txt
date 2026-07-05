@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Paramedics. Paramedic A has apple in hand. Paramedic B has camera in hand. Paramedic C wears bracelet. Paramedic D is serious. Paramedic A and Paramedic B are sharing headphones to listen to music with each other. Paramedic C and Paramedic D are assembling something, reading instructions together with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of an ambulance station break room; integrate subtle contact shadows and highlights from the environment's lighting onto the subjects. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks remain intact. Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

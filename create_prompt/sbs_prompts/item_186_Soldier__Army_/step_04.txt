@@ -1,0 +1,8 @@
+Step 4:
+Final Goal (Context): Four Soldiers. Soldier A wears glasses. Soldier B has bob cut hair. Soldier C is proud. Soldier D has tattoos on arm. Soldier A and Soldier B are one person shouting while the other looks away with each other. Soldier C and Soldier D are assembling something, reading instructions together with each other.
+
+Placement (Compositional Blueprint):
+All subjects are locked; Gap Lane is empty.
+
+This Step's Action: Add a hyperrealistic background of a well-lit military workshop or maintenance bay. Integrate subtle contact shadows and highlights on the subjects to match the environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity is intact.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

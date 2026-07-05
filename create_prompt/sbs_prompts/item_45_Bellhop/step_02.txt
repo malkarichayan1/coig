@@ -1,0 +1,7 @@
+Step 2:
+Final Goal (Context): Four Bellhops. Bellhop A is clean-shaven. Bellhop B wears leather gloves. Bellhop C has Smartphone in hand. Bellhop D wears earrings. Bellhop A and Bellhop B are exchanging business cards with each other. Bellhop C and Bellhop D are sharing headphones to listen to music with each other.
+
+Placement (Compositional Blueprint):
+Fill in A and B; C and D remain placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their bellhop uniforms have realistic fabric wrinkles and texture. The specific subjects are: A: A clean-shaven man, body and gaze oriented toward B, offering a business card. B: A man wearing realistic leather gloves, body and gaze oriented toward A, accepting/offering a business card. Preserve all poses, Micro-Zones, and spacing. Gap Lane remains empty. Placeholders C and D are unchanged. Exclusivity: Only A is clean-shaven. Only B wears leather gloves.

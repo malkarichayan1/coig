@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Bellhops. Bellhop A has shaved head hair. Bellhop B wears leather gloves. Bellhop C wears eyebrow piercing. Bellhop D wears glasses. Bellhop A and Bellhop B are fist bumping with each other. Bellhop C and Bellhop D are arguing face-to-face, with expressive hand gestures with each other.
+
+Placement (Compositional Blueprint):
+Filling in C and D; A and B are locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has a realistic metal eyebrow piercing, body and gaze oriented toward D, arguing with expressive hand gestures. D: Wears realistic glasses, body and gaze oriented toward C, arguing with expressive hand gestures. Full Roll Call (LOCKED): A (shaved head, facing B) & B (leather gloves, facing A) remain unchanged. Exclusivity holds: Only C has an eyebrow piercing. Only D wears glasses. No overlaps; Gap Lane empty. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

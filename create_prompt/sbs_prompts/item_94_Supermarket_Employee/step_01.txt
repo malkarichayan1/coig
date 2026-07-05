@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Supermarket Employees. Supermarket Employee A is serene. Supermarket Employee B has apple in hand. Supermarket Employee C has green eyes. Supermarket Employee D has briefcase in hand. Supermarket Employee A and Supermarket Employee B are having conversations with each other. Supermarket Employee C and Supermarket Employee D are looking at the same phone or tablet screen with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create four real-world, photographed placeholders that look like a human artist’s block-in: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces have no pupils/irises/eyelashes/eyebrows/teeth. Hair is a single matte mass. Clothing is plain gray forms. Props are simple gray primitives. Cluster 1 (left): A and B are positioned facing each other. A has a calm, neutral pose. B holds a simple gray sphere (apple) in one hand. Cluster 2 (right): C and D are positioned close together, looking down at a shared simple gray rectangle (phone/tablet) held between them. D holds a simple gray box (briefcase) in their other hand. Each person is fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

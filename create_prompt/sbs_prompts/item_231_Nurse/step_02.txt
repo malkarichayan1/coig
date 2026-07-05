@@ -1,0 +1,7 @@
+Step 2:
+Final Goal (Context): Four Nurses. Nurse A has camera in hand. Nurse B has apple in hand. Nurse C has blue eyes. Nurse D wears glasses. Nurse A and Nurse B are high-fiving with each other. Nurse C and Nurse D are bowing to each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 1 (A, B); Cluster 2 (C, D) remains placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail. The subjects now display natural, realistic human skin texture with visible pores and fine hairs. Their hair shows individual strands and realistic highlights. Their clothing has realistic fabric wrinkles, seams, and texture. The specific subjects are: A: A nurse whose body and gaze are oriented toward B, right hand raised in a high-five pose, holding a realistic camera in the left hand. B: A nurse whose body and gaze are oriented toward A, left hand raised to meet A's in a high-five, holding a realistic apple in the right hand. Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Exclusivity: Only A has a camera. Only B has an apple. Placeholders C and D remain unchanged.

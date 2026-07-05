@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Flight Attendants. Flight Attendant A wears nose piercings. Flight Attendant B has green eyes. Flight Attendant C wears glasses. Flight Attendant D has tattoos on leg. Flight Attendant A and Flight Attendant B are waving to each other. Flight Attendant C and Flight Attendant D are one person placing a comforting hand on the other's shoulder or back with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic airport terminal background with soft, ambient lighting; integrate subtle contact shadows and highlights on the subjects to match the environment; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks (A: nose piercings, B: green eyes, C: glasses, D: leg tattoos) are intact.

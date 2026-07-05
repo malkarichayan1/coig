@@ -1,0 +1,12 @@
+Step 1:
+Final Goal (Context): Four Chefs. Chef A has backpack in hand. Chef B is clean-shaven. Chef C has brown hair. Chef D wears nose piercing. Chef A and Chef B are looking at the same phone or tablet screen with each other. Chef C and Chef D are sharing headphones to listen to music with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create four real-world, photographed placeholders that look like a human artist’s block-in: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces have no pupils/irises/eyelashes/eyebrows/teeth. Hair is a single matte mass. Clothing is plain gray forms. Props are simple gray primitives. The goal is to capture only pose/gesture/silhouette. A and B are in Cluster 1 on the left. C and D are in Cluster 2 on the right. Each person is fully visible with slight yaw offsets, no silhouette overlap, and the Gap Lane between clusters is empty. ABSOLUTELY NO COLOR.
+
+A: Body and gaze oriented toward B, holding a simple gray rectangular block (backpack) in one hand and a flat gray rectangle (tablet) with the other hand, looking down at the tablet.
+B: Body and gaze oriented toward A, holding the same flat gray rectangle (tablet) as A, looking down at the tablet. 'Clean-shaven' is the default blank state.
+C: Body and gaze oriented toward D. A simple gray primitive representing one side of a pair of headphones is on one ear. Hair is a single matte mass.
+D: Body and gaze oriented toward C. A simple gray primitive representing the other side of the headphones is on one ear. A small gray dot is on the nose for the piercing placeholder.

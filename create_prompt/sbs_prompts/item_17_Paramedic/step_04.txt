@@ -1,0 +1,9 @@
+Step 4:
+Final Goal (Context): Four Paramedics. Paramedic A has tattoos on neck. Paramedic B is serene. Paramedic C wears Winter gloves. Paramedic D wears piercings on ears. Paramedic A and Paramedic B are doing a fist bump with each other. Paramedic C and Paramedic D are looking at the same phone or tablet screen with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of an ambulance bay at night, with soft ambient light from the vehicle's interior and overhead bay lights. Integrate subtle contact shadows and highlights on the subjects to match the environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact. 
+
+Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Plumbers. Plumber A is joyful. Plumber B has tattoos on leg. Plumber C is disgusted. Plumber D has brown eyes. Plumber A and Plumber B are assembling something, reading instructions together with each other. Plumber C and Plumber D are looking at the same phone or tablet screen with each other.
+
+Placement (Compositional Blueprint):
+Fill in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image using a high-resolution DSLR and an 85mm portrait lens with soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores and natural hair strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: A plumber with a disgusted expression, body and gaze oriented toward the phone/tablet screen shared with D. D: A plumber with brown eyes, body and gaze oriented toward the same phone/tablet screen. Preserve all poses, Micro-Zones, spacing, and yaw; no silhouette overlap; Gap Lane empty. Exclusivity: Only C is disgusted. Only D has brown eyes. A (joyful) and B (leg tattoos) remain locked and unchanged. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

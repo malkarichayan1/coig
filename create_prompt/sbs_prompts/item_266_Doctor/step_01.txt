@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Doctors. Doctor A is proud. Doctor B wears watch. Doctor C has tattoos on arm. Doctor D has gray eyes. Doctor A and Doctor B are Kneeling Before Someone with each other. Doctor C and Doctor D are Assembling something, reading instructions together with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 left; Cluster 2 right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Place four matte-gray stand-ins (mannequins or gray morph-suit actors with blank masks) on a seamless studio background with soft lighting; no facial features, hair as single matte mass, clothing as plain gray forms; props are simple gray primitives. A and B are in Cluster 1 on the left. C and D are in Cluster 2 on the right. A: Kneeling with a proud posture (chest out, head slightly up), body and gaze oriented toward B. B: Kneeling, body and gaze oriented toward A. A simple gray band is on B's wrist to represent the watch. C: Leaning over a central point, looking down at a gray rectangle (instructions), body and gaze oriented toward D. A flat gray patch is on C's arm to represent the tattoo area. D: Leaning over the same central point, looking down at the gray rectangle, body and gaze oriented toward C. Each person is fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic/waxy/smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

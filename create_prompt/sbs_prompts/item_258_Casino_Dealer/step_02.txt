@@ -1,0 +1,17 @@
+Step 2:
+Final Goal (Context): Four Casino Dealers. Casino Dealer A has suitcase in hand. Casino Dealer B wears leather gloves. Casino Dealer C has a nose piercing. Casino Dealer D is laughing. Casino Dealer A and Casino Dealer B are placing a comforting hand on the other's shoulder or back with each other. Casino Dealer C and Casino Dealer D are pointing an accusatory finger at the other with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) is being filled in; Cluster 2 (C, D) remains as placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity.
+
+This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail.
+
+The subjects now display natural, realistic human skin texture with visible pores and fine hairs. Their hair shows individual strands and realistic highlights. Their clothing has realistic fabric wrinkles, seams, and texture.
+
+The specific subjects are:
+A: Left hand is holding a realistic suitcase. Right hand is placed comfortingly on B's shoulder. Body and gaze are oriented toward B.
+B: Wears realistic black leather gloves. Left hand is placed comfortingly on A's shoulder. Body and gaze are oriented toward A.
+
+Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A has a suitcase. Only B wears leather gloves.

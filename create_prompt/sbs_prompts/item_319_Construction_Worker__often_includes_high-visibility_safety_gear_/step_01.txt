@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Construction Workers. Construction Worker A has coily hair. Construction Worker B has brown hair. Construction Worker C has goatee. Construction Worker D wears nose piercing. Construction Worker A and Construction Worker B are exchanging business cards with each other. Construction Worker C and Construction Worker D are pointing an accusatory finger at each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create real-world, photographed placeholders for four subjects that look like a human artist’s block-in. Material: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces have no pupils/irises/eyelashes/eyebrows/teeth. Hair is a single matte mass. Clothing is plain gray forms. Props are simple gray primitives. A: Body and gaze oriented toward B, holding a small gray rectangle (business card) out. Coily hair is a single molded mass. B: Body and gaze oriented toward A, holding a small gray rectangle (business card) out. Brown hair is a single molded mass. C: Body and gaze oriented toward D, right arm extended pointing an accusatory finger at D. Goatee is a flat gray patch on the chin. D: Body and gaze oriented toward C, left arm extended pointing an accusatory finger at C. Nose piercing is a tiny gray primitive on the nose. Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

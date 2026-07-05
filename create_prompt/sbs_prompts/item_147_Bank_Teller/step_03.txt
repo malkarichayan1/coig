@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Bank Tellers. Bank Teller A wears headphones. Bank Teller B wears glasses. Bank Teller C is smiling. Bank Teller D wears Winter gloves. Bank Teller A and Bank Teller B are taking a pulse with each other. Bank Teller C and Bank Teller D are exchanging business cards with each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has a natural, friendly smile, body and gaze oriented toward D, right hand is extended holding a realistic business card. D: Wears realistic, thick winter gloves, body and gaze oriented toward C, left hand is extended holding a realistic business card. Full Roll Call (LOCKED): A (wearing headphones, taking B's pulse) & B (wearing glasses, having pulse taken) remain unchanged. Exclusivity: Only C is smiling. Only D wears Winter gloves. No overlaps; Gap Lane empty.

@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Police Officers. Police Officer A wears anklet. Police Officer B is frowning. Police Officer C has red hair. Police Officer D has brown eyes. Police Officer A and Police Officer B are shaking hands with each other. Police Officer C and Police Officer D are assembling something, reading instructions together with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of a well-lit police station briefing or assembly room. Integrate subtle contact shadows and highlights on the subjects to ground them in the environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact.

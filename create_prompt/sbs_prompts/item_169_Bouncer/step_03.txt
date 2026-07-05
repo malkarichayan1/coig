@@ -1,0 +1,10 @@
+Step 3:
+Final Goal (Context): Four Bouncers. Bouncer A has gray eyes. Bouncer B has gray hair. Bouncer C has tattoos on ankle. Bouncer D is excited. Bouncer A and Bouncer B are taking a pulse with each other. Bouncer C and Bouncer D are looking at the same phone or tablet screen with each other.
+
+Placement (Compositional Blueprint):
+Filling in C and D; A and B are locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture. The gray block they hold is converted into a realistic smartphone. The specific subjects are:
+C: A bouncer with visible tattoos on one ankle, looking down at the shared smartphone screen with D.
+D: A bouncer with an excited facial expression, looking down at the shared smartphone screen with C.
+Full Roll Call (LOCKED): A (gray eyes, taking B's pulse) & B (gray hair, having pulse taken) remain unchanged. Exclusivity holds: Only C has ankle tattoos. Only D is excited. No overlaps; Gap Lane empty.

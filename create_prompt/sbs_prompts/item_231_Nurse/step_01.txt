@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Nurses. Nurse A has camera in hand. Nurse B has apple in hand. Nurse C has blue eyes. Nurse D wears glasses. Nurse A and Nurse B are high-fiving with each other. Nurse C and Nurse D are bowing to each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create four real-world, photographed placeholders that look like a human artist’s block-in. Material: matte neutral gray mannequins / gray morph-suit actors with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives. A: body and gaze oriented toward B, right hand raised for a high-five, left hand holding a simple gray box primitive (camera). B: body and gaze oriented toward A, left hand raised for a high-five, right hand holding a simple gray sphere primitive (apple). C: body and gaze oriented toward D, bowing. D: body and gaze oriented toward C, bowing, with a simple gray primitive for glasses on its face. Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Police Officers. Police Officer A has shaved head hair. Police Officer B has Backpack in hand. Police Officer C is smiling. Police Officer D is confused. Police Officer A and Police Officer B are crossing their arms and glaring while the other tries to talk with each other. Police Officer C and Police Officer D are pointing an accusatory finger at the other with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic police station interior background; integrate subtle contact shadows/highlights; do not move or alter any person. Confirm each individual fully visible, no cross-zone occlusion, and exclusivity intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

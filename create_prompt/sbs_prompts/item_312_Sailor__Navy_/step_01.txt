@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Sailors. Sailor A has brown eyes. Sailor B is confused. Sailor C wears glasses. Sailor D has gray hair. Sailor A and Sailor B are exchanging business cards with each other. Sailor C and Sailor D are one person crossing their arms and glaring while the other tries to talk with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Place four matte-gray stand-ins (mannequins or gray morph-suit actors with blank masks) on a seamless studio background with soft lighting. Faces have no features (pupils, eyebrows, etc.). Hair is a single matte mass. Clothing is a plain gray form. Props are simple gray primitives. A and B face each other, extending hands holding small gray rectangles (business cards). C and D face each other; C has arms crossed, and D is in a talking pose. C has a simple gray frame for glasses. D has a gray mass for hair. Each person is fully visible with slight yaw offsets; no silhouette overlap; Gap Lane is empty; ABSOLUTELY NO COLOR. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

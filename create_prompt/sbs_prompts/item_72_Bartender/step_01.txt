@@ -1,0 +1,18 @@
+Step 1:
+Final Goal (Context): Four Bartenders. Bartender A has backpack in hand. Bartender B has piercings on ears. Bartender C has tattoos on arm. Bartender D wears sunglasses. Bartender A and Bartender B are waving to each other. Bartender C and Bartender D are sharing headphones to listen to music with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create a real-world, photographed block-in of four matte neutral gray mannequins on a plain seamless backdrop with soft studio lighting. Faces are blank masks with no features; hair is a single matte mass; clothing is plain gray forms. Props are simple gray primitives. This step captures only pose, gesture, and silhouette.
+
+Cluster 1 (Left):
+A: In a waving pose, body and gaze oriented toward B. One hand holds a simple gray block representing a backpack.
+B: In a waving pose, body and gaze oriented toward A. Ears have small gray bumps to indicate piercing locations.
+
+Cluster 2 (Right):
+C: Body and gaze oriented toward D, head tilted slightly as if listening to music. One arm has a flat gray patch to indicate tattoo placement. One hand holds a simple gray primitive representing one side of a pair of headphones.
+D: Body and gaze oriented toward C, head tilted slightly as if listening to music. A simple gray primitive for sunglasses covers the eye area. One hand holds the other side of the headphone primitive, connected to C's by a simple gray string.
+
+Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

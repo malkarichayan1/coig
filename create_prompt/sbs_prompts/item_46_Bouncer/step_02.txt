@@ -1,0 +1,13 @@
+Step 2:
+Final Goal (Context): Four Bouncers. Bouncer A wears latex gloves. Bouncer B wears glasses. Bouncer C is thoughtful. Bouncer D has Backpack in hand. Bouncer A and Bouncer B are arguing face-to-face, with expressive hand gestures with each other. Bouncer C and Bouncer D are one person placing a comforting hand on the other's shoulder or back with each other.
+
+Placement (Compositional Blueprint):
+Fill in Cluster 1 (A, B); Cluster 2 (C, D) remains placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail. The subjects now display natural, realistic human skin texture with visible pores and fine hairs. Their hair shows individual strands and realistic highlights. Their clothing has realistic fabric wrinkles, seams, and texture.
+
+The specific subjects are:
+A: A bouncer arguing with B, body and gaze directed at B. Wears realistic black latex gloves, hands are in an expressive gesture.
+B: A bouncer arguing with A, body and gaze directed at A. Wears realistic glasses, hands are in an expressive counter-gesture.
+
+Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A wears latex gloves. Only B wears glasses.

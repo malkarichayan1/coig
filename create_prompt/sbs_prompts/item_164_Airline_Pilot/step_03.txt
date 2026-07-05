@@ -1,0 +1,10 @@
+Step 3:
+Final Goal (Context): Four Airline Pilots. Airline Pilot A is scared. Airline Pilot B has dreadlocks hair. Airline Pilot C is serious. Airline Pilot D has blue eyes. Airline Pilot A and Airline Pilot B are placing a comforting hand on the other's shoulder or back with each other. Airline Pilot C and Airline Pilot D are having conversations with each other.
+
+Placement (Compositional Blueprint):
+Filling in C and D; A and B are locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image using a high-resolution DSLR with an 85mm portrait lens and soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible pores and natural hair strands. Their clothing has realistic fabric wrinkles. The specific subjects are:
+C: Has a serious expression, body and gaze oriented toward D, engaged in conversation.
+D: Has blue eyes, body and gaze oriented toward C, engaged in conversation.
+Full Roll Call (LOCKED): A (scared, facing B) and B (dreadlocks, facing A) remain unchanged. Exclusivity: Only C is serious. Only D has blue eyes. No silhouette overlaps; Gap Lane empty.

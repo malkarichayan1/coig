@@ -1,0 +1,71 @@
+Police Officer
+
+Firefighter
+
+Paramedic
+
+Correctional Officer
+
+Soldier (Army)
+
+Marine (Marine Corps)
+
+Sailor (Navy)
+
+Airman (Air Force)
+
+Doctor
+
+Surgeon
+
+Nurse
+
+Pharmacist
+
+Airline Pilot
+
+Flight Attendant
+
+Cruise Ship Crew
+
+Chef
+
+Bartender
+
+Barista
+
+Hotel Front Desk Clerk
+
+Bellhop
+
+Housekeeping Staff
+
+Casino Dealer
+
+Supermarket Employee
+
+Bank Teller
+
+Theme Park Employee
+
+Electrician
+
+Plumber
+
+Construction Worker (often includes high-visibility safety gear)
+
+Janitor
+
+Postal Worker
+
+State Park Ranger
+
+Judge
+
+Security Guard
+
+Bouncer
+
+Referee / Umpire
+
+Lifeguard

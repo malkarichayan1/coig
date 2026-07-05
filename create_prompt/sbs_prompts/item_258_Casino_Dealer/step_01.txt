@@ -1,0 +1,17 @@
+Step 1:
+Final Goal (Context): Four Casino Dealers. Casino Dealer A has suitcase in hand. Casino Dealer B wears leather gloves. Casino Dealer C has a nose piercing. Casino Dealer D is laughing. Casino Dealer A and Casino Dealer B are placing a comforting hand on the other's shoulder or back with each other. Casino Dealer C and Casino Dealer D are pointing an accusatory finger at the other with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create four real-world, photographed placeholders that look like a human artist’s block-in: matte neutral gray mannequins or gray morph-suit actors with blank masks, photographed on a plain seamless with soft studio light. Faces have no pupils/irises/eyelashes/eyebrows/teeth. Hair is a single matte mass. Clothing is plain gray forms. Props are simple gray primitives. This step captures only pose/gesture/silhouette.
+
+Cluster 1 (Left):
+A: Left hand holds a simple gray rectangular box (suitcase). Right hand is placed on B's shoulder. Body and gaze are oriented toward B.
+B: Left hand is placed on A's shoulder. Body and gaze are oriented toward A. Hands are plain gray forms.
+
+Cluster 2 (Right):
+C: Right arm is extended, pointing an accusatory finger at D. Body and gaze are oriented toward D.
+D: Left arm is extended, pointing an accusatory finger at C. Head is tilted back slightly and mouth is open in a shape implying laughter. Body and gaze are oriented toward C.
+
+Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Judges. Judge A has tattoos on ankle. Judge B is content. Judge C has a goatee. Judge D has green eyes. Judge A and Judge B are exchanging business cards with each other. Judge C and Judge D are kneeling before someone with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked. The Gap Lane remains empty.
+
+This Step's Action: Add a hyperrealistic background of a grand courthouse hallway. Integrate subtle contact shadows and highlights on the subjects to blend them with the environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks (A: tattoos, B: content, C: goatee, D: green eyes) are intact. Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

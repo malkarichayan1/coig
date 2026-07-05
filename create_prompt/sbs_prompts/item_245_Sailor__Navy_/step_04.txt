@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Sailors. Sailor A wears latex gloves. Sailor B is clean-shaven. Sailor C has black hair. Sailor D is tired. Sailor A and Sailor B are kneeling before each other. Sailor C and Sailor D are pointing an accusatory finger at each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of the deck of a naval vessel; integrate subtle contact shadows and highlights; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact.

@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Correctional Officers. Correctional Officer A has tattoos on neck. Correctional Officer B has straight hair. Correctional Officer C wears latex gloves. Correctional Officer D has goatee. Correctional Officer A and Correctional Officer B are placing a comforting hand on the other's shoulder or back with each other. Correctional Officer C and Correctional Officer D are shaking hands with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of a correctional facility hallway; integrate subtle contact shadows and highlights; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact.

@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Sailors. Sailor A wears latex gloves. Sailor B is clean-shaven. Sailor C has black hair. Sailor D is tired. Sailor A and Sailor B are kneeling before each other. Sailor C and Sailor D are pointing an accusatory finger at each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create real-world, photographed placeholders for four subjects that look like a human artist’s block-in. Material: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces have no pupils/irises/eyelashes/eyebrows/teeth. Hair is a single matte mass. Clothing is plain gray forms. Props are simple gray primitives. A and B are in Cluster 1, kneeling and facing each other. C and D are in Cluster 2, standing and pointing an accusatory finger at each other. A's hands are simple gray forms suggesting gloves. C's hair is a single black matte mass. D's pose is slightly slumped to indicate being tired. Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

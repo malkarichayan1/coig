@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Baristas. Barista A has tablet in hand. Barista B has sandwich in hand. Barista C has tattoos on neck. Barista D has blue eyes. Barista A and Barista B are one person turning their back on the other while they are speaking with each other. Barista C and Barista D are exchanging business cards with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked. Gap Lane remains empty.
+
+This Step's Action: Add a hyperrealistic coffee shop interior background behind the four baristas. Integrate subtle contact shadows and ensure the lighting on the subjects is consistent with the new environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks (A: tablet, B: sandwich, C: neck tattoos, D: blue eyes) are intact.

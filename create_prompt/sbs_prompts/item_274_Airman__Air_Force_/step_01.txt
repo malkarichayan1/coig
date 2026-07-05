@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Airmen. Airman A wears leather gloves. Airman B is clean-shaven. Airman C has tattoos on leg. Airman D has coffee cup in hand. Airman A and Airman B are looking at the same phone or tablet screen with each other. Airman C and Airman D are one person crossing their arms and glaring while the other tries to talk with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Place four matte-gray stand-ins (mannequins or gray morph-suit actors with blank masks) on a seamless studio background with soft lighting; no facial features, hair as single matte mass, uniforms as plain gray forms; props are simple gray primitives. A and B look down at a single gray rectangular block held between them. C and D face each other. A: Wears simple gray forms on hands for gloves, body and gaze oriented toward B. B: Body and gaze oriented toward A. C: Arms crossed, body and gaze oriented toward D. D: Holds a plain gray cylinder (cup), body and gaze oriented toward C. Each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic/waxy/smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

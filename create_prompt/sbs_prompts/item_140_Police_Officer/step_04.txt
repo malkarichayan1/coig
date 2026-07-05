@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Police Officers. Police Officer A is thoughtful. Police Officer B wears nose piercings. Police Officer C has suitcase in hand. Police Officer D has tattoos on leg. Police Officer A and Police Officer B are exchanging business cards with each other. Police Officer C and Police Officer D are one person turning their back on the other while they are speaking with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic police station interior background; integrate subtle contact shadows and highlights to ground the subjects in the environment; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks (A: thoughtful; B: nose piercings; C: suitcase; D: leg tattoos) are intact. Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

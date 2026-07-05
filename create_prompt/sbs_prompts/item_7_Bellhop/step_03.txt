@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Bellhops. Bellhop A is thoughtful. Bellhop B has grocery bag in hand. Bellhop C has white hair. Bellhop D has a beard. Bellhop A and Bellhop B are taking a pulse with each other. Bellhop C and Bellhop D are shaking hands with each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has white hair with realistic, individual hair strands, shaking hands with D, body and gaze oriented toward D. D: Has a realistic, well-groomed beard, shaking hands with C, body and gaze oriented toward C. Full Roll Call (LOCKED): A (thoughtful, taking B's pulse) & B (holding grocery bag, having pulse taken) remain unchanged. Exclusivity holds: Only C has white hair. Only D has a beard. No overlaps; Gap Lane empty.

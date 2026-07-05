@@ -1,0 +1,10 @@
+Step 2:
+Final Goal (Context): Four Airline Pilots. Airline Pilot A is scared. Airline Pilot B has dreadlocks hair. Airline Pilot C is serious. Airline Pilot D has blue eyes. Airline Pilot A and Airline Pilot B are placing a comforting hand on the other's shoulder or back with each other. Airline Pilot C and Airline Pilot D are having conversations with each other.
+
+Placement (Compositional Blueprint):
+Filling in A and B; C and D remain placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are:
+A: Has a scared expression, body and gaze oriented toward B, with one hand placed comfortingly on B's shoulder.
+B: Has dreadlocks hair with realistic, individual strands, body and gaze oriented toward A, with one hand placed comfortingly on A's back.
+Preserve all poses, Micro-Zones, and spacing. The Gap Lane remains empty. Placeholders C and D remain unchanged. Exclusivity: Only A has a scared expression. Only B has dreadlocks.

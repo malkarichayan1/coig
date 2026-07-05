@@ -1,0 +1,13 @@
+Step 2:
+Final Goal (Context): Four Police Officers. Police Officer A wears anklet. Police Officer B is frowning. Police Officer C has red hair. Police Officer D has brown eyes. Police Officer A and Police Officer B are shaking hands with each other. Police Officer C and Police Officer D are assembling something, reading instructions together with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) is being filled in; Cluster 2 (C, D) remains as placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, f/2.2 aperture, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail. The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are:
+
+A: A police officer wearing a visible anklet on one ankle. A's body and gaze are oriented toward B as they shake hands.
+
+B: A police officer who is frowning. B's body and gaze are oriented toward A as they shake hands.
+
+Preserve all poses, Micro-Zones, and spacing. No silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A wears an anklet. Only B is frowning.

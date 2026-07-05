@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Bank Tellers. Bank Teller A wears headphones. Bank Teller B wears glasses. Bank Teller C is smiling. Bank Teller D wears Winter gloves. Bank Teller A and Bank Teller B are taking a pulse with each other. Bank Teller C and Bank Teller D are exchanging business cards with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic bank interior background; integrate subtle contact shadows/highlights; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact.

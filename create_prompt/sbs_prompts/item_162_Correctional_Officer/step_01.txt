@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Correctional Officers. Correctional Officer A has goatee. Correctional Officer B is frowning. Correctional Officer C is excited. Correctional Officer D is pensive. Correctional Officer A and Correctional Officer B are pointing an accusatory finger at the other with each other. Correctional Officer C and Correctional Officer D are crossing their arms and glaring while the other tries to talk with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Place four matte-gray stand-ins (mannequins or gray morph-suit actors with blank masks) on a seamless studio background with soft lighting; no facial features, hair as a single matte mass, uniforms as plain gray forms. A and B are in the left cluster, C and D are in the right cluster. A: Pointing an accusatory finger, body and gaze oriented toward B. Goatee is indicated by a flat gray chin patch. B: Pointing an accusatory finger, body and gaze oriented toward A. Frown is implied by a shallow downward mouth curve. C: Body and gaze oriented toward D, in a talking pose with a slightly open mouth shape. D: Arms crossed, body and gaze oriented toward C. Each person is fully visible; slight yaw offsets; no silhouette overlap; Gap Lane is empty; ABSOLUTELY NO COLOR. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic/waxy/smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

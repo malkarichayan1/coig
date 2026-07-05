@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Electricians. Electrician A has laptop in hand. Electrician B wears lip piercings. Electrician C is clean-shaven. Electrician D has gray hair. Electrician A and Electrician B are assembling something, reading instructions together with each other. Electrician C and Electrician D are having conversations with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of a clean, well-lit industrial workshop with electrical panels on the wall; integrate subtle contact shadows and highlights on the subjects to ground them in the environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks remain intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

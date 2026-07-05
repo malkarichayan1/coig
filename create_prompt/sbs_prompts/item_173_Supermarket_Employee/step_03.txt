@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Supermarket Employees. Supermarket Employee A wears winter gloves. Supermarket Employee B has tattoos on leg. Supermarket Employee C wears nose piercings. Supermarket Employee D has laptop in hand. Supermarket Employee A and Supermarket Employee B are helping someone up after they have fallen with each other. Supermarket Employee C and Supermarket Employee D are one person placing a comforting hand on the other's shoulder or back with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) is being filled in; Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image shot on a high-resolution DSLR with an 85mm portrait lens. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores and natural hair strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has realistic nose piercings, is placing a comforting hand on D's shoulder, body and gaze oriented toward D. D: Is holding a realistic laptop in one hand, receiving comfort from C, body and gaze oriented toward C. Full Roll Call (LOCKED): A (wearing winter gloves, helping someone up, facing B) & B (leg tattoos, helping someone up, facing A) remain unchanged. Exclusivity holds: Only C has nose piercings. Only D has a laptop. No overlaps; Gap Lane empty.

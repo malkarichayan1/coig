@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Police Officers. Police Officer A wears anklet. Police Officer B is frowning. Police Officer C has red hair. Police Officer D has brown eyes. Police Officer A and Police Officer B are shaking hands with each other. Police Officer C and Police Officer D are assembling something, reading instructions together with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 left; Cluster 2 right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create real-world, photographed placeholders for four subjects that look like a human artist’s block-in. Material: matte neutral gray mannequins / gray morph-suit actors with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives. A and B are on the left, shaking hands. C and D are on the right, looking down at a gray rectangular primitive (instructions) and some simple gray geometric shapes (the object being assembled). A has a simple gray ring primitive around one ankle. B has a shallow downward curve for a mouth to indicate a frown. Each person is fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

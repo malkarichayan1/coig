@@ -1,0 +1,13 @@
+Step 3:
+Final Goal (Context): Four Bouncers. Bouncer A wears latex gloves. Bouncer B wears glasses. Bouncer C is thoughtful. Bouncer D has Backpack in hand. Bouncer A and Bouncer B are arguing face-to-face, with expressive hand gestures with each other. Bouncer C and Bouncer D are one person placing a comforting hand on the other's shoulder or back with each other.
+
+Placement (Compositional Blueprint):
+Fill in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture.
+
+The specific subjects are:
+C: A bouncer with a thoughtful expression, body and gaze directed at D, placing a comforting right hand on D's left shoulder.
+D: A bouncer receiving comfort from C, body and gaze directed at C. Left hand is holding a realistic backpack.
+
+Full Roll Call (LOCKED): A (wearing latex gloves, arguing with B) & B (wearing glasses, arguing with A) remain unchanged. Exclusivity holds: Only C has a thoughtful expression. Only D holds a backpack. No overlaps; Gap Lane empty.

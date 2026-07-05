@@ -1,0 +1,14 @@
+Step 1:
+Final Goal (Context): Four Bank Tellers. Bank Teller A has water bottle in hand. Bank Teller B has red hair. Bank Teller C has tattoos on neck. Bank Teller D has coily hair. Bank Teller A and Bank Teller B are sharing headphones to listen to music with each other. Bank Teller C and Bank Teller D are taking a pulse with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create four real-world, photographed matte neutral gray mannequins on a plain seamless background with soft studio light. Faces are blank masks with no features. Hair is a single matte mass. Clothing is a plain gray form. Props are simple gray primitives. The goal is to capture pose and silhouette only. A and B are on the left, facing each other. C and D are on the right, facing each other. Each person is fully visible with no silhouette overlap. The central Gap Lane remains empty. ABSOLUTELY NO COLOR.
+
+A: Body and gaze oriented toward B. One hand holds a simple gray cylinder (water bottle). A simple gray wire form connects A's head to B's head to represent shared headphones.
+B: Body and gaze oriented toward A, head slightly tilted as if listening. Hair is a single matte mass.
+C: Body and gaze oriented toward D. One hand is positioned on D's wrist area. Neck tattoos are represented by a flat gray patch on the neck.
+D: Body and gaze oriented toward C, one arm extended so C can access the wrist. Coily hair is represented as a single molded mass.
+
+Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

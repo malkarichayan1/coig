@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Hotel Front Desk Clerks. Hotel Front Desk Clerk A has coffee cup in hand. Hotel Front Desk Clerk B has brown hair. Hotel Front Desk Clerk C has goatee. Hotel Front Desk Clerk D wears sunglasses. Hotel Front Desk Clerk A and Hotel Front Desk Clerk B are looking at the same phone or tablet screen with each other. Hotel Front Desk Clerk C and Hotel Front Desk Clerk D are one person turning their back on the other while they are speaking with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic hotel front desk lobby background; integrate subtle contact shadows and highlights on the subjects to match the environment; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

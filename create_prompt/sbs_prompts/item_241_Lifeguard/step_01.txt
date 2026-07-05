@@ -1,0 +1,17 @@
+Step 1:
+Final Goal (Context): Four Lifeguards. Lifeguard A has undercut hair. Lifeguard B wears ear piercings. Lifeguard C wears anklet. Lifeguard D is sad. Lifeguard A and Lifeguard B are having conversations with each other. Lifeguard C and Lifeguard D are arguing face-to-face, with expressive hand gestures with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create real-world, photographed placeholders for four subjects that look like a human artist’s block-in. Material: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces have no pupils/irises/eyelashes/eyebrows/teeth. Hair is a single matte mass. Clothing is plain gray forms. Props are simple gray primitives.
+
+Cluster 1 (Left):
+A: In a conversational pose, body and gaze oriented toward B. Hair is a single molded mass in an undercut style.
+B: In a conversational pose, body and gaze oriented toward A. Small gray bumps on earlobes indicate piercings.
+
+Cluster 2 (Right):
+C: In an arguing pose with expressive hand gestures, body and gaze oriented toward D. A simple gray ring primitive is placed around the ankle.
+D: In an arguing pose with expressive hand gestures, body and gaze oriented toward C. Sadness is implied by a simple downturned mouth curve.
+
+Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

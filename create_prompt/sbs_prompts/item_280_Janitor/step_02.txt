@@ -1,0 +1,7 @@
+Step 2:
+Final Goal (Context): Four Janitors. Janitor A has mustache. Janitor B wears nose piercing. Janitor C has tattoos on neck. Janitor D has black hair. Janitor A and Janitor B are turning their back on the other while they are speaking with each other. Janitor C and Janitor D are taking a pulse with each other.
+
+Placement (Compositional Blueprint):
+Fill in Cluster 1 (A, B); Cluster 2 (C, D) remains placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail. The subjects now display natural, realistic human skin texture with visible pores. Their janitor uniforms have realistic fabric wrinkles, seams, and texture. The specific subjects are: A: Has a thick mustache, body angled slightly away from B but head turned to speak to B with a tense expression. B: Wears a small nose piercing, body angled slightly away from A but head turned to speak to A with a tense expression. Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A has a mustache. Only B has a nose piercing.

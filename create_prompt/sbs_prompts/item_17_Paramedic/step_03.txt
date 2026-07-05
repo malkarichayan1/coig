@@ -1,0 +1,15 @@
+Step 3:
+Final Goal (Context): Four Paramedics. Paramedic A has tattoos on neck. Paramedic B is serene. Paramedic C wears Winter gloves. Paramedic D wears piercings on ears. Paramedic A and Paramedic B are doing a fist bump with each other. Paramedic C and Paramedic D are looking at the same phone or tablet screen with each other.
+
+Placement (Compositional Blueprint):
+Fill-in C and D; A and B are locked. No position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, photorealistic image. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores and individual hair strands. Their clothing has realistic fabric wrinkles and texture. 
+
+The specific subjects are: 
+C: Wears realistic, thick Winter gloves while holding a tablet. Body and gaze are oriented toward the tablet screen shared with D. 
+D: Wears visible piercings on ears. Body and gaze are oriented toward the tablet screen shared with C. 
+
+Full Roll Call (LOCKED): A (neck tattoos, facing B) & B (serene, facing A) remain unchanged. Exclusivity holds: Only C wears Winter gloves. Only D has ear piercings. No silhouette overlap; Gap Lane empty. 
+
+Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

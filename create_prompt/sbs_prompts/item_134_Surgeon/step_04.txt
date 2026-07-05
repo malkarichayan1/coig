@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Surgeons. Surgeon A wears glasses. Surgeon B has sideburns. Surgeon C has hazel eyes. Surgeon D is content. Surgeon A and Surgeon B are shaking hands with each other. Surgeon C and Surgeon D are one person crossing their arms and glaring while the other tries to talk with each other.
+
+Placement (Compositional Blueprint):
+All subjects are locked. Gap Lane remains empty.
+
+This Step's Action: Add a hyperrealistic background of a bright, modern hospital corridor. Integrate subtle contact shadows and highlights where the subjects meet the floor. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact. Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

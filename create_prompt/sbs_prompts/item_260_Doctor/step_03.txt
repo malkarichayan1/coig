@@ -1,0 +1,15 @@
+Step 3:
+Final Goal (Context): Four Doctors. Doctor A has tattoos on arm. Doctor B has Blue eyes. Doctor C has Black hair. Doctor D has coffee cup in hand. Doctor A and Doctor B are placing a comforting hand on the other's shoulder or back with each other. Doctor C and Doctor D are high-fiving with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) upgrading; Cluster 1 (A, B) locked.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B.
+
+The new subjects (C and D) display real human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture.
+
+The specific subjects are:
+C: Has black hair with natural, individual hair strands. Body and gaze are oriented toward D, right hand raised to high-five D.
+D: Holds a realistic coffee cup in one hand. Body and gaze are oriented toward C, left hand raised to high-five C.
+
+Full Roll Call (LOCKED): A (tattoos, facing B) & B (blue eyes, facing A) remain unchanged. Exclusivity holds: Only C has black hair; only D has a coffee cup. No overlaps; Gap Lane empty.

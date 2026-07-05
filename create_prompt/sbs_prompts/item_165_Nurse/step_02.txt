@@ -1,0 +1,13 @@
+Step 2:
+Final Goal (Context): Four Nurses. Nurse A has hazel eyes. Nurse B wears Winter gloves. Nurse C is content. Nurse D has tablet in hand. Nurse A and Nurse B are having a fist bump with each other. Nurse C and Nurse D are helping someone up after they have fallen with each other.
+
+Placement (Compositional Blueprint):
+Fill-in Cluster 1 (A, B); Cluster 2 (C, D) remains placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail. The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their nurse uniforms have realistic fabric wrinkles, seams, and texture.
+
+The specific subjects are:
+A: Has hazel eyes. Body and gaze are oriented toward B, right arm extended in a fist bump pose, making contact with B's fist.
+B: Wears thick Winter gloves. Body and gaze are oriented toward A, left arm extended in a fist bump pose, making contact with A's fist.
+
+Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A has hazel eyes. Only B wears Winter gloves.

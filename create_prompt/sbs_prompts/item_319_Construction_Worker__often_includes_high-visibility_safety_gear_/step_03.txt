@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Construction Workers. Construction Worker A has coily hair. Construction Worker B has brown hair. Construction Worker C has goatee. Construction Worker D wears nose piercing. Construction Worker A and Construction Worker B are exchanging business cards with each other. Construction Worker C and Construction Worker D are pointing an accusatory finger at each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is a photorealistic image shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has a goatee with realistic facial hair texture, body and gaze oriented toward D, pointing an accusatory finger at D. D: Wears a realistic nose piercing, body and gaze oriented toward C, pointing an accusatory finger at C. Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Locked subjects A and B remain unchanged. Exclusivity: Only C has a goatee. Only D wears a nose piercing.

@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four State Park Rangers. State Park Ranger A is bored. State Park Ranger B wears an eyebrow piercing. State Park Ranger C has a goatee. State Park Ranger D wears sunglasses. State Park Ranger A and State Park Ranger B are kneeling before someone with each other. State Park Ranger C and State Park Ranger D are assembling something, reading instructions together with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic state park background with trees and a dirt path; integrate subtle contact shadows and highlights; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity is intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

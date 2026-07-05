@@ -1,0 +1,16 @@
+Step 3:
+Final Goal (Context): Four Nurses. Nurse A is content. Nurse B wears sunglasses. Nurse C is worried. Nurse D is tired. Nurse A and Nurse B are pouring the other a cup of tea or coffee with each other. Nurse C and Nurse D are one person shouting while the other looks away with each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image with real human skin texture and visible skin pores. Do not move or alter the locked subjects A and B.
+
+The new subjects (C and D) have hair with natural hair strands and clothing with realistic fabric wrinkles and texture.
+
+The specific subjects are:
+C: Has a worried expression, shouting with body and gaze oriented toward D.
+D: Has a tired expression, looking away from C.
+
+Full Roll Call (LOCKED): A (content, pouring, facing B) & B (sunglasses, pouring, facing A) remain unchanged. Exclusivity holds: Only A is content, only C is worried/shouting, only D is tired. No overlaps; Gap Lane empty.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

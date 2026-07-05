@@ -1,0 +1,7 @@
+Step 1:
+Final Goal (Context): Four Doctors. Doctor A is thoughtful. Doctor B wears ear piercings. Doctor C has straight hair. Doctor D has gray eyes. Doctor A and Doctor B are shaking hands with each other. Doctor C and Doctor D are helping someone up after they have fallen with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create four real-world, photographed placeholders that look like a human artist’s block-in: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces have no pupils/irises/eyelashes/eyebrows/teeth. Hair is a single matte mass. Clothing is plain gray forms. Props are simple gray primitives. A and B are posed shaking hands, with bodies and gazes oriented toward each other. A has a slightly tilted head to imply thoughtfulness. B has small gray cylinders on earlobes for piercings. C and D are posed bending down and reaching forward, as if helping an unseen person up from the ground, with bodies and gazes oriented toward each other. C's hair is a single smooth, straight mass. Each person is fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.

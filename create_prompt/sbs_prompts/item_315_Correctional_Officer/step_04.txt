@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Correctional Officers. Correctional Officer A has stubble. Correctional Officer B has grocery bag in hand. Correctional Officer C is surprised. Correctional Officer D wears headphones. Correctional Officer A and Correctional Officer B are one person shouting while the other looks away with each other. Correctional Officer C and Correctional Officer D are arguing face-to-face, with expressive hand gestures with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic correctional facility interior background; integrate subtle contact shadows and highlights on the subjects to match the environment; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

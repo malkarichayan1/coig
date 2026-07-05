@@ -1,0 +1,17 @@
+Step 2:
+Final Goal (Context): Four Bank Tellers. Bank Teller A has fades hair. Bank Teller B has mustache. Bank Teller C is laughing. Bank Teller D wears latex gloves. Bank Teller A and Bank Teller B are whispering a secret into the other's ear with each other. Bank Teller C and Bank Teller D are one person crossing their arms and glaring while the other tries to talk with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) is being filled in; Cluster 2 (C, D) remains as placeholders; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity.
+
+This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail.
+
+The subjects now display natural, realistic human skin texture with visible pores and fine hairs. Their hair shows individual strands and realistic highlights. Their clothing has realistic fabric wrinkles, seams, and texture.
+
+The specific subjects are:
+A: Has fades hair with visible, individual hair strands. Leaning in and whispering into B's ear, with body and gaze oriented toward B.
+B: Has a realistic mustache. Leaning in and whispering into A's ear, with body and gaze oriented toward A.
+
+Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A has fades hair. Only B has a mustache.

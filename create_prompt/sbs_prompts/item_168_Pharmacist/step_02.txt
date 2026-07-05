@@ -1,0 +1,7 @@
+Step 2:
+Final Goal (Context): Four Pharmacists. Pharmacist A has tattoos on leg. Pharmacist B has coffee cup in hand. Pharmacist C is smiling. Pharmacist D is crying. Pharmacist A and Pharmacist B are assembling something, reading instructions together with each other. Pharmacist C and Pharmacist D are high-fiving with each other.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) upgrading; Cluster 2 (C, D) remains placeholders.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is a hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, f/2.2 aperture, under soft, even studio lighting. The subjects have real human skin texture with visible pores, natural hair strands, and realistic fabric wrinkles and texture on their clothing. The specific subjects are: A: Has visible tattoos on their leg. A's body and gaze are oriented toward B as they read instructions together. B: Holds a coffee cup in their hand. B's body and gaze are oriented toward A as they read instructions together. Preserve all poses, Micro-Zones, and spacing. The Gap Lane remains empty. Placeholders C and D are unchanged. Exclusivity: Only A has leg tattoos. Only B has a coffee cup. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

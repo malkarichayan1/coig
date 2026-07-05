@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Security Guards. Security Guard A has apple in hand. Security Guard B wears Necklace. Security Guard C is disgusted. Security Guard D is serene. Security Guard A and Security Guard B are having conversations with each other. Security Guard C and Security Guard D are arguing face-to-face, with expressive hand gestures with each other.
+
+Placement (Compositional Blueprint):
+All subjects locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic background of a security control room or modern office lobby; integrate subtle contact shadows and highlights to ground the subjects in the environment; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity rules are intact.

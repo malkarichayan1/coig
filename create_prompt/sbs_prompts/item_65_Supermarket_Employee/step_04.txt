@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Supermarket Employees. Supermarket Employee A is smiling. Supermarket Employee B wears eyebrow piercings. Supermarket Employee C has gray hair. Supermarket Employee D has gray eyes. Supermarket Employee A and Supermarket Employee B are waving to each other. Supermarket Employee C and Supermarket Employee D are placing a comforting hand on the other's shoulder or back.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic supermarket aisle background; integrate subtle contact shadows and highlights to ground the subjects in the environment; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks remain intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Judges. Judge A has tattoos on ankle. Judge B is content. Judge C has a goatee. Judge D has green eyes. Judge A and Judge B are exchanging business cards with each other. Judge C and Judge D are kneeling before someone with each other.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) is being filled-in. Cluster 1 (A, B) is locked and immutable. No positions are changed.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image using a high-resolution DSLR and soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores and natural hair strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has a goatee, is kneeling with body and gaze oriented toward D. D: Has green eyes, is kneeling with body and gaze oriented toward C. Full Roll Call (LOCKED): A (tattoos on ankle, facing B) & B (content expression, facing A) remain unchanged. Exclusivity: Only C has a goatee. Only D has green eyes. No silhouette overlap. The Gap Lane remains empty. Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

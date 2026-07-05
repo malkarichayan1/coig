@@ -1,0 +1,7 @@
+Step 3:
+Final Goal (Context): Four Hotel Front Desk Clerks. Hotel Front Desk Clerk A has gray hair. Hotel Front Desk Clerk B wears a watch. Hotel Front Desk Clerk C has a water bottle in hand. Hotel Front Desk Clerk D has stubble. Hotel Front Desk Clerk A and Hotel Front Desk Clerk B are doing a fist bump with each other. Hotel Front Desk Clerk C and Hotel Front Desk Clerk D are looking at the same phone or tablet screen with each other.
+
+Placement (Compositional Blueprint):
+Filling in Cluster 2 (C, D); Cluster 1 (A, B) is locked; no position changes.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Holds a realistic water bottle in one hand, body and gaze oriented toward D, looking down at a shared phone/tablet screen. D: Has realistic stubble on the chin and jaw, body and gaze oriented toward C, looking down at the shared phone/tablet screen. Full Roll Call (LOCKED): A (gray hair, facing B) & B (watch, facing A) remain unchanged. Exclusivity holds: Only C has a water bottle. Only D has stubble. No overlaps; Gap Lane empty.

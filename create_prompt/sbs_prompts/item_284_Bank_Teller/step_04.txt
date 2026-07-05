@@ -1,0 +1,7 @@
+Step 4:
+Final Goal (Context): Four Bank Tellers. Bank Teller A has white hair. Bank Teller B has bob cut hair. Bank Teller C has a mustache. Bank Teller D wears sunglasses. Bank Teller A and Bank Teller B are placing a comforting hand on the other's shoulder or back with each other. Bank Teller C and Bank Teller D are arguing face-to-face, with expressive hand gestures with each other.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic bank interior background behind the four subjects. Integrate subtle contact shadows and highlights to ground the subjects in the environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks remain intact.
