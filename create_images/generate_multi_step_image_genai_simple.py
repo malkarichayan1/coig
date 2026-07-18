@@ -57,6 +57,119 @@ from google.genai.types import GenerateContentConfig, Part
 # Global Gemini client instance
 gemini_client = None
 
+# -------------------- Optional Puter.js image backend --------------------
+# When USE_PUTER_SERVICE=1, image generation/editing is routed through the
+# local Puter.js microservice (../../image_service) instead of the official
+# Gemini SDK. This is a free, no-API-key fallback; it is NOT version-faithful
+# to the paper's gemini-2.5-flash-image-preview and should be treated as a
+# pilot-only path (see docs/pilot-design.md limitations). Default is OFF, so
+# the faithful SDK path is unchanged unless this flag is explicitly set.
+
+def _use_puter_service() -> bool:
+    return os.getenv("USE_PUTER_SERVICE") == "1"
+
+def _puter_generate(prompt: str, image_bytes: bytes = None) -> bytes:
+    """Call the local Puter image service. Returns PNG bytes.
+
+    image_bytes=None -> text->image (initial). Otherwise image+text->image (edit).
+    """
+    import json as _json
+    import base64 as _base64
+    import urllib.request as _urlreq
+
+    url = os.getenv("PUTER_SERVICE_URL", "http://localhost:8787/generate-image")
+    payload = {"prompt": prompt}
+    if image_bytes is not None:
+        payload["input_image"] = "data:image/png;base64," + _base64.b64encode(image_bytes).decode("ascii")
+    model = os.getenv("PUTER_IMAGE_MODEL")
+    if model:
+        payload["model"] = model
+
+    data = _json.dumps(payload).encode("utf-8")
+    req = _urlreq.Request(url, data=data, headers={"Content-Type": "application/json"})
+    timeout = float(os.getenv("PUTER_TIMEOUT", "180"))
+    with _urlreq.urlopen(req, timeout=timeout) as resp:
+        body = _json.loads(resp.read().decode("utf-8"))
+
+    if not body.get("ok"):
+        raise RuntimeError(f"Puter service error: {body.get('error')}")
+    data_url = body["image_data_url"]
+    b64 = data_url.split(",", 1)[1]
+    return _base64.b64decode(b64)
+
+# -------------------- Optional OpenRouter image backend --------------------
+# When USE_OPENROUTER=1, image generation/editing is routed through OpenRouter's
+# images API. Default model google/gemini-2.5-flash-image (Nano Banana) is the
+# same Gemini image family the paper uses and supports image editing
+# (image+text->image), so it satisfies the compositional-lock requirement.
+# Requires OPENROUTER_API_KEY. Default is OFF.
+
+def _use_openrouter() -> bool:
+    return os.getenv("USE_OPENROUTER") == "1"
+
+def _extract_openrouter_image(body) -> bytes:
+    """Pull PNG bytes out of an OpenRouter image response, tolerating both the
+    images-API shape (data[].b64_json) and the chat-style shape
+    (choices[].message.images[].image_url.url data URL)."""
+    import base64 as _base64
+
+    if isinstance(body, dict):
+        data = body.get("data")
+        if data:
+            item = data[0]
+            if item.get("b64_json"):
+                return _base64.b64decode(item["b64_json"])
+            url = (item.get("image_url") or {}).get("url", "")
+            if url.startswith("data:"):
+                return _base64.b64decode(url.split(",", 1)[1])
+        choices = body.get("choices")
+        if choices:
+            images = (choices[0].get("message") or {}).get("images") or []
+            if images:
+                url = (images[0].get("image_url") or {}).get("url", "")
+                if url.startswith("data:"):
+                    return _base64.b64decode(url.split(",", 1)[1])
+    raise RuntimeError(
+        f"OpenRouter response contained no image (top-level keys: "
+        f"{list(body)[:8] if isinstance(body, dict) else type(body).__name__})"
+    )
+
+def _openrouter_generate(prompt: str, image_bytes: bytes = None) -> bytes:
+    """Call OpenRouter's image API. Returns PNG bytes.
+
+    image_bytes=None -> text->image (initial). Otherwise image+text->image (edit).
+    """
+    import json as _json
+    import base64 as _base64
+    import urllib.request as _urlreq
+    import urllib.error as _urlerr
+
+    api_key = os.getenv("OPENROUTER_API_KEY")
+    if not api_key:
+        raise RuntimeError("USE_OPENROUTER=1 but OPENROUTER_API_KEY is not set")
+
+    url = os.getenv("OPENROUTER_IMAGE_URL", "https://openrouter.ai/api/v1/images")
+    model = os.getenv("OPENROUTER_IMAGE_MODEL", "google/gemini-2.5-flash-image")
+    payload = {"model": model, "prompt": prompt}
+    if image_bytes is not None:
+        data_uri = "data:image/png;base64," + _base64.b64encode(image_bytes).decode("ascii")
+        payload["input_references"] = [{"type": "image_url", "image_url": {"url": data_uri}}]
+
+    data = _json.dumps(payload).encode("utf-8")
+    headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
+    timeout = float(os.getenv("OPENROUTER_TIMEOUT", "180"))
+    req = _urlreq.Request(url, data=data, headers=headers)
+    try:
+        with _urlreq.urlopen(req, timeout=timeout) as resp:
+            body = _json.loads(resp.read().decode("utf-8"))
+    except _urlerr.HTTPError as e:
+        detail = e.read().decode("utf-8", "replace")
+        raise RuntimeError(f"OpenRouter HTTP {e.code}: {detail[:300]}")
+
+    if isinstance(body, dict) and body.get("error"):
+        raise RuntimeError(f"OpenRouter error: {body['error']}")
+    return _extract_openrouter_image(body)
+
 # -------------------- CLI --------------------
 
 def parse_args():
@@ -72,8 +185,9 @@ def parse_args():
     p.add_argument("--outdir", type=str, 
                    default="multi_step_out",
                    help="Output directory for generated step images")
-    p.add_argument("--model", type=str, default="gemini-2.5-flash-image-preview",
-                   help="Gemini image model to use")
+    p.add_argument("--model", type=str, default="gemini-2.5-flash-image",
+                   help="Gemini image model to use (gemini-2.5-flash-image-preview was retired; "
+                        "gemini-2.5-flash-image is the current free-tier-eligible replacement)")
     p.add_argument("--limit_items", type=int, default=None,
                    help="Limit number of sequences to process (for testing)")
     p.add_argument("--safety_level", type=str, default="BLOCK_NONE",
@@ -203,7 +317,15 @@ def generate_initial_image(prompt: str, *, model: str, config: GenerateContentCo
     """Generate initial image from text prompt. Returns (image_bytes, response_object)."""
     print(f"      🎨 Generating initial image...")
     print(f"         Prompt: {prompt[:100]}{'...' if len(prompt) > 100 else ''}")
-    
+
+    if _use_openrouter():
+        print(f"         🔀 Routing via OpenRouter")
+        return _openrouter_generate(prompt), None
+
+    if _use_puter_service():
+        print(f"         🔀 Routing via Puter image service")
+        return _puter_generate(prompt), None
+
     response = gemini_client.models.generate_content(
         model=model,
         contents=[prompt],
@@ -225,7 +347,15 @@ def edit_image(image_bytes: bytes, edit_prompt: str, *, model: str, config: Gene
     """Edit an existing image using a text prompt. Returns (image_bytes, response_object)."""
     print(f"      ✏️  Editing image...")
     print(f"         Prompt: {edit_prompt[:100]}{'...' if len(edit_prompt) > 100 else ''}")
-    
+
+    if _use_openrouter():
+        print(f"         🔀 Routing via OpenRouter (edit)")
+        return _openrouter_generate(edit_prompt, image_bytes=image_bytes), None
+
+    if _use_puter_service():
+        print(f"         🔀 Routing via Puter image service (edit)")
+        return _puter_generate(edit_prompt, image_bytes=image_bytes), None
+
     # Create image part from bytes
     image_part = Part.from_bytes(data=image_bytes, mime_type="image/png")
     

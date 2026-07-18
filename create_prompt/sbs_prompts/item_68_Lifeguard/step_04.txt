@@ -2,6 +2,7 @@ Step 4:
 Final Goal (Context): Four Lifeguards. Lifeguard A has coffee cup in hand. Lifeguard B has red hair. Lifeguard C has tattoos on arm. Lifeguard D has straight hair. Lifeguard A and Lifeguard B are whispering a secret into the other's ear with each other. Lifeguard C and Lifeguard D are one person crossing their arms and glaring while the other tries to talk with each other.
 
 Placement (Compositional Blueprint):
-All subjects (A, B, C, D) locked; Gap Lane empty.
+all subjects locked; Gap Lane empty.
 
-This Step's Action: Add a hyperrealistic background of a sunny beach with a lifeguard tower in the distance; integrate subtle contact shadows and highlights on the subjects to match the environment; do not move or alter any person. Confirm each individual is fully visible, no cross-zone occlusion, and all exclusivity is intact.
+This Step's Action: Add a hyperrealistic beach background; integrate subtle contact shadows and highlights on the subjects to match the environment; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity is intact.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

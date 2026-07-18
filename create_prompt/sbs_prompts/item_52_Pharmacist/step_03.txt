@@ -2,6 +2,13 @@ Step 3:
 Final Goal (Context): Four Pharmacists. Pharmacist A has green eyes. Pharmacist B wears earrings. Pharmacist C has tattoos on ankle. Pharmacist D has laptop in hand. Pharmacist A and Pharmacist B are giving a fist bump to each other. Pharmacist C and Pharmacist D are exchanging business cards with each other.
 
 Placement (Compositional Blueprint):
-Cluster 2 (C & D) upgrading; Cluster 1 (A & B) locked; no position changes.
+Cluster 2 (C & D) upgrading; Cluster 1 (A & B) locked.
 
-This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image shot on a high-resolution DSLR with an 85mm portrait lens. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible skin pores and natural hair strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has visible tattoos on one ankle; extending a business card toward D, body and gaze oriented toward D. D: Holds a laptop in one arm; extending a business card toward C with the other hand, body and gaze oriented toward C. Full Roll Call (LOCKED): A (green eyes, fist-bumping B) & B (earrings, fist-bumping A) remain unchanged. Exclusivity holds: Only C has tattoos on the ankle. Only D has a laptop. No overlaps; Gap Lane empty. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. Do not move or alter the locked subjects A and B.
+This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes.
+The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their hair shows individual hair strands. Their clothing has realistic fabric wrinkles and texture.
+The specific subjects are:
+C: Has visible tattoos on the ankle; exchanging a business card with D, with body and gaze oriented toward D.
+D: Holds a laptop in one hand; exchanging a business card with C, with body and gaze oriented toward C.
+Full Roll Call (LOCKED): A (green eyes, fist bumping B) & B (earrings, fist bumping A) remain unchanged. Exclusivity holds: Only C has tattoos on the ankle. Only D has a laptop. No overlaps; Gap Lane empty.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

@@ -2,6 +2,17 @@ Step 2:
 Final Goal (Context): Four Housekeeping Staff. Housekeeping Staff A has tote bag in hand. Housekeeping Staff B has mustache. Housekeeping Staff C has water bottle in hand. Housekeeping Staff D wears headphones. Housekeeping Staff A and Housekeeping Staff B are whispering a secret into the other's ear with each other. Housekeeping Staff C and Housekeeping Staff D are looking at the same phone or tablet screen with each other.
 
 Placement (Compositional Blueprint):
-Filling in Cluster 1 (A, B); Cluster 2 (C, D) remains placeholders; no position changes.
+Cluster 1 (A, B) is being filled in; Cluster 2 (C, D) remains as placeholders; no position changes.
 
-This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail. The subjects now display natural, realistic human skin texture with visible pores and fine hairs. Their hair shows individual hair strands and realistic highlights. Their clothing has realistic fabric wrinkles, seams, and texture. The specific subjects are: A: Whispering into B's ear, body and gaze oriented toward B. Left hand holds a realistic tote bag. B: Has a realistic mustache, listening to A, body and gaze oriented toward A. Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A has a tote bag; only B has a mustache. Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity.
+
+This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, f/2.2 aperture, under soft, even studio lighting. The focus is sharp. The conversion reintroduces natural color and fine micro-detail.
+
+The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles and texture.
+
+The specific subjects are:
+A: Leaning in and whispering into B's ear, body and gaze oriented toward B. A's left hand holds a tote bag.
+B: Has a mustache. B is leaning in to listen to A, body and gaze oriented toward A.
+
+Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A has a tote bag. Only B has a mustache.
+Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

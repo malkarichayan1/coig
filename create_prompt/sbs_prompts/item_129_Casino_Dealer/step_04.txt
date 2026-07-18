@@ -4,4 +4,6 @@ Final Goal (Context): Four Casino Dealers. Casino Dealer A has sideburns. Casino
 Placement (Compositional Blueprint):
 All subjects locked; Gap Lane empty.
 
-This Step's Action: Add a hyperrealistic, softly out-of-focus casino floor background with subtle ambient lighting; integrate subtle contact shadows and highlights on the subjects to match the environment; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact.
+This Step's Action: Add a hyperrealistic casino background with soft, ambient lighting; integrate subtle contact shadows/highlights on the subjects; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact.
+
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

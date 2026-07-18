@@ -2,6 +2,17 @@ Step 1:
 Final Goal (Context): Four Airline Pilots. Airline Pilot A has tattoos on ankle. Airline Pilot B has coffee cup in hand. Airline Pilot C has bun hair. Airline Pilot D has tablet in hand. Airline Pilot A and Airline Pilot B are pointing an accusatory finger at each other. Airline Pilot C and Airline Pilot D are crossing their arms and glaring while the other tries to talk.
 
 Placement (Compositional Blueprint):
-Cluster 1 left; Cluster 2 right; Micro-Zones set; Gap Lane empty.
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
 
-This Step's Action: Create four real-world, photographed placeholders that look like a human artist’s block-in: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces have no pupils/irises/eyelashes/eyebrows/teeth. Hair is a single matte mass. Clothing is plain gray forms. Props are simple gray primitives. A and B form Cluster 1 on the left. C and D form Cluster 2 on the right. A: Body and gaze oriented toward B, right arm extended pointing an accusatory finger at B. A flat gray patch indicates the tattoo area on the ankle. B: Body and gaze oriented toward A, left arm extended pointing an accusatory finger at A. Left hand holds a simple gray cylinder (coffee cup). C: Body and gaze oriented toward D, arms crossed, glaring pose. Hair is a single matte mass shaped into a bun. D: Body and gaze oriented toward C, in a talking pose. Hands hold a simple gray flat rectangle (tablet). Each person is fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.
+This Step's Action: Create real-world, photographed placeholders for four subjects that look like a human artist’s block-in. Material: matte neutral gray mannequins / gray morph-suit actors with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives.
+
+Cluster 1 (Left):
+A: Pointing an accusatory finger at B, body and gaze oriented toward B. A flat gray patch indicates the tattoo area on the ankle.
+B: Pointing an accusatory finger at A, body and gaze oriented toward A. Hand is holding a plain gray cylinder (coffee cup).
+
+Cluster 2 (Right):
+C: Arms crossed, glaring pose toward D, body and gaze oriented toward D. Hair is a single matte mass shaped into a bun.
+D: Talking gesture toward C, body and gaze oriented toward C. Hand is holding a plain gray flat rectangle (tablet).
+
+Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

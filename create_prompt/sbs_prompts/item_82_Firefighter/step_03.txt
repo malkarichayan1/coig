@@ -2,6 +2,12 @@ Step 3:
 Final Goal (Context): Four Firefighters. Firefighter A has tattoos on ankle. Firefighter B wears earrings. Firefighter C has a lip piercing. Firefighter D wears latex gloves. Firefighter A and Firefighter B are shaking hands with each other. Firefighter C and Firefighter D are taking a pulse with each other.
 
 Placement (Compositional Blueprint):
-Cluster 2 (C & D) upgrading; Cluster 1 (A & B) locked; no position changes.
+Cluster 2 (C & D) upgrading; Cluster 1 (A & B) locked.
 
-This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has a visible lip piercing; body and gaze oriented toward D, taking D's pulse. D: Wears realistic latex gloves; body and gaze oriented toward C, having their pulse taken by C. Full Roll Call (LOCKED): A (tattoos on ankle, facing B) & B (earrings, facing A) remain unchanged. Exclusivity holds: Only C has a lip piercing. Only D wears latex gloves. No overlaps; Gap Lane empty. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image with real human skin texture and visible skin pores. Do not move or alter the locked subjects A and B.
+The new subjects (C and D) have hair with natural hair strands and clothing with realistic fabric wrinkles and texture.
+The specific subjects are:
+C: Has a lip piercing; body and gaze oriented toward D, right hand taking the pulse on D's left wrist.
+D: Wears latex gloves; body and gaze oriented toward C, left arm extended for C.
+Full Roll Call (LOCKED): A (tattoos on ankle, shaking hands with B) & B (earrings, shaking hands with A) remain unchanged. Exclusivity holds: Only C has a lip piercing. Only D wears latex gloves. No overlaps; Gap Lane empty.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

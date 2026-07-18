@@ -2,6 +2,13 @@ Step 1:
 Final Goal (Context): Four Bouncers. Bouncer A is joyful. Bouncer B has blue eyes. Bouncer C wears sunglasses. Bouncer D has camera in hand. Bouncer A and Bouncer B are having a fist bump with each other. Bouncer C and Bouncer D are waving to each other.
 
 Placement (Compositional Blueprint):
-Cluster 1 (A, B) on the left; Cluster 2 (C, D) on the right; Micro-Zones set for each person; Gap Lane between clusters is empty.
+Cluster 1 left; Cluster 2 right; Micro-Zones set; Gap Lane empty.
 
-This Step's Action: Create a real-world photograph of four matte neutral gray mannequins (or morph-suit actors with blank masks) on a plain seamless background with soft studio lighting. Faces have no pupils, irises, eyelashes, or eyebrows. Hair is a single matte mass. Clothing is plain gray forms. Props are simple gray primitives. The composition captures only pose, gesture, and silhouette. A: Joyful expression implied by a shallow mouth curve, right fist extended toward B, body and gaze oriented toward B. B: Left fist extended to meet A's fist, body and gaze oriented toward A. C: Wears a simple gray primitive shape for sunglasses, right hand raised in a wave, body and gaze oriented toward D. D: Holds a simple gray rectangular block primitive (camera) in left hand, right hand raised in a wave, body and gaze oriented toward C. Each person is fully visible with slight yaw offsets. There is no silhouette overlap. The Gap Lane remains empty. ABSOLUTELY NO COLOR. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.
+This Step's Action: Create four real-world, photographed placeholders that look like a human artist’s block-in: matte neutral gray mannequins / gray morph-suit actors with blank masks, photographed on a plain seamless with soft studio light. Faces have no pupils/irises/eyelashes/eyebrows/teeth. Hair is a single matte mass. Clothing is plain gray forms. Props are simple gray primitives.
+
+A: Joyful expression implied by a shallow mouth curve, body and gaze oriented toward B, right fist extended forward for a fist bump.
+B: Body and gaze oriented toward A, left fist extended forward to meet A's fist for the bump.
+C: Body and gaze oriented toward D, right hand raised in a wave. Sunglasses are a simple gray geometric shape over the eye area.
+D: Body and gaze oriented toward C, left hand raised in a wave. Right hand holds a simple gray rectangular block (camera).
+Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

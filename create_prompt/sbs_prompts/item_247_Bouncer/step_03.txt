@@ -2,6 +2,12 @@ Step 3:
 Final Goal (Context): Four Bouncers. Bouncer A is joyful. Bouncer B has blue eyes. Bouncer C wears sunglasses. Bouncer D has camera in hand. Bouncer A and Bouncer B are having a fist bump with each other. Bouncer C and Bouncer D are waving to each other.
 
 Placement (Compositional Blueprint):
-Cluster 2 (C, D) is being filled-in; Cluster 1 (A, B) is locked. No positions are changed.
+Cluster 2 (C, D) upgrading; Cluster 1 (A, B) locked.
 
-This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image shot on a high-resolution DSLR with an 85mm portrait lens and f/2.2 aperture, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display real human skin texture with visible pores and natural hair strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Wears realistic sunglasses, right hand is raised in a wave, body and gaze oriented toward D. D: Holds a realistic camera in the left hand, right hand is raised in a wave, body and gaze oriented toward C. Full Roll Call (LOCKED): A (joyful, fist-bumping B) and B (blue eyes, fist-bumping A) remain unchanged. Exclusivity: Only C wears sunglasses. Only D has a camera. No silhouette overlap. The Gap Lane remains empty. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B.
+The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture.
+The specific subjects are:
+C: Wears sunglasses; body and gaze oriented toward D, right hand is waving at D.
+D: Holds a camera in hand; body and gaze oriented toward C, left hand is waving at C.
+Full Roll Call (LOCKED): A (joyful, facing B, fist bumping) & B (blue eyes, facing A, fist bumping) remain unchanged. Exclusivity holds (Only C wears sunglasses, only D has a camera). No silhouette overlap; Gap Lane empty.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

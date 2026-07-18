@@ -1,0 +1,82 @@
+Step 1:
+Final Goal (Context): Four Airline Pilots. Airline Pilot A has tattoos on ankle. Airline Pilot B has coffee cup in hand. Airline Pilot C has bun hair. Airline Pilot D has tablet in hand. Airline Pilot A and Airline Pilot B are pointing an accusatory finger at each other. Airline Pilot C and Airline Pilot D are crossing their arms and glaring while the other tries to talk.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Create real-world, photographed placeholders for four subjects that look like a human artist’s block-in. Material: matte neutral gray mannequins / gray morph-suit actors with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives.
+
+Cluster 1 (Left):
+A: Pointing an accusatory finger at B, body and gaze oriented toward B. A flat gray patch indicates the tattoo area on the ankle.
+B: Pointing an accusatory finger at A, body and gaze oriented toward A. Hand is holding a plain gray cylinder (coffee cup).
+
+Cluster 2 (Right):
+C: Arms crossed, glaring pose toward D, body and gaze oriented toward D. Hair is a single matte mass shaped into a bun.
+D: Talking gesture toward C, body and gaze oriented toward C. Hand is holding a plain gray flat rectangle (tablet).
+
+Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.
+
+Step 2:
+Final Goal (Context): Four Airline Pilots. Airline Pilot A has tattoos on ankle. Airline Pilot B has coffee cup in hand. Airline Pilot C has bun hair. Airline Pilot D has tablet in hand. Airline Pilot A and Airline Pilot B are pointing an accusatory finger at each other. Airline Pilot C and Airline Pilot D are crossing their arms and glaring while the other tries to talk.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) upgrading to hyperreal; Cluster 2 (C, D) remains placeholders.
+
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity.
+
+This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail.
+
+The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles, seams, and texture.
+
+The specific subjects are:
+A: Has visible tattoos on the ankle; pointing an accusatory finger at B, with body and gaze oriented toward B.
+B: Holds a coffee cup in hand; pointing an accusatory finger at A, with body and gaze oriented toward A.
+
+Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A has ankle tattoos. Only B has a coffee cup.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.
+
+Step 3:
+Final Goal (Context): Four Airline Pilots. Airline Pilot A has tattoos on ankle. Airline Pilot B has coffee cup in hand. Airline Pilot C has bun hair. Airline Pilot D has tablet in hand. Airline Pilot A and Airline Pilot B are pointing an accusatory finger at each other. Airline Pilot C and Airline Pilot D are crossing their arms and glaring while the other tries to talk.
+
+Placement (Compositional Blueprint):
+Cluster 2 (C, D) upgrading to hyperreal; Cluster 1 (A, B) is locked.
+
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. Do not move or alter the locked subjects A and B.
+
+This is an ultra-detailed, professional photorealistic image shot on a high-resolution DSLR with an 85mm portrait lens, f/2.2 aperture, under soft, even studio lighting. The focus is sharp on the subjects' eyes.
+
+The new subjects (C and D) display real human skin texture with visible skin pores. Their hair shows natural hair strands. Their clothing has realistic fabric wrinkles and texture.
+
+The specific subjects are:
+C: Has hair styled in a bun; arms are crossed, glaring at D, with body and gaze oriented toward D.
+D: Holds a tablet in hand; in a talking pose, with body and gaze oriented toward C.
+
+Full Roll Call (LOCKED): A (tattoos on ankle, pointing at B) & B (coffee cup in hand, pointing at A) remain unchanged. Exclusivity holds: Only C has bun hair. Only D has a tablet. No overlaps; Gap Lane empty.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.
+
+Step 4:
+Final Goal (Context): Four Airline Pilots. Airline Pilot A has tattoos on ankle. Airline Pilot B has coffee cup in hand. Airline Pilot C has bun hair. Airline Pilot D has tablet in hand. Airline Pilot A and Airline Pilot B are pointing an accusatory finger at each other. Airline Pilot C and Airline Pilot D are crossing their arms and glaring while the other tries to talk.
+
+Placement (Compositional Blueprint):
+All subjects (A, B, C, D) are locked; Gap Lane empty.
+
+This Step's Action: Add a hyperrealistic airport terminal background; integrate subtle contact shadows and highlights to ground the subjects in the environment. Do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity locks are intact.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.
+
+Step 5:
+Final Goal (Context): Four Airline Pilots. Airline Pilot A has tattoos on ankle. Airline Pilot B has coffee cup in hand. Airline Pilot C has bun hair. Airline Pilot D has tablet in hand. Airline Pilot A and Airline Pilot B are pointing an accusatory finger at each other. Airline Pilot C and Airline Pilot D are crossing their arms and glaring while the other tries to talk.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Continue building the scene (step 5)
+
+Step 6:
+Final Goal (Context): Four Airline Pilots. Airline Pilot A has tattoos on ankle. Airline Pilot B has coffee cup in hand. Airline Pilot C has bun hair. Airline Pilot D has tablet in hand. Airline Pilot A and Airline Pilot B are pointing an accusatory finger at each other. Airline Pilot C and Airline Pilot D are crossing their arms and glaring while the other tries to talk.
+
+Placement (Compositional Blueprint):
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+
+This Step's Action: Continue building the scene (step 6)
+

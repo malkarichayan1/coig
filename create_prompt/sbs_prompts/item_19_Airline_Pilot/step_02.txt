@@ -2,6 +2,17 @@ Step 2:
 Final Goal (Context): Four Airline Pilots. Airline Pilot A has tattoos on ankle. Airline Pilot B has coffee cup in hand. Airline Pilot C has bun hair. Airline Pilot D has tablet in hand. Airline Pilot A and Airline Pilot B are pointing an accusatory finger at each other. Airline Pilot C and Airline Pilot D are crossing their arms and glaring while the other tries to talk.
 
 Placement (Compositional Blueprint):
-Cluster 1 (A, B) is being filled in; Cluster 2 (C, D) remains as placeholders; no position changes.
+Cluster 1 (A, B) upgrading to hyperreal; Cluster 2 (C, D) remains placeholders.
 
-This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail. The subjects now display natural, realistic human skin texture with visible pores and fine hairs. Their hair shows individual strands and realistic highlights. Their clothing has realistic fabric wrinkles, seams, and texture. The specific subjects are: A: Has visible tattoos on the ankle. Body and gaze are oriented toward B, pointing an accusatory finger at B. B: Holds a realistic coffee cup. Body and gaze are oriented toward A, pointing an accusatory finger at A. Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A has ankle tattoos. Only B has a coffee cup.
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity.
+
+This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail.
+
+The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles, seams, and texture.
+
+The specific subjects are:
+A: Has visible tattoos on the ankle; pointing an accusatory finger at B, with body and gaze oriented toward B.
+B: Holds a coffee cup in hand; pointing an accusatory finger at A, with body and gaze oriented toward A.
+
+Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A has ankle tattoos. Only B has a coffee cup.
+Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

@@ -2,6 +2,17 @@ Step 1:
 Final Goal (Context): Four Housekeeping Staff. Housekeeping Staff A has tote bag in hand. Housekeeping Staff B has mustache. Housekeeping Staff C has water bottle in hand. Housekeeping Staff D wears headphones. Housekeeping Staff A and Housekeeping Staff B are whispering a secret into the other's ear with each other. Housekeeping Staff C and Housekeeping Staff D are looking at the same phone or tablet screen with each other.
 
 Placement (Compositional Blueprint):
-Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
+Cluster 1 left; Cluster 2 right; Micro-Zones set; Gap Lane empty.
 
-This Step's Action: Create real-world, photographed placeholders for four subjects that look like a human artist’s block-in. Material: matte neutral gray mannequins with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives. A and B are on the left, leaning in towards each other. C and D are on the right, looking down at a shared object. A: Body and gaze oriented toward B, head tilted as if whispering. Left hand holds a simple gray rectangular block (tote bag). B: Body and gaze oriented toward A, head tilted to listen. A flat gray patch indicates the mustache area on the upper lip. C: Body and gaze oriented toward D, looking down at a shared gray rectangle (phone/tablet) held between C and D. Right hand holds a simple gray cylinder (water bottle). D: Body and gaze oriented toward C, looking down at the shared gray rectangle. A simple gray band over the head represents headphones. Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR. Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.
+This Step's Action: Create real-world, photographed placeholders for four subjects that look like a human artist’s block-in. Material: matte neutral gray mannequins / gray morph-suit actors with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives.
+
+Cluster 1 (Left): A and B are positioned close, whispering to each other.
+A: Leaning toward B, head turned to whisper. Left hand holds a simple gray rectangular prism (tote bag).
+B: Leaning toward A to listen/whisper back. A flat gray patch is placed on the upper lip area to indicate a mustache.
+
+Cluster 2 (Right): C and D are positioned close, looking down at a shared object.
+C: Body and gaze oriented toward D, looking down at a shared point between them. Left hand holds a simple gray cylinder (water bottle).
+D: Body and gaze oriented toward C, looking down at the same shared point. Simple gray headphone shapes are placed over the ears. A simple gray flat rectangle (phone/tablet) is held between C and D.
+
+Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.
+Negative style block: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.
