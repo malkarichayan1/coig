@@ -1,7 +1,0 @@
-Step 6:
-Final Goal (Context): Four Airline Pilots. Airline Pilot A has tattoos on ankle. Airline Pilot B has coffee cup in hand. Airline Pilot C has bun hair. Airline Pilot D has tablet in hand. Airline Pilot A and Airline Pilot B are pointing an accusatory finger at each other. Airline Pilot C and Airline Pilot D are crossing their arms and glaring while the other tries to talk.
-
-Placement (Compositional Blueprint):
-Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
-
-This Step's Action: Continue building the scene (step 6)

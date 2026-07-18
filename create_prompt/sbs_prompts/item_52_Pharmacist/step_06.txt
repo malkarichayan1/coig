@@ -1,7 +1,0 @@
-Step 6:
-Final Goal (Context): Four Pharmacists. Pharmacist A has green eyes. Pharmacist B wears earrings. Pharmacist C has tattoos on ankle. Pharmacist D has laptop in hand. Pharmacist A and Pharmacist B are giving a fist bump to each other. Pharmacist C and Pharmacist D are exchanging business cards with each other.
-
-Placement (Compositional Blueprint):
-Cluster 1 left; Cluster 2 right; Micro-Zones set; Gap Lane empty.
-
-This Step's Action: Continue building the scene (step 6)

@@ -64,9 +64,8 @@ def parse_args():
                    help="Base output directory where generated step images are stored (item subfolders)")
     p.add_argument("--output_csv", type=str, default="evaluation_sbs_results.csv",
                    help="Output CSV path")
-    p.add_argument("--model", type=str, default="gemini-flash-latest",
-                   help="Gemini model name, vision-capable (default: gemini-flash-latest, which the free "
-                        "tier serves; gemini-2.5-flash is 404 for new keys and gemini-2.5-pro requires paid billing)")
+    p.add_argument("--model", type=str, default="gemini-2.5-pro",
+                   help="Gemini model name (vision-capable)")
     p.add_argument("--temperature", type=float, default=0.0)
     p.add_argument("--limit", type=int, default=None)
     grp = p.add_mutually_exclusive_group()
@@ -96,72 +95,6 @@ def initialize_gemini_client():
 
 def create_generation_config(temperature: float = 0.0) -> Dict[str, Any]:
     return {"temperature": temperature, "top_p": 0.95, "top_k": 40, "max_output_tokens": 1000}
-
-
-# -------------------- Optional OpenRouter judge backend --------------------
-# The free Gemini tier caps at a small daily-request quota per model (hit 429
-# with quotaId GenerateRequestsPerDayPerProjectPerModel-FreeTier, limit 20/day),
-# far below the ~420 calls this evaluation needs. When USE_OPENROUTER=1, route
-# judge calls through OpenRouter's vision-capable chat completions instead.
-
-def _use_openrouter_judge() -> bool:
-    return os.getenv("USE_OPENROUTER") == "1"
-
-
-def _openrouter_vision_judge(image_path: str, evaluation_prompt: str, max_retries: int = 3) -> str:
-    import json as _json
-    import base64 as _base64
-    import urllib.request as _urlreq
-
-    api_key = os.getenv("OPENROUTER_API_KEY")
-    if not api_key:
-        print("OPENROUTER_API_KEY not set")
-        return "error"
-    model = os.getenv("OPENROUTER_JUDGE_MODEL", "google/gemini-2.5-flash")
-    url = "https://openrouter.ai/api/v1/chat/completions"
-
-    try:
-        img_bytes = pathlib.Path(image_path).read_bytes()
-    except Exception as e:
-        print(f"Error reading image {image_path}: {e}")
-        return "error"
-    data_uri = "data:image/png;base64," + _base64.b64encode(img_bytes).decode("ascii")
-
-    payload = {
-        "model": model,
-        "messages": [{
-            "role": "user",
-            "content": [
-                {"type": "text", "text": evaluation_prompt},
-                {"type": "image_url", "image_url": {"url": data_uri}},
-            ],
-        }],
-        "temperature": 0.0,
-    }
-    data = _json.dumps(payload).encode("utf-8")
-    headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
-
-    for attempt in range(max_retries):
-        try:
-            req = _urlreq.Request(url, data=data, headers=headers)
-            with _urlreq.urlopen(req, timeout=float(os.getenv("OPENROUTER_TIMEOUT", "120"))) as resp:
-                body = _json.loads(resp.read().decode("utf-8"))
-            if isinstance(body, dict) and body.get("error"):
-                raise RuntimeError(str(body["error"]))
-            text = body["choices"][0]["message"]["content"].strip().lower()
-            if "yes" in text:
-                return "yes"
-            if "no" in text:
-                return "no"
-            print(f"Unexpected response: {text}")
-            return "error"
-        except Exception as e:
-            print(f"Error on attempt {attempt+1}: {e}")
-            if attempt < max_retries - 1:
-                time.sleep(2 ** attempt)
-                continue
-            return "error"
-    return "error"
 
 
 def evaluate_image_with_gemini(client, image_path: str, prompt: str, question: str, model_name: str, config: Dict[str, Any], max_retries: int = 3) -> str:
@@ -323,11 +256,7 @@ def main():
             error_count += 1
             continue
 
-        if _use_openrouter_judge():
-            evaluation_prompt = EVALUATION_PROMPT_TEMPLATE.format(prompt=prompt, question=question)
-            answer = _openrouter_vision_judge(str(image_path), evaluation_prompt)
-        else:
-            answer = evaluate_image_with_gemini(client, str(image_path), prompt, question, args.model, config)
+        answer = evaluate_image_with_gemini(client, str(image_path), prompt, question, args.model, config)
         if answer == 'yes':
             answer_binary = 1
             yes_count += 1

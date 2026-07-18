@@ -2,17 +2,6 @@ Step 2:
 Final Goal (Context): Four Construction Workers. Construction Worker A has a mustache. Construction Worker B is confused. Construction Worker C wears latex gloves. Construction Worker D has a suitcase in hand. Construction Worker A and Construction Worker B are one person crossing their arms and glaring while the other tries to talk with each other. Construction Worker C and Construction Worker D are shaking hands with each other.
 
 Placement (Compositional Blueprint):
-Cluster 1 upgrading; Cluster 2 remains placeholders.
+Filling in Cluster 1 (A, B); Cluster 2 (C, D) remains placeholders; no position changes.
 
-This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity.
-
-This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail.
-
-The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles, seams, and texture.
-
-The specific subjects are:
-A: Has a mustache; arms are crossed, body and gaze oriented toward B, glaring at B.
-B: Has a confused expression; body and gaze oriented toward A, talking to A.
-
-Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Exclusivity holds (Only A has a mustache and crossed arms, only B is confused). Placeholders C and D remain unchanged.
-Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail. The subjects now display natural, realistic human skin texture with visible pores and fine hairs. Their hair shows individual strands and realistic highlights. Their clothing has realistic fabric wrinkles, seams, and texture. The specific subjects are: A: Has a realistic mustache, arms are crossed, glaring at B with body and gaze oriented toward B. B: Has a confused expression, trying to talk to A with body and gaze oriented toward A. Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A has a mustache. Only B has a confused expression. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

@@ -36,10 +36,9 @@ def parse_args():
                        help="Input CSV file containing prompts (default: ../create_dataset/generated_prompts.csv)")
     parser.add_argument("--output", type=str, default="./sbs_prompts_results.csv",
                        help="Output CSV file path (default: ./sbs_prompts_results.csv)")
-    parser.add_argument("--model", type=str, default="gemini-flash-latest",
-                       choices=["gemini-flash-latest", "gemini-2.5-flash", "gemini-2.5-pro"],
-                       help="Gemini model name (default: gemini-flash-latest, which the free tier serves; "
-                            "gemini-2.5-flash is 404 for new keys and gemini-2.5-pro requires paid billing)")
+    parser.add_argument("--model", type=str, default="gemini-2.5-pro", 
+                       choices=["gemini-2.5-flash", "gemini-2.5-pro"],
+                       help="Gemini model name (default: gemini-2.5-flash)")
     parser.add_argument("--temperature", type=float, default=0.3, 
                        help="Temperature for generation (default: 0.3)")
     parser.add_argument("--max_tokens", type=int, default=None,
@@ -156,50 +155,12 @@ def validate_steps(steps: List[Dict], original_prompt: str) -> List[Dict]:
     
     return validated_steps
 
-# -------------------- Optional OpenRouter text backend --------------------
-# When USE_OPENROUTER=1, the CSP decomposition call is routed through OpenRouter
-# (default model google/gemini-2.5-pro) instead of the free Gemini tier, which
-# produced malformed decompositions (empty Placement/Action) on complex prompts.
-# Requires OPENROUTER_API_KEY. Default is OFF.
-
-def _use_openrouter_text() -> bool:
-    return os.getenv("USE_OPENROUTER") == "1"
-
-def _openrouter_chat(prompt: str, temperature: float = 0.3, max_tokens: int = None) -> str:
-    import json as _json
-    import urllib.request as _urlreq
-    import urllib.error as _urlerr
-
-    api_key = os.getenv("OPENROUTER_API_KEY")
-    if not api_key:
-        raise RuntimeError("USE_OPENROUTER=1 but OPENROUTER_API_KEY is not set")
-    url = "https://openrouter.ai/api/v1/chat/completions"
-    model = os.getenv("OPENROUTER_TEXT_MODEL", "google/gemini-2.5-pro")
-    payload = {
-        "model": model,
-        "messages": [{"role": "user", "content": prompt}],
-        "temperature": temperature,
-    }
-    if max_tokens:
-        payload["max_tokens"] = int(max_tokens)
-    data = _json.dumps(payload).encode("utf-8")
-    headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
-    req = _urlreq.Request(url, data=data, headers=headers)
-    try:
-        with _urlreq.urlopen(req, timeout=float(os.getenv("OPENROUTER_TIMEOUT", "180"))) as resp:
-            body = _json.loads(resp.read().decode("utf-8"))
-    except _urlerr.HTTPError as e:
-        raise RuntimeError(f"OpenRouter HTTP {e.code}: {e.read().decode('utf-8','replace')[:300]}")
-    if isinstance(body, dict) and body.get("error"):
-        raise RuntimeError(f"OpenRouter error: {body['error']}")
-    return body["choices"][0]["message"]["content"]
-
-def generate_sequential_steps(complex_prompt: str, base_template: str, model_name: str = "gemini-2.5-flash",
+def generate_sequential_steps(complex_prompt: str, base_template: str, model_name: str = "gemini-2.5-flash", 
                             temperature: float = 0.3, max_tokens: int = None) -> Dict[str, Any]:
-    """Generate step-by-step prompts using Gemini API (or OpenRouter if enabled)."""
-
-    # Initialize Gemini client (only needed for the Gemini path)
-    client = None if _use_openrouter_text() else initialize_gemini_client()
+    """Generate step-by-step prompts using Gemini API."""
+    
+    # Initialize Gemini client
+    client = initialize_gemini_client()
     
     # Create generation config with higher output limits
     if model_name == "gemini-2.5-pro":
@@ -232,30 +193,15 @@ def generate_sequential_steps(complex_prompt: str, base_template: str, model_nam
     for attempt in range(max_retries):
         try:
             print(f"      🔄 Attempt {attempt + 1}/{max_retries}")
-            if _use_openrouter_text():
-                # OpenRouter ignores Gemini's response_mime_type=json flag, so
-                # Pro emits the template as prose (which the parser can't segment).
-                # Force a strict JSON array keyed exactly as validate_steps reads.
-                json_instruction = (
-                    "\n\n---\nOUTPUT FORMAT (STRICT): Respond with ONLY a JSON array and nothing "
-                    "else -- no prose, no explanations, no markdown code fences. Each element is one "
-                    'step object with EXACTLY these three keys: "final_goal", "placement", '
-                    '"step_action". Include every step, in order.'
-                )
-                response_text = _openrouter_chat(
-                    full_prompt + json_instruction,
-                    temperature=temperature,
-                    max_tokens=config.get("max_output_tokens"),
-                ).strip()
-            else:
-                response = client.models.generate_content(
-                    model=model_name,
-                    contents=full_prompt,
-                    config=GenerateContentConfig(**config)
-                )
-                if not response or not response.text:
-                    raise ValueError("Empty response from Gemini API")
-                response_text = response.text.strip()
+            response = client.models.generate_content(
+                model=model_name,
+                contents=full_prompt,
+                config=GenerateContentConfig(**config)
+            )
+            if not response or not response.text:
+                raise ValueError("Empty response from Gemini API")
+            
+            response_text = response.text.strip()
             
             # --- START: ADDED DEBUG PRINT ---
             print("\n" + "="*30 + " RAW API RESPONSE (Attempt " + str(attempt + 1) + ") " + "="*30)

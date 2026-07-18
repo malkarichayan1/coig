@@ -2,14 +2,6 @@ Step 1:
 Final Goal (Context): Four Construction Workers. Construction Worker A has a mustache. Construction Worker B is confused. Construction Worker C wears latex gloves. Construction Worker D has a suitcase in hand. Construction Worker A and Construction Worker B are one person crossing their arms and glaring while the other tries to talk with each other. Construction Worker C and Construction Worker D are shaking hands with each other.
 
 Placement (Compositional Blueprint):
-Cluster 1 left; Cluster 2 right; Micro-Zones set; Gap Lane empty.
+Cluster 1 (A, B) left; Cluster 2 (C, D) right; Micro-Zones set; Gap Lane empty.
 
-This Step's Action: Place four matte-gray stand-ins (mannequins or gray morph-suit actors with blank masks) on a seamless studio background with soft studio lighting; no facial features, hair as single matte mass, clothing as plain gray forms; props are simple gray primitives.
-
-A: Arms crossed, body and gaze oriented toward B. Mustache is a simple gray shape on the upper lip.
-B: Talking pose with a confused gesture (e.g., slight head tilt), body and gaze oriented toward A.
-C: Right hand extended to shake hands, body and gaze oriented toward D. Hands are covered in a smooth gray form representing gloves.
-D: Left hand extended to shake hands with C, right hand grips a plain gray rectangular prism (suitcase), body and gaze oriented toward C.
-
-Each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR.
-Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic/waxy/smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.
+This Step's Action: Create real-world, photographed placeholders for each subject that look like a human artist’s block-in. Material: matte neutral gray mannequins / gray morph-suit actors with blank masks, photographed on a plain seamless with soft studio light. Faces: no pupils/irises/eyelashes/eyebrows/teeth. Hair: single matte mass. Clothing: plain gray forms. Props: simple gray primitives. A: arms crossed, body and gaze oriented toward B. Mustache is a flat gray shape on the upper lip. B: body and gaze oriented toward A, pose suggests talking and confusion (e.g., slight head tilt, open hand gesture). C: body and gaze oriented toward D, right hand extended to shake D's hand. Gloves are a smooth gray layer over the hand primitive. D: body and gaze oriented toward C, left hand grips a plain gray box (suitcase), right hand extended to shake C's hand. Composition guards: each person fully visible; slight yaw offsets; no silhouette overlap; Gap Lane empty; ABSOLUTELY NO COLOR. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic/waxy/smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

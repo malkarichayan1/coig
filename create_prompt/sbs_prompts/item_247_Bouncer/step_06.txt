@@ -1,7 +1,0 @@
-Step 6:
-Final Goal (Context): Four Bouncers. Bouncer A is joyful. Bouncer B has blue eyes. Bouncer C wears sunglasses. Bouncer D has camera in hand. Bouncer A and Bouncer B are having a fist bump with each other. Bouncer C and Bouncer D are waving to each other.
-
-Placement (Compositional Blueprint):
-Cluster 1 left; Cluster 2 right; Micro-Zones set; Gap Lane empty.
-
-This Step's Action: Continue building the scene (step 6)

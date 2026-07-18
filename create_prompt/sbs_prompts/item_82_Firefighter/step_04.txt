@@ -4,5 +4,4 @@ Final Goal (Context): Four Firefighters. Firefighter A has tattoos on ankle. Fir
 Placement (Compositional Blueprint):
 All subjects locked; Gap Lane empty.
 
-This Step's Action: Add a hyperrealistic background of the interior of a clean, well-lit fire station bay; integrate subtle contact shadows and highlights; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity is intact.
-Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.
+This Step's Action: Add the hyperrealistic background of an ambulance bay at a fire station; integrate subtle contact shadows/highlights; do not move or alter any person. Confirm each individual is fully visible, there is no cross-zone occlusion, and all exclusivity is intact. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

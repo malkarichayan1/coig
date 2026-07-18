@@ -2,15 +2,6 @@ Step 3:
 Final Goal (Context): Four Postal Workers. Postal Worker A wears sunglasses. Postal Worker B is joyful. Postal Worker C has an eyebrow piercing. Postal Worker D is worried. Postal Worker A and Postal Worker B are pointing an accusatory finger at the other with each other. Postal Worker C and Postal Worker D are shouting while the other looks away with each other.
 
 Placement (Compositional Blueprint):
-Cluster 2 (C, D) upgrading; Cluster 1 (A, B) locked.
+Cluster 2 (C, D) is being filled in; Cluster 1 (A, B) is locked; no position changes.
 
-This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is a photorealistic image with real human skin texture, visible skin pores, and natural hair strands. Use soft, even studio lighting. Do not move or alter the locked subjects A and B.
-
-The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture.
-
-The specific subjects are:
-C: Has a realistic metal eyebrow piercing, body and gaze oriented toward D, shouting at D.
-D: Has a worried expression, body oriented toward C but head is turned, looking away from C.
-
-Full Roll Call (LOCKED): A (sunglasses, pointing at B) & B (joyful, pointing at A) remain unchanged. Exclusivity holds: Only C has an eyebrow piercing. Only D is worried. No overlaps; Gap Lane empty.
-Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.
+This Step's Action: Convert the matte gray placeholders for C and D into hyperrealistic human subjects, positioned exactly in their original poses. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. Do not move or alter the locked subjects A and B. The new subjects (C and D) display natural, realistic human skin texture with visible pores. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: C: Has a realistic metal eyebrow piercing, shouting with an open mouth, with body and gaze oriented toward D. D: Has a worried expression, looking away from C. Full Roll Call (LOCKED): A (wearing sunglasses, pointing at B) & B (joyful, pointing at A) remain unchanged. Exclusivity: Only C has an eyebrow piercing. Only D is worried. No overlaps; Gap Lane empty.

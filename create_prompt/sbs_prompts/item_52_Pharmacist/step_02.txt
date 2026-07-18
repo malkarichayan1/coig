@@ -2,13 +2,6 @@ Step 2:
 Final Goal (Context): Four Pharmacists. Pharmacist A has green eyes. Pharmacist B wears earrings. Pharmacist C has tattoos on ankle. Pharmacist D has laptop in hand. Pharmacist A and Pharmacist B are giving a fist bump to each other. Pharmacist C and Pharmacist D are exchanging business cards with each other.
 
 Placement (Compositional Blueprint):
-Cluster 1 (A & B) upgrading; Cluster 2 (C & D) remains placeholders.
+Cluster 1 (A & B) upgrading; Cluster 2 (C & D) remains placeholders; no position changes.
 
-This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity.
-This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail.
-The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles and texture.
-The specific subjects are:
-A: Has green eyes; giving a fist bump to B, with body and gaze oriented toward B.
-B: Wears earrings; giving a fist bump to A, with body and gaze oriented toward A.
-Preserve all poses, Micro-Zones, spacing (≥ head-width), yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity: Only A has green eyes. Only B wears earrings.
-Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, f/2.2 aperture, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: A: Has green eyes; right fist extended to meet B's fist, body and gaze oriented toward B. B: Wears earrings; left fist extended to meet A's fist, body and gaze oriented toward A. Preserve all poses, Micro-Zones, and spacing. Placeholders C and D remain unchanged. Exclusivity holds: Only A has green eyes. Only B wears earrings. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.

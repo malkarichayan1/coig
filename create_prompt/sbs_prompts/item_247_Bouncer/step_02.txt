@@ -2,12 +2,6 @@ Step 2:
 Final Goal (Context): Four Bouncers. Bouncer A is joyful. Bouncer B has blue eyes. Bouncer C wears sunglasses. Bouncer D has camera in hand. Bouncer A and Bouncer B are having a fist bump with each other. Bouncer C and Bouncer D are waving to each other.
 
 Placement (Compositional Blueprint):
-Cluster 1 (A, B) upgrading; Cluster 2 (C, D) remains placeholders.
+Cluster 1 (A, B) is being filled-in; Cluster 2 (C, D) remains as placeholders. No positions are changed.
 
-This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity.
-This is a hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The subjects now display real human skin texture with visible skin pores, and their hair shows individual hair strands. Their clothing has realistic fabric wrinkles and texture.
-The specific subjects are:
-A: Has a joyful expression; body and gaze oriented toward B, right fist extended to fist bump B.
-B: Has blue eyes; body and gaze oriented toward A, left fist extended to fist bump A.
-Preserve all poses, Micro-Zones, spacing (≥ one head-width), and yaw; no silhouette overlap; Gap Lane empty. Placeholders C and D remain unchanged. Exclusivity holds (Only A is joyful, only B has blue eyes).
-Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.
+This Step's Action: Convert the matte gray placeholders for A and B into hyperrealistic human subjects, positioned exactly in their original poses without moving, rotating, or rescaling any entity. This is an ultra-detailed, professional hyperrealistic photograph shot on a high-resolution DSLR with an 85mm portrait lens, under soft, even studio lighting. The focus is sharp on the subjects' eyes. The conversion reintroduces natural color and fine micro-detail. The subjects now display natural, realistic human skin texture with visible pores. Their hair shows individual strands. Their clothing has realistic fabric wrinkles and texture. The specific subjects are: A: Has a joyful expression, right fist extended to meet B's fist, body and gaze oriented toward B. B: Has blue eyes, left fist extended to meet A's fist, body and gaze oriented toward A. Preserve all poses, Micro-Zones, and spacing. No silhouette overlap. The Gap Lane remains empty. Placeholders C and D remain unchanged. Exclusivity: Only A is joyful. Only B has blue eyes. Negative: cartoon, illustration, anime, CGI, 3D render, toon shading, line art/outlines, posterization, plastic skin, waxy skin, smoothed skin, exaggerated features, unnaturally symmetrical, airbrushed.
